@@ -1,0 +1,12 @@
+digraph abc_w_shape{
+node [shape="record"];
+edge [style="dashed"];
+
+a [style="filled",color="black",fillcolor="chartreuse"];
+b;
+c;
+d;
+a->b;
+b->d;
+c->d [color="red"];
+}

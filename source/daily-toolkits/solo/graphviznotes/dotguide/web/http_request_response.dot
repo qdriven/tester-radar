@@ -1,0 +1,18 @@
+digraph HttpReqResp {
+    
+    node [ fontname = "Microsoft YaHei", fontsize = 12, shape = "record" ]; 
+    edge [ fontname = "Microsoft YaHei", fontsize = 12 ];
+    
+    ClientA [label="ClientA"]
+    ClientB [label="ClientB"]
+    
+    node [shape="Mrecord", color="skyblue", style="filled"];
+    HttpWebServer [label="HttpWebServer"]
+
+    ClientA -> HttpWebServer [label="Request"]
+    HttpWebServer -> ClientA [label="Response"]
+    
+    ClientB -> HttpWebServer [label="Request"]
+    HttpWebServer -> ClientB [label="Response"]
+
+}

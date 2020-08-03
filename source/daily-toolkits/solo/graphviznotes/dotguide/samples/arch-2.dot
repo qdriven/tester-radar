@@ -1,0 +1,66 @@
+digraph {
+	fontname="Microsoft YaHei";
+    fontsize=10;
+    dir=LR;
+
+    graph [dpi=180];
+
+    node [shape="Mrecord", fontname="Consolas", fontsize=10];
+    edge [color="#05c3de", fontname="Consolas", fontsize=10];
+
+    chrome [shape="none", image="logos/browser-icon-chrome-resized.png", label=""];
+    firefox [shape="none", image="logos/browser-icon-firefox-resized.png", label=""];
+    
+	chrome -> squid;
+	firefox -> squid;
+
+	subgraph cluster_backend {
+		color="#009801";
+		fontcolor="#009801";
+		label="GIS backend";
+		//nginx [shape="none", image="logos/nginx_logo_resized.png", label=""];    
+		squid [shape="none", image="logos/squid_logo_resized.png", label=""];
+
+		subgraph cluster_wms {
+			color="#6BD06A";
+			fontcolor="#6BD06A";
+			label="Web Mapping Service";
+			wms1 [shape="none", image="logos/geoserver_logo_resized.png", label=""];
+			wms2 [shape="none", image="logos/geoserver_logo_resized.png", label=""];
+		}
+
+		subgraph cluster_wfs {
+			color="#363AA1";
+			fontcolor="#363AA1";
+			label="Web Feature Service";
+			wfs1 [shape="none", image="logos/geoserver_logo_resized.png", label=""];
+			wfs2 [shape="none", image="logos/geoserver_logo_resized.png", label=""];
+		}
+		
+		squid -> wfs1;
+
+		squid -> wms1;
+
+		wfs1 -> pgpool2;
+
+		wms1 -> pgpool2;
+
+		pgpool2 [shape="none", image="logos/pgpool_ii_logo_resized.png", label=""];
+
+		subgraph cluster_pg {
+			color="#326791";
+			fontcolor="#326791";
+			label="Spatial Database Cluster";
+			pg1 [shape="none", image="logos/postgresql_logo_resized.png", label=""];
+			pg2 [shape="none", image="logos/postgresql_logo_resized.png", label=""];
+			pg3 [shape="none", image="logos/postgresql_logo_resized.png", label=""];
+		}
+		
+		pgpool2 -> pg1;
+		pgpool2 -> pg2;
+		pgpool2 -> pg3;
+
+	}
+
+
+}

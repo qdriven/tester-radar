@@ -1,0 +1,11 @@
+digraph {
+	graph [bgcolor="#333333" fontcolor=white fontsize=16 label="A Fancy Graph" rankdir=BT]
+	node [color=white fillcolor="#006699" fontcolor=white fontname=Helvetica shape=hexagon style=filled]
+	edge [arrowhead=open color=white fontcolor=white fontname=Courier fontsize=12 style=dashed]
+		A [label="Node A"]
+		B [label="Node B"]
+		C
+			A -> B [label="Edge 1"]
+			A -> C [label="Edge 2"]
+			B -> C
+}

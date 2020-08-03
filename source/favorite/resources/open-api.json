@@ -1,0 +1,19 @@
+{
+    "http://www.tuling123.com/": "tuling-bot",
+    "https://www.pingxx.com/": "pingxx",
+    "https://www.dingtalk.com/index-b.html": "dingtalk",
+    "https://github.com/neovim/bot-ci": "neovim-bot-ci",
+    "https://github.com/teambition": "teambition",
+    "https://github.com/littlecodersh": "bot-coder",
+    "https://hubot.github.com/": "hubot",
+    "https://worktile.com/": "worklite",
+    "https://support.google.com/webmasters#topic=3309469": "googlebot",
+    "https://shimo.im/": "shimo",
+    "https://pubu.im/": "pubu",
+    "https://dev.botframework.com/": "ms-botframework",
+    "https://support.google.com/webmasters": "googlebot",
+    "http://www.jianshu.com/": "jianshu",
+    "https://api.slack.com/": "slack-bot",
+    "http://buildbot.net/": "buildbot",
+    "https://bearychat.com/": "bearychat"
+}

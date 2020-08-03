@@ -1,0 +1,17 @@
+digraph G {
+  fontname = "Courier New";
+  fontsize = 10;
+  node [ fontname = "Courier New", fontsize = 10, shape = "record" ];
+   edge [ fontname = "Courier New", fontsize = 10 ];
+   Animal [ label = "{Animal |+ name : Stringl |+ age : intl|+ die() : voidl}" ];
+     subgraph clusterAnimalImpl{
+           bgcolor="yellow"
+         Dog [ label = "{Dog||+ bark() : voidl}" ];
+         Cat [ label = "{Cat||+ meow() : voidl}" ];
+     };
+
+     edge [ arrowhead = "empty" ];
+     Dog->Animal;
+     Cat->Animal;
+     Dog->Cat [arrowhead="none", label="0..*"];
+}

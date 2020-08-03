@@ -1,0 +1,18 @@
+digraph {
+	A [label="Node A"]
+	B [label="Node B"]
+	C
+		A -> B [label="Edge 1"]
+		A -> C [label="Edge 2"]
+		B -> C
+	subgraph {
+		node [fillcolor="#cccccc" shape=square style=filled]
+			D [label="Node D"]
+			E [label="Node E"]
+			F
+				D -> E [label="Edge 3"]
+				D -> F [label="Edge 4"]
+				E -> F
+	}
+		B -> E [color=red weight=2]
+}

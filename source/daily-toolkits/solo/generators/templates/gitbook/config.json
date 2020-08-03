@@ -1,0 +1,7 @@
+{
+  "name": "{{book_name}}",
+  "introduction": "{{book_desc}}",
+  "path": {
+    "toc": "SUMMARY.md"
+  }
+}

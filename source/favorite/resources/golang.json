@@ -1,0 +1,8 @@
+{
+    "https://github.com/rakyll": "rakyll-github",
+    "https://tour.golang.org/": "go-tour",
+    "https://github.com/spf13": "spf13",
+    "https://rakyll.org/": "rakyll",
+    "https://github.com/GoesToEleven/bash_utlities.git": "simple-bash-utils",
+    "https://github.com/wandoulabs/codis.git": "codis"
+}

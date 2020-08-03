@@ -1,0 +1,11 @@
+graph hmc_graph{
+ "hmc01" -- "test520"
+    "test520" -- "lpar2"
+    "test520" -- "lpar3"
+ "hmc01" -- "test570"
+    "test570" -- "aixtest01"
+    "test570" -- "aixtest02"
+    "test570" -- "aixtest03"
+ "hmc01" -- "test510"
+    "test510" -- "lpar1"
+}

@@ -1,0 +1,15 @@
+digraph queue{
+    label="First In,First Out"
+    fontname ="verdana";
+    fontsize=12;
+    rankdir=TB;
+    node [fontname = "Verdana", fontsize = 12, color="skyblue", shape="record"];
+    edge [fontname = "Verdana", fontsize = 10, color="crimson", style="solid"];
+
+    queue [label="{<head>head|1|2|3|4|<tail>tail}"]; 
+    INPUT [label="put it to queue"]
+    OUTPUT [label ="move out of queue"]
+
+    INPUT -> queue:head [label ="PUSH"]
+    queue:tail -> OUTPUT [label ="POP"]
+}

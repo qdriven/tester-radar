@@ -1,0 +1,42 @@
+{
+    "author": "{{book_author}}",
+    "description": "{{book_desc}}",
+    "extension": null,
+    "generator": "site",
+    "links": {
+        "sharing": {
+            "all": null,
+            "facebook": null,
+            "google": null,
+            "twitter": null,
+            "weibo": null
+        },
+        "sidebar": {
+            "个人主页": "{{book_author_site}}",
+            "书籍源码": "{{book_sourcecode_url}}"
+        }
+    },
+    "output": null,
+    "pdf": {
+        "toc": true,
+        "fontSize": 12,
+        "footerTemplate": null,
+        "headerTemplate": null,
+        "margin": {
+            "bottom": 36,
+            "left": 62,
+            "right": 62,
+            "top": 36
+        },
+        "pageNumbers": true,
+        "paperSize": "a4"
+    },
+    "plugins": ["splitter"],
+    "pluginsConfig": {
+        "theme-default": {
+            "showLevel": false
+        }
+    },
+    "title": "{{book_name}}",
+    "variables": {}
+}
