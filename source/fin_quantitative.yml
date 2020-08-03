@@ -1,0 +1,20 @@
+sites:
+  - https://github.com/goodchinas/pyquant
+  - https://tushare.pro/
+  - http://baostock.com/
+  - https://pandas-datareader.readthedocs.io/en/latest/
+  - https://github.com/ccxt/ccxt
+  - http://liyangbit.com/
+  - https://github.com/liyangbit/PyDataRoad
+  - https://github.com/goodchinas/pyquant
+  - https://github.com/waditu
+books:
+  - Python for Finance，2014,Yves Hilpisch中文版：Python金融大数据分析，人民邮电出版社
+  - Mastering Python for Finance，2015，James Ma Weiming
+  - Personal Finance with Python，2018，Max Humber
+  - Python for Finance，2017，Yuxing Yan
+  -  Derivatives Analytics with Python，2015，Yves Hilpisch
+  - QuantEcon Lectures，2019，Thomas J. Sargent and John Stachurski
+  - 量化投资以Python为工具，2017，蔡立耑
+  - 零起点Python大数据与量化交易，2017，何海群
+  - 量化交易之路用Python做股票量化分析，2017，阿布

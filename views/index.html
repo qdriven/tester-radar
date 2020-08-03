@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>学习中遇到的GIT－REPOS</title>
+    <script src="assets/js/vue.min.js"></script>
+    <link rel="stylesheet" href="assets/materialcss/css/materialize.min.css"/>
+</head>
+<body>
+
+<!-- component template -->
+<script type="text/x-template" id="grid-template">
+    <table class="striped highlight left responsive-table">
+        <thead>
+        <tr>
+            <th v-for="key in columns"
+                @click="sortBy(key)"
+                :class="{active: sortKey == key}">
+                {{key | capitalize}}
+                <span class="arrow"
+                      :class="sortOrders[key] > 0 ? 'asc' : 'dsc'">
+              </span>
+            </th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr v-for="
+            entry in data
+            | filterBy filterKey
+            | orderBy sortKey sortOrders[sortKey]">
+            <td v-for="key in columns">
+                <a v-if="$index==0" href="{{entry[key]}}" target="_blank">{{entry[key]}}</a>
+                <span v-else>{{entry[key]}}</span>
+            </td>
+        </tr>
+        </tbody>
+    </table>
+</script>
+
+<!-- demo root element -->
+<div id="git_repositories">
+    <form id="search">
+        Search <input name="query" v-model="searchQuery">
+    </form>
+    <demo-grid
+            :data="repos"
+            :columns="columns"
+            :filter-key="searchQuery">
+    </demo-grid>
+</div>
+
+<script src="assets/js/repo.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,887 @@
+{
+  "python": [
+    {
+      "url": "https://github.com/tiangolo/fastapi",
+      "summary": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "stars": "9,561",
+      "forked": "550 ",
+      "today": "1,490 stars this month"
+    },
+    {
+      "url": "https://github.com/google/trax",
+      "summary": "Trax — your path to advanced deep learning",
+      "stars": "2,429",
+      "forked": "163 ",
+      "today": "1,739 stars this month"
+    },
+    {
+      "url": "https://github.com/smicallef/spiderfoot",
+      "summary": "SpiderFoot, the most complete OSINT collection and reconnaissance tool.",
+      "stars": "4,050",
+      "forked": "761 ",
+      "today": "1,517 stars this month"
+    },
+    {
+      "url": "https://github.com/openai/spinningup",
+      "summary": "An educational resource to help anyone learn deep reinforcement learning.",
+      "stars": "4,222",
+      "forked": "854 ",
+      "today": "466 stars this month"
+    },
+    {
+      "url": "https://github.com/bregman-arie/devops-exercises",
+      "summary": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization",
+      "stars": "4,590",
+      "forked": "536 ",
+      "today": "1,861 stars this month"
+    },
+    {
+      "url": "https://github.com/ReFirmLabs/binwalk",
+      "summary": "Firmware Analysis Tool",
+      "stars": "5,785",
+      "forked": "877 ",
+      "today": "492 stars this month"
+    },
+    {
+      "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+      "summary": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+      "stars": "12,416",
+      "forked": "3,905 ",
+      "today": "662 stars this month"
+    },
+    {
+      "url": "https://github.com/ProtonVPN/protonvpn-cli-ng",
+      "summary": "Linux command-line client for ProtonVPN. Written in Python.",
+      "stars": "376",
+      "forked": "65 ",
+      "today": "189 stars this month"
+    },
+    {
+      "url": "https://github.com/boto/boto3",
+      "summary": "AWS SDK for Python",
+      "stars": "5,188",
+      "forked": "1,108 ",
+      "today": "93 stars this month"
+    },
+    {
+      "url": "https://github.com/public-apis/public-apis",
+      "summary": "A collective list of free APIs for use in software and web development.",
+      "stars": "70,756",
+      "forked": "8,029 ",
+      "today": "1,837 stars this month"
+    },
+    {
+      "url": "https://github.com/django/django",
+      "summary": "The Web framework for perfectionists with deadlines.",
+      "stars": "47,238",
+      "forked": "20,378 ",
+      "today": "743 stars this month"
+    },
+    {
+      "url": "https://github.com/ansible/ansible",
+      "summary": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/",
+      "stars": "41,777",
+      "forked": "18,318 ",
+      "today": "464 stars this month"
+    },
+    {
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "summary": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "stars": "82,921",
+      "forked": "13,970 ",
+      "today": "2,328 stars this month"
+    },
+    {
+      "url": "https://github.com/localstack/localstack",
+      "summary": "💻",
+      "stars": "23,073",
+      "forked": "1,669 ",
+      "today": "621 stars this month"
+    },
+    {
+      "url": "https://github.com/pandas-dev/pandas",
+      "summary": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
+      "stars": "23,580",
+      "forked": "9,396 ",
+      "today": "552 stars this month"
+    },
+    {
+      "url": "https://github.com/facebook/prophet",
+      "summary": "Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.",
+      "stars": "10,228",
+      "forked": "2,693 ",
+      "today": "210 stars this month"
+    },
+    {
+      "url": "https://github.com/fishtown-analytics/dbt",
+      "summary": "dbt (data build tool) enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
+      "stars": "1,339",
+      "forked": "255 ",
+      "today": "79 stars this month"
+    },
+    {
+      "url": "https://github.com/pallets/flask",
+      "summary": "The Python micro framework for building web applications.",
+      "stars": "48,912",
+      "forked": "13,278 ",
+      "today": "558 stars this month"
+    },
+    {
+      "url": "https://github.com/pallets/werkzeug",
+      "summary": "The comprehensive WSGI web application library.",
+      "stars": "5,158",
+      "forked": "1,419 ",
+      "today": "62 stars this month"
+    },
+    {
+      "url": "https://github.com/pre-commit/pre-commit-hooks",
+      "summary": "Some out-of-the-box hooks for pre-commit",
+      "stars": "1,349",
+      "forked": "252 ",
+      "today": "83 stars this month"
+    },
+    {
+      "url": "https://github.com/ytdl-org/youtube-dl",
+      "summary": "Command-line program to download videos from YouTube.com and other video sites",
+      "stars": "61,701",
+      "forked": "10,692 ",
+      "today": "1,427 stars this month"
+    },
+    {
+      "url": "https://github.com/explosion/spaCy",
+      "summary": "💫",
+      "stars": "15,821",
+      "forked": "2,784 ",
+      "today": "324 stars this month"
+    },
+    {
+      "url": "https://github.com/drivendata/cookiecutter-data-science",
+      "summary": "A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.",
+      "stars": "2,920",
+      "forked": "1,019 ",
+      "today": "161 stars this month"
+    },
+    {
+      "url": "https://github.com/trailofbits/algo",
+      "summary": "Set up a personal VPN in the cloud",
+      "stars": "17,118",
+      "forked": "1,447 ",
+      "today": "666 stars this month"
+    },
+    {
+      "url": "https://github.com/tiangolo/full-stack-fastapi-postgresql",
+      "summary": "Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.",
+      "stars": "967",
+      "forked": "152 ",
+      "today": "146 stars this month"
+    }
+  ],
+  "java": [
+    {
+      "url": "https://github.com/williamfiset/Algorithms",
+      "summary": "A collection of algorithms and data structures",
+      "stars": "3,195",
+      "forked": "853 ",
+      "today": "1,022 stars this month"
+    },
+    {
+      "url": "https://github.com/awsdocs/aws-doc-sdk-examples",
+      "summary": "Welcome to the AWS Code Examples Repository. This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.rst file below.",
+      "stars": "2,149",
+      "forked": "1,544 ",
+      "today": "132 stars this month"
+    },
+    {
+      "url": "https://github.com/eugenp/tutorials",
+      "summary": "Just Announced - \"Learn Spring Security OAuth\":",
+      "stars": "19,515",
+      "forked": "30,335 ",
+      "today": "469 stars this month"
+    },
+    {
+      "url": "https://github.com/phodal/migration",
+      "summary": "《系统重构与迁移指南》手把手教你分析、评估现有系统、制定重构策略、探索可行重构方案、搭建测试防护网、进行系统架构重构、服务架构重构、模块重构、代码重构、数据库重构、重构后的架构守护",
+      "stars": "1,414",
+      "forked": "187 ",
+      "today": "942 stars this month"
+    },
+    {
+      "url": "https://github.com/quarkusio/quarkus",
+      "summary": "Quarkus: Supersonic Subatomic Java.",
+      "stars": "3,985",
+      "forked": "686 ",
+      "today": "259 stars this month"
+    },
+    {
+      "url": "https://github.com/zo0r/react-native-push-notification",
+      "summary": "React Native Local and Remote Notifications",
+      "stars": "4,583",
+      "forked": "1,362 ",
+      "today": "70 stars this month"
+    },
+    {
+      "url": "https://github.com/SeleniumHQ/selenium",
+      "summary": "A browser automation framework and ecosystem.",
+      "stars": "16,903",
+      "forked": "5,525 ",
+      "today": "278 stars this month"
+    },
+    {
+      "url": "https://github.com/TeamNewPipe/NewPipe",
+      "summary": "A libre lightweight streaming front-end for Android.",
+      "stars": "7,685",
+      "forked": "1,141 ",
+      "today": "462 stars this month"
+    },
+    {
+      "url": "https://github.com/careercup/CtCI-6th-Edition",
+      "summary": "Cracking the Coding Interview 6th Ed. Solutions",
+      "stars": "6,017",
+      "forked": "2,746 ",
+      "today": "188 stars this month"
+    },
+    {
+      "url": "https://github.com/jenkinsci/configuration-as-code-plugin",
+      "summary": "Jenkins Configuration as Code Plugin",
+      "stars": "1,542",
+      "forked": "341 ",
+      "today": "49 stars this month"
+    },
+    {
+      "url": "https://github.com/spring-projects/spring-petclinic",
+      "summary": "A sample Spring-based application",
+      "stars": "3,879",
+      "forked": "8,218 ",
+      "today": "95 stars this month"
+    },
+    {
+      "url": "https://github.com/trojan-gfw/igniter",
+      "summary": "A trojan client for Android (UNDER CONSTRUCTION).",
+      "stars": "625",
+      "forked": "201 ",
+      "today": "259 stars this month"
+    },
+    {
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "summary": "Ghidra is a software reverse engineering (SRE) framework",
+      "stars": "19,560",
+      "forked": "2,537 ",
+      "today": "645 stars this month"
+    },
+    {
+      "url": "https://github.com/theonedev/onedev",
+      "summary": "Super Easy All-In-One DevOps Platform",
+      "stars": "2,539",
+      "forked": "97 ",
+      "today": "2,307 stars this month"
+    },
+    {
+      "url": "https://github.com/intuit/karate",
+      "summary": "Test Automation Made Simple",
+      "stars": "2,847",
+      "forked": "734 ",
+      "today": "170 stars this month"
+    },
+    {
+      "url": "https://github.com/alibaba/COLA",
+      "summary": "Clean Object-oriented & Layered Architecture",
+      "stars": "1,696",
+      "forked": "520 ",
+      "today": "287 stars this month"
+    },
+    {
+      "url": "https://github.com/OpenAPITools/openapi-generator",
+      "summary": "OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)",
+      "stars": "4,466",
+      "forked": "1,593 ",
+      "today": "290 stars this month"
+    },
+    {
+      "url": "https://github.com/rishabh115/Interview-Questions",
+      "summary": "Most comprehensive list",
+      "stars": "1,767",
+      "forked": "550 ",
+      "today": "131 stars this month"
+    },
+    {
+      "url": "https://github.com/keycloak/keycloak",
+      "summary": "Open Source Identity and Access Management For Modern Applications and Services",
+      "stars": "5,288",
+      "forked": "2,485 ",
+      "today": "195 stars this month"
+    },
+    {
+      "url": "https://github.com/liferay/liferay-portal",
+      "summary": "Java",
+      "stars": "1,521",
+      "forked": "2,523 ",
+      "today": "18 stars this month"
+    },
+    {
+      "url": "https://github.com/junit-team/junit5",
+      "summary": "The next generation of JUnit.",
+      "stars": "3,724",
+      "forked": "848 ",
+      "today": "80 stars this month"
+    },
+    {
+      "url": "https://github.com/dbeaver/dbeaver",
+      "summary": "Free universal database tool and SQL client",
+      "stars": "12,080",
+      "forked": "1,064 ",
+      "today": "381 stars this month"
+    },
+    {
+      "url": "https://github.com/graphql-java/graphql-java",
+      "summary": "GraphQL Java implementation",
+      "stars": "4,020",
+      "forked": "729 ",
+      "today": "70 stars this month"
+    },
+    {
+      "url": "https://github.com/tomakehurst/wiremock",
+      "summary": "A tool for mocking HTTP services",
+      "stars": "3,669",
+      "forked": "985 ",
+      "today": "65 stars this month"
+    },
+    {
+      "url": "https://github.com/prestosql/presto",
+      "summary": "Official home of the community managed version of Presto, the distributed SQL query engine for big data, under the auspices of the Presto Software Foundation.",
+      "stars": "885",
+      "forked": "393 ",
+      "today": "52 stars this month"
+    }
+  ],
+  "golang": [
+    {
+      "url": "https://github.com/getlantern/lantern",
+      "summary": "Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 lantern proxy vpn censorship-circumvention censorship gfw accelerator",
+      "stars": "1,381",
+      "forked": "10,289 ",
+      "today": "706 stars this month"
+    },
+    {
+      "url": "https://github.com/hashicorp/terraform",
+      "summary": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "stars": "20,790",
+      "forked": "5,457 ",
+      "today": "473 stars this month"
+    },
+    {
+      "url": "https://github.com/github/hub",
+      "summary": "A command-line tool that makes git easier to use with GitHub.",
+      "stars": "18,769",
+      "forked": "1,978 ",
+      "today": "483 stars this month"
+    },
+    {
+      "url": "https://github.com/fyne-io/fyne",
+      "summary": "Cross platform GUI in Go based on Material Design",
+      "stars": "8,641",
+      "forked": "368 ",
+      "today": "1,119 stars this month"
+    },
+    {
+      "url": "https://github.com/tinygo-org/tinygo",
+      "summary": "Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.",
+      "stars": "5,658",
+      "forked": "258 ",
+      "today": "450 stars this month"
+    },
+    {
+      "url": "https://github.com/v2ray/v2ray-core",
+      "summary": "A platform for building proxies to bypass network restrictions.",
+      "stars": "27,534",
+      "forked": "6,264 ",
+      "today": "1,336 stars this month"
+    },
+    {
+      "url": "https://github.com/terraform-providers/terraform-provider-aws",
+      "summary": "Terraform AWS provider",
+      "stars": "3,776",
+      "forked": "3,443 ",
+      "today": "197 stars this month"
+    },
+    {
+      "url": "https://github.com/hunterlong/statping",
+      "summary": "Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.",
+      "stars": "2,348",
+      "forked": "167 ",
+      "today": "447 stars this month"
+    },
+    {
+      "url": "https://github.com/pusher/oauth2_proxy",
+      "summary": "A reverse proxy that provides authentication with Google, Github or other providers.",
+      "stars": "1,375",
+      "forked": "297 ",
+      "today": "114 stars this month"
+    },
+    {
+      "url": "https://github.com/helm/helm",
+      "summary": "The Kubernetes Package Manager",
+      "stars": "16,228",
+      "forked": "4,983 ",
+      "today": "418 stars this month"
+    },
+    {
+      "url": "https://github.com/helm/charts",
+      "summary": "Curated applications for Kubernetes",
+      "stars": "12,063",
+      "forked": "12,985 ",
+      "today": "406 stars this month"
+    },
+    {
+      "url": "https://github.com/kubernetes/kops",
+      "summary": "Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management",
+      "stars": "10,858",
+      "forked": "3,369 ",
+      "today": "311 stars this month"
+    },
+    {
+      "url": "https://github.com/cortexlabs/cortex",
+      "summary": "Deploy machine learning models in production",
+      "stars": "3,381",
+      "forked": "234 ",
+      "today": "883 stars this month"
+    },
+    {
+      "url": "https://github.com/DataDog/datadog-agent",
+      "summary": "Datadog Agent",
+      "stars": "718",
+      "forked": "389 ",
+      "today": "32 stars this month"
+    },
+    {
+      "url": "https://github.com/docker/cli",
+      "summary": "The Docker CLI",
+      "stars": "1,935",
+      "forked": "962 ",
+      "today": "100 stars this month"
+    },
+    {
+      "url": "https://github.com/google/go-github",
+      "summary": "Go library for accessing the GitHub API",
+      "stars": "5,517",
+      "forked": "1,231 ",
+      "today": "109 stars this month"
+    },
+    {
+      "url": "https://github.com/golang/mock",
+      "summary": "GoMock is a mocking framework for the Go programming language.",
+      "stars": "3,768",
+      "forked": "328 ",
+      "today": "215 stars this month"
+    },
+    {
+      "url": "https://github.com/hashicorp/vault",
+      "summary": "A tool for secrets management, encryption as a service, and privileged access management",
+      "stars": "15,010",
+      "forked": "2,281 ",
+      "today": "208 stars this month"
+    },
+    {
+      "url": "https://github.com/terraform-providers/terraform-provider-azurerm",
+      "summary": "Terraform provider for Azure Resource Manager",
+      "stars": "1,414",
+      "forked": "1,389 ",
+      "today": "69 stars this month"
+    },
+    {
+      "url": "https://github.com/containers/libpod",
+      "summary": "libpod is a library used to create container pods. Home of Podman.",
+      "stars": "4,014",
+      "forked": "467 ",
+      "today": "216 stars this month"
+    },
+    {
+      "url": "https://github.com/rebuy-de/aws-nuke",
+      "summary": "Nuke a whole AWS account and delete all its resources.",
+      "stars": "897",
+      "forked": "157 ",
+      "today": "58 stars this month"
+    },
+    {
+      "url": "https://github.com/99designs/gqlgen",
+      "summary": "go generate based graphql server library",
+      "stars": "3,988",
+      "forked": "373 ",
+      "today": "203 stars this month"
+    },
+    {
+      "url": "https://github.com/perkeep/perkeep",
+      "summary": "Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.",
+      "stars": "4,643",
+      "forked": "351 ",
+      "today": "192 stars this month"
+    },
+    {
+      "url": "https://github.com/golang/go",
+      "summary": "The Go programming language",
+      "stars": "69,036",
+      "forked": "9,817 ",
+      "today": "1,171 stars this month"
+    },
+    {
+      "url": "https://github.com/terraform-providers/terraform-provider-google",
+      "summary": "Terraform Google Cloud Platform provider",
+      "stars": "971",
+      "forked": "731 ",
+      "today": "45 stars this month"
+    }
+  ],
+  "javascript": [
+    {
+      "url": "https://github.com/gothinkster/realworld",
+      "summary": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more",
+      "stars": "36,717",
+      "forked": "2,765 ",
+      "today": "1,857 stars this month"
+    },
+    {
+      "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+      "summary": "🛁",
+      "stars": "32,659",
+      "forked": "3,798 ",
+      "today": "3,658 stars this month"
+    },
+    {
+      "url": "https://github.com/0wczar/airframe-react",
+      "summary": "Free Open Source High Quality Dashboard based on Bootstrap 4 & React 16: http://dashboards.webkom.co/react/airframe",
+      "stars": "2,403",
+      "forked": "239 ",
+      "today": "359 stars this month"
+    },
+    {
+      "url": "https://github.com/chakra-ui/chakra-ui",
+      "summary": "⚡️",
+      "stars": "4,938",
+      "forked": "284 ",
+      "today": "793 stars this month"
+    },
+    {
+      "url": "https://github.com/gatsbyjs/gatsby",
+      "summary": "Build blazing fast, modern apps and websites with React",
+      "stars": "42,274",
+      "forked": "7,320 ",
+      "today": "871 stars this month"
+    },
+    {
+      "url": "https://github.com/adam-p/markdown-here",
+      "summary": "Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.",
+      "stars": "43,817",
+      "forked": "7,747 ",
+      "today": "848 stars this month"
+    },
+    {
+      "url": "https://github.com/zeit/next.js",
+      "summary": "The React Framework",
+      "stars": "45,056",
+      "forked": "6,346 ",
+      "today": "1,013 stars this month"
+    },
+    {
+      "url": "https://github.com/airbnb/javascript",
+      "summary": "JavaScript Style Guide",
+      "stars": "92,664",
+      "forked": "17,997 ",
+      "today": "933 stars this month"
+    },
+    {
+      "url": "https://github.com/cypress-io/cypress",
+      "summary": "Fast, easy and reliable testing for anything that runs in a browser.",
+      "stars": "18,388",
+      "forked": "1,086 ",
+      "today": "767 stars this month"
+    },
+    {
+      "url": "https://github.com/laurent22/joplin",
+      "summary": "Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/",
+      "stars": "12,868",
+      "forked": "1,191 ",
+      "today": "841 stars this month"
+    },
+    {
+      "url": "https://github.com/puppeteer/puppeteer",
+      "summary": "Headless Chrome Node.js API",
+      "stars": "58,654",
+      "forked": "5,843 ",
+      "today": "1,105 stars this month"
+    },
+    {
+      "url": "https://github.com/bchiang7/v4",
+      "summary": "Fourth iteration of my personal website",
+      "stars": "765",
+      "forked": "346 ",
+      "today": "172 stars this month"
+    },
+    {
+      "url": "https://github.com/facebook/create-react-app",
+      "summary": "Set up a modern web app by running one command.",
+      "stars": "76,116",
+      "forked": "18,171 ",
+      "today": "964 stars this month"
+    },
+    {
+      "url": "https://github.com/facebook/react-native",
+      "summary": "A framework for building native apps with React.",
+      "stars": "84,940",
+      "forked": "18,971 ",
+      "today": "867 stars this month"
+    },
+    {
+      "url": "https://github.com/gothinkster/react-redux-realworld-example-app",
+      "summary": "Exemplary real world application built with React + Redux",
+      "stars": "3,825",
+      "forked": "1,267 ",
+      "today": "117 stars this month"
+    },
+    {
+      "url": "https://github.com/serverless/examples",
+      "summary": "Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.",
+      "stars": "6,879",
+      "forked": "2,485 ",
+      "today": "202 stars this month"
+    },
+    {
+      "url": "https://github.com/jeffersonRibeiro/react-shopping-cart",
+      "summary": "🛍️",
+      "stars": "1,167",
+      "forked": "610 ",
+      "today": "87 stars this month"
+    },
+    {
+      "url": "https://github.com/system-ui/theme-ui",
+      "summary": "Build consistent, themeable React apps based on constraint-based design principles",
+      "stars": "1,836",
+      "forked": "187 ",
+      "today": "229 stars this month"
+    },
+    {
+      "url": "https://github.com/facebook/react",
+      "summary": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+      "stars": "143,844",
+      "forked": "27,633 ",
+      "today": "1,582 stars this month"
+    },
+    {
+      "url": "https://github.com/alpinejs/alpine",
+      "summary": "A rugged, minimal framework for composing JavaScript behavior in your markup.",
+      "stars": "3,455",
+      "forked": "130 ",
+      "today": "1,296 stars this month"
+    },
+    {
+      "url": "https://github.com/AzureAD/microsoft-authentication-library-for-js",
+      "summary": "Microsoft Authentication Library (MSAL) for JS",
+      "stars": "790",
+      "forked": "506 ",
+      "today": "73 stars this month"
+    },
+    {
+      "url": "https://github.com/serverless/serverless",
+      "summary": "Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –",
+      "stars": "34,437",
+      "forked": "3,946 ",
+      "today": "580 stars this month"
+    },
+    {
+      "url": "https://github.com/chrisvfritz/vue-enterprise-boilerplate",
+      "summary": "An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI 3.",
+      "stars": "5,377",
+      "forked": "850 ",
+      "today": "250 stars this month"
+    },
+    {
+      "url": "https://github.com/da2k/curso-javascript-ninja",
+      "summary": "Curso Javascript Ninja",
+      "stars": "1,569",
+      "forked": "2,380 ",
+      "today": "50 stars this month"
+    },
+    {
+      "url": "https://github.com/lando/lando",
+      "summary": "A local development and DevOps tool for all your projects that is fast, easy, powerful and liberating",
+      "stars": "1,967",
+      "forked": "356 ",
+      "today": "140 stars this month"
+    }
+  ],
+  "kotlin": [
+    {
+      "url": "https://github.com/2dust/v2rayNG",
+      "summary": "Kotlin",
+      "stars": "3,499",
+      "forked": "735 ",
+      "today": "612 stars this month"
+    },
+    {
+      "url": "https://github.com/DroidKaigi/conference-app-2020",
+      "summary": "The Official Conference App for DroidKaigi 2020 Tokyo",
+      "stars": "539",
+      "forked": "291 ",
+      "today": "271 stars this month"
+    },
+    {
+      "url": "https://github.com/JetBrains/JetBrainsMono",
+      "summary": "JetBrains Mono – the free and open-source typeface for developers",
+      "stars": "2,570",
+      "forked": "47 ",
+      "today": "1,927 stars this month"
+    },
+    {
+      "url": "https://github.com/Kotlin/kotlinx.serialization",
+      "summary": "Kotlin multiplatform / multi-format serialization",
+      "stars": "1,852",
+      "forked": "150 ",
+      "today": "113 stars this month"
+    },
+    {
+      "url": "https://github.com/topjohnwu/Magisk",
+      "summary": "A Magic Mask to Alter Android System Systemless-ly",
+      "stars": "9,482",
+      "forked": "1,575 ",
+      "today": "414 stars this month"
+    },
+    {
+      "url": "https://github.com/mozilla-mobile/fenix",
+      "summary": "Firefox Preview",
+      "stars": "3,094",
+      "forked": "400 ",
+      "today": "212 stars this month"
+    },
+    {
+      "url": "https://github.com/shadowsocks/shadowsocks-android",
+      "summary": "A shadowsocks client for Android",
+      "stars": "28,756",
+      "forked": "10,893 ",
+      "today": "454 stars this month"
+    },
+    {
+      "url": "https://github.com/cashapp/sqldelight",
+      "summary": "SQLDelight - Generates typesafe Kotlin APIs from SQL",
+      "stars": "3,032",
+      "forked": "234 ",
+      "today": "74 stars this month"
+    },
+    {
+      "url": "https://github.com/home-assistant/home-assistant-android",
+      "summary": "📱",
+      "stars": "442",
+      "forked": "94 ",
+      "today": "107 stars this month"
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin",
+      "summary": "The Kotlin Programming Language",
+      "stars": "30,728",
+      "forked": "3,690 ",
+      "today": "420 stars this month"
+    },
+    {
+      "url": "https://github.com/gedoor/legado",
+      "summary": "阅读3.0",
+      "stars": "199",
+      "forked": "44 ",
+      "today": "118 stars this month"
+    },
+    {
+      "url": "https://github.com/arrow-kt/arrow",
+      "summary": "Functional companion to Kotlin's Standard Library",
+      "stars": "3,364",
+      "forked": "291 ",
+      "today": "98 stars this month"
+    },
+    {
+      "url": "https://github.com/JakeWharton/timber",
+      "summary": "A logger with a small, extensible API which provides utility on top of Android's normal Log class.",
+      "stars": "7,781",
+      "forked": "770 ",
+      "today": "106 stars this month"
+    },
+    {
+      "url": "https://github.com/arturbosch/detekt",
+      "summary": "Static code analysis for Kotlin",
+      "stars": "2,663",
+      "forked": "321 ",
+      "today": "75 stars this month"
+    },
+    {
+      "url": "https://github.com/mamoe/mirai",
+      "summary": "全开源 QQ机器人/QQ协议支持库 Protocol library for Tencent QQ/TIM",
+      "stars": "409",
+      "forked": "59 ",
+      "today": "126 stars this month"
+    },
+    {
+      "url": "https://github.com/ExpediaGroup/graphql-kotlin",
+      "summary": "Libraries for running a GraphQL server in Kotlin",
+      "stars": "456",
+      "forked": "82 ",
+      "today": "43 stars this month"
+    },
+    {
+      "url": "https://github.com/ahmedeltaher/MVVM-Kotlin-Android-Architecture",
+      "summary": "MVVM + Kotlin + Retrofit2 + Dagger2 + Coroutines + MVP + Kotlin-Android-Extensions + RX-java + Mockk + Espresso + Junit5",
+      "stars": "375",
+      "forked": "108 ",
+      "today": "61 stars this month"
+    },
+    {
+      "url": "https://github.com/pinterest/ktlint",
+      "summary": "An anti-bikeshedding Kotlin linter with built-in formatter",
+      "stars": "3,098",
+      "forked": "239 ",
+      "today": "76 stars this month"
+    },
+    {
+      "url": "https://github.com/mozilla-mobile/android-components",
+      "summary": "A collection of Android libraries to build browsers or browser-like applications.",
+      "stars": "1,218",
+      "forked": "270 ",
+      "today": "51 stars this month"
+    },
+    {
+      "url": "https://github.com/google-developer-training/android-kotlin-fundamentals-apps",
+      "summary": "android-kotlin-fundamentals-apps",
+      "stars": "261",
+      "forked": "377 ",
+      "today": "35 stars this month"
+    },
+    {
+      "url": "https://github.com/corda/corda",
+      "summary": "Corda is an open source blockchain project, designed for business from the start. Only Corda allows you to build interoperable blockchain networks that transact in strict privacy. Corda's smart contract technology allows businesses to transact directly, with value.",
+      "stars": "3,194",
+      "forked": "884 ",
+      "today": "32 stars this month"
+    },
+    {
+      "url": "https://github.com/android10/Android-CleanArchitecture-Kotlin",
+      "summary": "This is a movies sample app in Kotlin, which is part of a serie of blog posts I have written about architecting android application using different approaches.",
+      "stars": "2,275",
+      "forked": "453 ",
+      "today": "61 stars this month"
+    },
+    {
+      "url": "https://github.com/ktorio/ktor",
+      "summary": "Framework for quickly creating connected applications in Kotlin with minimal effort",
+      "stars": "6,316",
+      "forked": "501 ",
+      "today": "183 stars this month"
+    },
+    {
+      "url": "https://github.com/h4h13/RetroMusicPlayer",
+      "summary": "Best material design music player for Android",
+      "stars": "576",
+      "forked": "156 ",
+      "today": "40 stars this month"
+    },
+    {
+      "url": "https://github.com/Ccixyj/JBusDriver",
+      "summary": "这是去幼儿园的班车(滑稽",
+      "stars": "1,475",
+      "forked": "190 ",
+      "today": "63 stars this month"
+    }
+  ]
+}

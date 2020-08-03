@@ -1,0 +1,930 @@
+{
+  "https://github.com/lidatong/dataclasses-json": {
+    "name": "lidatong/dataclasses-json",
+    "url": "https://github.com/lidatong/dataclasses-json",
+    "stars": 424,
+    "topics": [
+      "dataclasses",
+      "json",
+      "python"
+    ],
+    "desc": "Easily serialize Data Classes to and from JSON",
+    "forks": 59,
+    "languages": {
+      "Python": 118968,
+      "Shell": 210
+    }
+  },
+  "https://github.com/makerdao/market-maker-keeper": {
+    "name": "makerdao/market-maker-keeper",
+    "url": "https://github.com/makerdao/market-maker-keeper",
+    "stars": 286,
+    "topics": [
+      "ethereum",
+      "maker-keeper",
+      "dai",
+      "stablecoin"
+    ],
+    "desc": "Maker Keeper Framework: Market maker keepers for OasisDEX, EtherDelta, 0x (RadarRelay, ERCdEX), Paradex, DDEX, IDEX, Bibox, Ethfinex, GoPax, HitBTC, TheOcean, OKEX and Gate.io.",
+    "forks": 116,
+    "languages": {
+      "Python": 628714,
+      "Shell": 11000,
+      "Dockerfile": 536
+    }
+  },
+  "https://github.com/makerdao/simple-arbitrage-keeper": {
+    "name": "makerdao/simple-arbitrage-keeper",
+    "url": "https://github.com/makerdao/simple-arbitrage-keeper",
+    "stars": 18,
+    "topics": [],
+    "desc": "Arbitrage Keeper on OasisDEX and Uniswap ",
+    "forks": 13,
+    "languages": {
+      "Python": 24842,
+      "Shell": 216
+    }
+  },
+  "https://github.com/Uniswap/uniswap-api": {
+    "name": "Uniswap/uniswap-api",
+    "url": "https://github.com/Uniswap/uniswap-api",
+    "stars": 28,
+    "topics": [
+      "uniswap",
+      "api"
+    ],
+    "desc": "\ud83d\udd2e Uniswap market data",
+    "forks": 16,
+    "languages": {
+      "TypeScript": 118611
+    }
+  },
+  "https://github.com/sigillabs/mobidex": {
+    "name": "sigillabs/mobidex",
+    "url": "https://github.com/sigillabs/mobidex",
+    "stars": 55,
+    "topics": [
+      "erc20",
+      "dex",
+      "decentralized",
+      "decentralized-exchange",
+      "dapp",
+      "cryptocurrency",
+      "uniswap"
+    ],
+    "desc": "Mobile trustless trading through Uniswap",
+    "forks": 26,
+    "languages": {
+      "JavaScript": 283806,
+      "Java": 28792,
+      "Swift": 20746,
+      "Objective-C": 6932,
+      "Ruby": 4977,
+      "Shell": 2843,
+      "Starlark": 1908,
+      "Kotlin": 1138
+    }
+  },
+  "https://github.com/Uniswap/uniswap-info": {
+    "name": "Uniswap/uniswap-info",
+    "url": "https://github.com/Uniswap/uniswap-info",
+    "stars": 53,
+    "topics": [],
+    "desc": "\u2139\ufe0f Uniswap analytics.",
+    "forks": 62,
+    "languages": {
+      "JavaScript": 343062,
+      "TypeScript": 2564,
+      "HTML": 1564
+    }
+  },
+  "https://github.com/facert/awesome-spider": {
+    "name": "facert/awesome-spider",
+    "url": "https://github.com/facert/awesome-spider",
+    "stars": 13529,
+    "topics": [
+      "spider",
+      "python",
+      "awesome"
+    ],
+    "desc": "\u722c\u866b\u96c6\u5408",
+    "forks": 3600,
+    "languages": {}
+  },
+  "https://github.com/TheJambo/awesome-testing": {
+    "name": "TheJambo/awesome-testing",
+    "url": "https://github.com/TheJambo/awesome-testing",
+    "stars": 477,
+    "topics": [
+      "testing",
+      "tester",
+      "naughty-strings",
+      "awesome-list",
+      "awesome",
+      "list"
+    ],
+    "desc": "A curated list of testing resources",
+    "forks": 63,
+    "languages": {}
+  },
+  "https://github.com/abhivaikar/howtheytest": {
+    "name": "abhivaikar/howtheytest",
+    "url": "https://github.com/abhivaikar/howtheytest",
+    "stars": 198,
+    "topics": [
+      "testing",
+      "companies",
+      "testing-practices",
+      "quality",
+      "culture",
+      "software-testing",
+      "software-quality",
+      "quality-engineering",
+      "knowledge-sharing",
+      "knowledge",
+      "test-engineering"
+    ],
+    "desc": "A collection of public resources about how software companies test their software",
+    "forks": 41,
+    "languages": {
+      "HTML": 1126
+    }
+  },
+  "https://github.com/pyrogram/pyrogram": {
+    "name": "pyrogram/pyrogram",
+    "url": "https://github.com/pyrogram/pyrogram",
+    "stars": 1140,
+    "topics": [
+      "telegram",
+      "mtproto",
+      "api",
+      "client",
+      "library",
+      "python",
+      "telegram-api",
+      "pyrogram",
+      "framework",
+      "telegram-client",
+      "telegram-desktop",
+      "mtproxy",
+      "client-library",
+      "python-library",
+      "python-telegram-bot",
+      "userbot",
+      "bot",
+      "mtproto-schema",
+      "tdlib",
+      "bots"
+    ],
+    "desc": "Telegram MTProto API Client Library and Framework for Python",
+    "forks": 249,
+    "languages": {
+      "Python": 1713737,
+      "PLpgSQL": 1673
+    }
+  },
+  "https://github.com/mdrichardson/FUTpuppeteer": {
+    "name": "mdrichardson/FUTpuppeteer",
+    "url": "https://github.com/mdrichardson/FUTpuppeteer",
+    "stars": 12,
+    "topics": [
+      "fifa",
+      "fut",
+      "selenium",
+      "python",
+      "bot"
+    ],
+    "desc": "This is an auto-clicker bot used to trade players and items on FIFA Ultimate Team's Web App.",
+    "forks": 2,
+    "languages": {
+      "Python": 402091
+    }
+  },
+  "https://github.com/puppeteer/recorder": {
+    "name": "puppeteer/recorder",
+    "url": "https://github.com/puppeteer/recorder",
+    "stars": 29,
+    "topics": [],
+    "desc": null,
+    "forks": 1,
+    "languages": {
+      "TypeScript": 27504,
+      "JavaScript": 2013,
+      "HTML": 331
+    }
+  },
+  "https://github.com/cheat/cheat": {
+    "name": "cheat/cheat",
+    "url": "https://github.com/cheat/cheat",
+    "stars": 6192,
+    "topics": [
+      "cheatsheets",
+      "interactive-cheatsheets",
+      "man-page",
+      "documentation",
+      "help"
+    ],
+    "desc": "cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.",
+    "forks": 633,
+    "languages": {
+      "Go": 74672,
+      "Shell": 4515,
+      "Makefile": 4164
+    }
+  },
+  "https://github.com/contribsys/faktory": {
+    "name": "contribsys/faktory",
+    "url": "https://github.com/contribsys/faktory",
+    "stars": 3932,
+    "topics": [],
+    "desc": "Language-agnostic persistent background job server",
+    "forks": 163,
+    "languages": {
+      "Go": 1164972,
+      "CSS": 45968,
+      "Ruby": 8340,
+      "Shell": 6753,
+      "Makefile": 6723,
+      "HTML": 1180,
+      "Dockerfile": 276
+    }
+  },
+  "https://github.com/daizutabi/mkapi": {
+    "name": "daizutabi/mkapi",
+    "url": "https://github.com/daizutabi/mkapi",
+    "stars": 25,
+    "topics": [
+      "api-documentation",
+      "markdown",
+      "mkdocs-plugin"
+    ],
+    "desc": "A documentation generation tool for MkDocs.",
+    "forks": 6,
+    "languages": {
+      "Python": 143481,
+      "CSS": 8938,
+      "HTML": 6049,
+      "JavaScript": 199
+    }
+  },
+  "https://github.com/libplctag/libplctag": {
+    "name": "libplctag/libplctag",
+    "url": "https://github.com/libplctag/libplctag",
+    "stars": 233,
+    "topics": [
+      "plc",
+      "c",
+      "cip",
+      "ethernet",
+      "rockwell",
+      "portable",
+      "ethernet-ip",
+      "linux",
+      "windows",
+      "allen-bradley",
+      "c-sharp",
+      "pascal",
+      "java",
+      "pccc",
+      "golang",
+      "go",
+      "labview",
+      "modbus"
+    ],
+    "desc": "This C library provides a portable and simple API for accessing Allen-Bradley PLC data over Ethernet.  ",
+    "forks": 108,
+    "languages": {
+      "C": 1180100,
+      "C++": 55124,
+      "Java": 32367,
+      "Python": 18871,
+      "CMake": 17949,
+      "Pascal": 10737,
+      "Go": 10150,
+      "Makefile": 2417,
+      "Shell": 758
+    }
+  },
+  "https://github.com/dmroeder/pylogix": {
+    "name": "dmroeder/pylogix",
+    "url": "https://github.com/dmroeder/pylogix",
+    "stars": 211,
+    "topics": [],
+    "desc": "Read/Write data from Allen Bradley Compact/Control Logix PLC's",
+    "forks": 104,
+    "languages": {
+      "Python": 161856
+    }
+  },
+  "https://github.com/leicht/TuxPLC": {
+    "name": "leicht/TuxPLC",
+    "url": "https://github.com/leicht/TuxPLC",
+    "stars": 67,
+    "topics": [],
+    "desc": "Set of softwares allowing communication with industrial PLC",
+    "forks": 35,
+    "languages": {
+      "C": 699810,
+      "Java": 66539,
+      "C++": 32403,
+      "Objective-C": 11263,
+      "PHP": 5158,
+      "Shell": 5037,
+      "CMake": 3836,
+      "HTML": 594,
+      "QMake": 436
+    }
+  },
+  "https://github.com/gaynertechnical/python-tuxeip": {
+    "name": "gaynertechnical/python-tuxeip",
+    "url": "https://github.com/gaynertechnical/python-tuxeip",
+    "stars": 6,
+    "topics": [],
+    "desc": "Python ctype wrapper for TuxEIP",
+    "forks": 2,
+    "languages": {
+      "Python": 9714
+    }
+  },
+  "https://github.com/pjkundert/cpppo": {
+    "name": "pjkundert/cpppo",
+    "url": "https://github.com/pjkundert/cpppo",
+    "stars": 209,
+    "topics": [],
+    "desc": "Communications Protocol Python Parser and Originator -- EtherNet/IP CIP",
+    "forks": 81,
+    "languages": {
+      "Python": 1189865,
+      "C": 20513,
+      "Shell": 12853,
+      "Makefile": 10953,
+      "Ruby": 5561,
+      "Dockerfile": 4889
+    }
+  },
+  "https://github.com/HorizenOfficial/Sidechains-SDK": {
+    "name": "HorizenOfficial/Sidechains-SDK",
+    "url": "https://github.com/HorizenOfficial/Sidechains-SDK",
+    "stars": 29,
+    "topics": [],
+    "desc": null,
+    "forks": 26,
+    "languages": {
+      "Scala": 1465340,
+      "Java": 432932,
+      "Python": 171896,
+      "Shell": 6986,
+      "Dockerfile": 1913
+    }
+  },
+  "https://github.com/audreyfeldroy/cookiecutter-pypackage": {
+    "name": "audreyfeldroy/cookiecutter-pypackage",
+    "url": "https://github.com/audreyfeldroy/cookiecutter-pypackage",
+    "stars": 2631,
+    "topics": [],
+    "desc": "Cookiecutter template for a Python package.",
+    "forks": 1263,
+    "languages": {
+      "Python": 25736,
+      "Makefile": 3608,
+      "Batchfile": 829
+    }
+  },
+  "https://github.com/wso2/product-ei": {
+    "name": "wso2/product-ei",
+    "url": "https://github.com/wso2/product-ei",
+    "stars": 254,
+    "topics": [
+      "integration",
+      "middleware",
+      "wso2",
+      "esb",
+      "messaging",
+      "business-process",
+      "services",
+      "rest",
+      "api",
+      "soap",
+      "synapse"
+    ],
+    "desc": "An open source, a high-performance hybrid integration platform that allows developers quick integration with any application, data, or system.",
+    "forks": 229,
+    "languages": {
+      "Java": 8931393,
+      "JavaScript": 5980272,
+      "Shell": 376002,
+      "TSQL": 308110,
+      "CSS": 233470,
+      "Batchfile": 144771,
+      "HTML": 110657,
+      "XSLT": 38219,
+      "Ballerina": 22977,
+      "PLSQL": 16634,
+      "PLpgSQL": 12825,
+      "Ruby": 11897
+    }
+  },
+  "https://github.com/CiscoTestAutomation/examples": {
+    "name": "CiscoTestAutomation/examples",
+    "url": "https://github.com/CiscoTestAutomation/examples",
+    "stars": 27,
+    "topics": [],
+    "desc": "pyATS | Library Usages, Examples & etc",
+    "forks": 13,
+    "languages": {
+      "HTML": 13586773,
+      "Python": 266077,
+      "RobotFramework": 14959
+    }
+  },
+  "https://github.com/constverum/ProxyBroker": {
+    "name": "constverum/ProxyBroker",
+    "url": "https://github.com/constverum/ProxyBroker",
+    "stars": 2147,
+    "topics": [
+      "proxy",
+      "anonymity",
+      "privacy",
+      "socks",
+      "http-proxy",
+      "crawler",
+      "proxy-server",
+      "anonymous",
+      "proxy-checker",
+      "proxy-list",
+      "proxypool",
+      "proxies"
+    ],
+    "desc": "Proxy [Finder | Checker | Server]. HTTP(S) & SOCKS :performing_arts:",
+    "forks": 523,
+    "languages": {
+      "Python": 139071
+    }
+  },
+  "https://github.com/gaojiuli/toapi": {
+    "name": "gaojiuli/toapi",
+    "url": "https://github.com/gaojiuli/toapi",
+    "stars": 3038,
+    "topics": [
+      "html",
+      "json",
+      "api",
+      "python",
+      "web",
+      "spider",
+      "crawler",
+      "flask",
+      "toapi"
+    ],
+    "desc": "Every web site provides APIs.",
+    "forks": 214,
+    "languages": {
+      "Python": 9769
+    }
+  },
+  "https://github.com/BruceDone/awesome-crawler": {
+    "name": "BruceDone/awesome-crawler",
+    "url": "https://github.com/BruceDone/awesome-crawler",
+    "stars": 4195,
+    "topics": [
+      "web-crawler",
+      "crawler",
+      "web-scraper",
+      "spider",
+      "node-crawler",
+      "scraper",
+      "awesome"
+    ],
+    "desc": "A collection of awesome web crawler,spider in different languages",
+    "forks": 536,
+    "languages": {}
+  },
+  "https://github.com/yujiosaka/headless-chrome-crawler": {
+    "name": "yujiosaka/headless-chrome-crawler",
+    "url": "https://github.com/yujiosaka/headless-chrome-crawler",
+    "stars": 4675,
+    "topics": [
+      "headless-chrome",
+      "puppeteer",
+      "jquery",
+      "crawler",
+      "crawling",
+      "scraper",
+      "scraping",
+      "chrome",
+      "chromium",
+      "promise"
+    ],
+    "desc": "Distributed crawler powered by Headless Chrome",
+    "forks": 339,
+    "languages": {
+      "JavaScript": 114727
+    }
+  },
+  "https://github.com/s0md3v/Photon": {
+    "name": "s0md3v/Photon",
+    "url": "https://github.com/s0md3v/Photon",
+    "stars": 6767,
+    "topics": [
+      "crawler",
+      "spider",
+      "python",
+      "osint",
+      "information-gathering"
+    ],
+    "desc": "Incredibly fast crawler designed for OSINT.",
+    "forks": 925,
+    "languages": {
+      "Python": 41396,
+      "Dockerfile": 428
+    }
+  },
+  "https://github.com/guyueyingmu/avbook": {
+    "name": "guyueyingmu/avbook",
+    "url": "https://github.com/guyueyingmu/avbook",
+    "stars": 7070,
+    "topics": [
+      "javbus",
+      "avmoo",
+      "javlibrary",
+      "spider",
+      "crawler",
+      "laravel",
+      "scraper",
+      "adult",
+      "magnet-link",
+      "magnet",
+      "database",
+      "adult-video",
+      "guzzlehttp"
+    ],
+    "desc": "AV \u7535\u5f71\u7ba1\u7406\u7cfb\u7edf\uff0c avmoo , javbus , javlibrary \u722c\u866b\uff0c\u7ebf\u4e0a AV \u5f71\u7247\u56fe\u4e66\u9986\uff0cAV \u78c1\u529b\u94fe\u63a5\u6570\u636e\u5e93\uff0cJapanese Adult Video Library,Adult Video Magnet Links - Japanese Adult Video Database",
+    "forks": 1820,
+    "languages": {
+      "PHP": 374254,
+      "HTML": 171273,
+      "CSS": 569,
+      "Vue": 552
+    }
+  },
+  "https://github.com/wechaty/wechaty-getting-started": {
+    "name": "wechaty/wechaty-getting-started",
+    "url": "https://github.com/wechaty/wechaty-getting-started",
+    "stars": 280,
+    "topics": [
+      "wechaty",
+      "bot",
+      "video-tutorial",
+      "getting-started",
+      "wechat",
+      "chatbot"
+    ],
+    "desc": "Wechaty Starter Project Template that works out-of-the-box",
+    "forks": 129,
+    "languages": {
+      "JavaScript": 1553
+    }
+  },
+  "https://github.com/lauripiispanen/most-active-github-users-counter": {
+    "name": "lauripiispanen/most-active-github-users-counter",
+    "url": "https://github.com/lauripiispanen/most-active-github-users-counter",
+    "stars": 452,
+    "topics": [],
+    "desc": "CLI tool that queries the GitHub GraphQL API for users and ranks them according to number of contributions",
+    "forks": 126,
+    "languages": {
+      "Go": 35763
+    }
+  },
+  "https://github.com/yangfuhai/jboot": {
+    "name": "yangfuhai/jboot",
+    "url": "https://github.com/yangfuhai/jboot",
+    "stars": 615,
+    "topics": [
+      "jfinal",
+      "undertow",
+      "jboot",
+      "motan",
+      "grpc",
+      "activemq",
+      "rabbitmq",
+      "redismq",
+      "thrift",
+      "metrics",
+      "ehcache",
+      "redis"
+    ],
+    "desc": "\u4e00\u4e2a\u4f18\u96c5\u7684\u5fae\u670d\u52a1\u6846\u67b6\uff0cSpringCloud \u4e4b\u5916\u7684\u53e6\u4e00\u4e2a\u9009\u62e9\uff0c\u5df2\u7ecf\u4f7f\u7528\u5728\u7528\u6237\u91cf\u8fc7\u4ebf\u7684\u5546\u4e1a\u4ea7\u54c1\u4e0a\uff0c\u6709\u8d85\u8fc71000\u5bb6\u516c\u53f8\u5728\u4f7f\u7528Jboot\u505a\u6781\u901f\u5f00\u53d1...",
+    "forks": 209,
+    "languages": {
+      "Java": 1368822,
+      "HTML": 6775,
+      "TSQL": 4598
+    }
+  },
+  "https://github.com/davemachado/public-api": {
+    "name": "davemachado/public-api",
+    "url": "https://github.com/davemachado/public-api",
+    "stars": 464,
+    "topics": [],
+    "desc": "Public API for the public-apis Github project",
+    "forks": 62,
+    "languages": {
+      "Go": 19699,
+      "Python": 1700,
+      "Makefile": 844,
+      "Dockerfile": 328,
+      "Shell": 266
+    }
+  },
+  "https://github.com/shurcooL/githubv4": {
+    "name": "shurcooL/githubv4",
+    "url": "https://github.com/shurcooL/githubv4",
+    "stars": 673,
+    "topics": [
+      "go",
+      "github",
+      "graphql",
+      "client"
+    ],
+    "desc": "Package githubv4 is a client library for accessing GitHub GraphQL API v4 (https://developer.github.com/v4/).",
+    "forks": 45,
+    "languages": {
+      "Go": 29778
+    }
+  },
+  "https://github.com/brettcannon/gidgethub": {
+    "name": "brettcannon/gidgethub",
+    "url": "https://github.com/brettcannon/gidgethub",
+    "stars": 205,
+    "topics": [
+      "python",
+      "github",
+      "async",
+      "sans-io",
+      "treq",
+      "twisted",
+      "tornado",
+      "aiohttp",
+      "httpx"
+    ],
+    "desc": "An async GitHub API library for Python",
+    "forks": 32,
+    "languages": {
+      "Python": 111416,
+      "Shell": 423
+    }
+  },
+  "https://github.com/cenkalti/darbe": {
+    "name": "cenkalti/darbe",
+    "url": "https://github.com/cenkalti/darbe",
+    "stars": 18,
+    "topics": [],
+    "desc": "RDS MySQL replication setup tool",
+    "forks": 3,
+    "languages": {
+      "Python": 18919
+    }
+  },
+  "https://github.com/argoai/argoverse-api": {
+    "name": "argoai/argoverse-api",
+    "url": "https://github.com/argoai/argoverse-api",
+    "stars": 294,
+    "topics": [],
+    "desc": "Official GitHub repository for Argoverse dataset",
+    "forks": 80,
+    "languages": {
+      "Python": 557348,
+      "Shell": 379
+    }
+  },
+  "https://github.com/mozilla/agithub": {
+    "name": "mozilla/agithub",
+    "url": "https://github.com/mozilla/agithub",
+    "stars": 341,
+    "topics": [],
+    "desc": "Agnostic Github client API -- An EDSL for connecting to REST servers",
+    "forks": 66,
+    "languages": {
+      "Python": 34949
+    }
+  },
+  "https://github.com/anchore/anchore-engine": {
+    "name": "anchore/anchore-engine",
+    "url": "https://github.com/anchore/anchore-engine",
+    "stars": 986,
+    "topics": [
+      "docker",
+      "containers",
+      "security",
+      "python",
+      "static-analysis",
+      "vulnerabilities",
+      "docker-image",
+      "anchore-engine",
+      "dockerhub",
+      "whitelist"
+    ],
+    "desc": "A service that analyzes docker images and applies user-defined acceptance policies to allow automated container image validation and certification",
+    "forks": 167,
+    "languages": {
+      "Python": 2599423,
+      "Shell": 15589,
+      "Dockerfile": 8386,
+      "Makefile": 7995,
+      "C": 3889
+    }
+  },
+  "https://github.com/halcy/Mastodon.py": {
+    "name": "halcy/Mastodon.py",
+    "url": "https://github.com/halcy/Mastodon.py",
+    "stars": 397,
+    "topics": [],
+    "desc": "Python wrapper for the Mastodon ( https://github.com/tootsuite/mastodon/ ) API.",
+    "forks": 84,
+    "languages": {
+      "Python": 224136,
+      "TSQL": 4145
+    }
+  },
+  "https://github.com/FinMind/FinMind": {
+    "name": "FinMind/FinMind",
+    "url": "https://github.com/FinMind/FinMind",
+    "stars": 946,
+    "topics": [
+      "python",
+      "financial-data",
+      "stock-prices",
+      "gold-price",
+      "api",
+      "exchange-rates",
+      "interest-rates",
+      "crude-oil",
+      "r"
+    ],
+    "desc": "Open Data, more than 50 financial data. \u63d0\u4f9b\u8d85\u904e 50 \u500b\u91d1\u878d\u8cc7\u6599\uff0c\u6bcf\u5929\u66f4\u65b0 https://finmind.github.io/",
+    "forks": 174,
+    "languages": {
+      "Python": 64734,
+      "Makefile": 919
+    }
+  },
+  "https://github.com/ansible-community/ara": {
+    "name": "ansible-community/ara",
+    "url": "https://github.com/ansible-community/ara",
+    "stars": 1051,
+    "topics": [
+      "ansible",
+      "ara",
+      "python",
+      "api",
+      "reporting",
+      "django",
+      "django-rest-framework",
+      "gui",
+      "interface"
+    ],
+    "desc": "ARA Records Ansible playbooks and makes them easier to understand and troubleshoot. This is the GitHub mirror for https://opendev.org/recordsansible/ara.",
+    "forks": 97,
+    "languages": {
+      "Python": 281922,
+      "HTML": 41172,
+      "Shell": 7038,
+      "CSS": 4701
+    }
+  },
+  "https://github.com/dataabc/weiboSpider": {
+    "name": "dataabc/weiboSpider",
+    "url": "https://github.com/dataabc/weiboSpider",
+    "stars": 2634,
+    "topics": [
+      "weibo",
+      "weibospider",
+      "python",
+      "python3",
+      "help-wanted"
+    ],
+    "desc": "\u65b0\u6d6a\u5fae\u535a\u722c\u866b\uff0c\u7528python\u722c\u53d6\u65b0\u6d6a\u5fae\u535a\u6570\u636e",
+    "forks": 859,
+    "languages": {
+      "Python": 70518
+    }
+  },
+  "https://github.com/smicallef/spiderfoot": {
+    "name": "smicallef/spiderfoot",
+    "url": "https://github.com/smicallef/spiderfoot",
+    "stars": 4704,
+    "topics": [
+      "reconnaissance",
+      "footprinting",
+      "osint",
+      "threatintel",
+      "python",
+      "infosec",
+      "intelligence-gathering"
+    ],
+    "desc": "SpiderFoot automates OSINT collection so that you can focus on analysis.",
+    "forks": 913,
+    "languages": {
+      "Python": 1718774,
+      "JavaScript": 31669,
+      "Dockerfile": 2106,
+      "CSS": 1644,
+      "Shell": 594
+    }
+  },
+  "https://github.com/xingag/spider_python": {
+    "name": "xingag/spider_python",
+    "url": "https://github.com/xingag/spider_python",
+    "stars": 495,
+    "topics": [
+      "python",
+      "python3",
+      "urllib",
+      "requests",
+      "scrapy",
+      "xpath",
+      "bs4"
+    ],
+    "desc": "python\u722c\u866b",
+    "forks": 301,
+    "languages": {
+      "Python": 175622,
+      "JavaScript": 4295,
+      "Rich Text Format": 1419,
+      "TSQL": 1137
+    }
+  },
+  "https://github.com/Python3WebSpider/Python3WebSpider": {
+    "name": "Python3WebSpider/Python3WebSpider",
+    "url": "https://github.com/Python3WebSpider/Python3WebSpider",
+    "stars": 514,
+    "topics": [
+      "python3",
+      "webspider"
+    ],
+    "desc": "Source File of My Book related to WebSpider",
+    "forks": 267,
+    "languages": {}
+  },
+  "https://github.com/luyishisi/Anti-Anti-Spider": {
+    "name": "luyishisi/Anti-Anti-Spider",
+    "url": "https://github.com/luyishisi/Anti-Anti-Spider",
+    "stars": 6381,
+    "topics": [
+      "python",
+      "spider",
+      "geek"
+    ],
+    "desc": "\u8d8a\u6765\u8d8a\u591a\u7684\u7f51\u7ad9\u5177\u6709\u53cd\u722c\u866b\u7279\u6027\uff0c\u6709\u7684\u7528\u56fe\u7247\u9690\u85cf\u5173\u952e\u6570\u636e\uff0c\u6709\u7684\u4f7f\u7528\u53cd\u4eba\u7c7b\u7684\u9a8c\u8bc1\u7801\uff0c\u5efa\u7acb\u53cd\u53cd\u722c\u866b\u7684\u4ee3\u7801\u4ed3\u5e93\uff0c\u901a\u8fc7\u4e0e\u4e0d\u540c\u7279\u6027\u7684\u7f51\u7ad9\u505a\u6597\u4e89\uff08\u65e0\u6076\u610f\uff09\u63d0\u9ad8\u6280\u672f\u3002\uff08\u6b22\u8fce\u63d0\u4ea4\u96be\u4ee5\u91c7\u96c6\u7684\u7f51\u7ad9\uff09\uff08\u56e0\u5de5\u4f5c\u539f\u56e0\uff0c\u9879\u76ee\u6682\u505c\uff09 ",
+    "forks": 2136,
+    "languages": {
+      "Python": 3672782,
+      "TSQL": 1046563,
+      "Shell": 2906
+    }
+  },
+  "https://github.com/rstacruz/cheatsheets": {
+    "name": "rstacruz/cheatsheets",
+    "url": "https://github.com/rstacruz/cheatsheets",
+    "stars": 9214,
+    "topics": [],
+    "desc": "My cheatsheets",
+    "forks": 2392,
+    "languages": {
+      "CSS": 74318,
+      "HTML": 25698,
+      "JavaScript": 24094,
+      "Ruby": 6922,
+      "Python": 3305,
+      "Shell": 1547,
+      "Dockerfile": 425,
+      "Makefile": 366
+    }
+  },
+  "https://github.com/jarontai/express-vue-admin": {
+    "name": "jarontai/express-vue-admin",
+    "url": "https://github.com/jarontai/express-vue-admin",
+    "stars": 46,
+    "topics": [
+      "nodejs",
+      "express",
+      "vue2",
+      "admin",
+      "admin-dashboard",
+      "vue",
+      "iview",
+      "sequelize",
+      "scaffold",
+      "fullstack",
+      "vuetify"
+    ],
+    "desc": "Minimal admin application build with Node.js and Vue. \u4f7f\u7528 Node.js, Vue \u5f00\u53d1\u7684\u7ba1\u7406\u540e\u53f0\u811a\u624b\u67b6\u9879\u76ee.",
+    "forks": 14,
+    "languages": {
+      "JavaScript": 62718,
+      "Vue": 39263,
+      "HTML": 344
+    }
+  }
+}

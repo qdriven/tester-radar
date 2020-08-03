@@ -1,0 +1,5 @@
+urls:
+  - https://github.com/ansible/ansible-blog-examples.git
+  - https://github.com/geerlingguy/ansible-for-devops.git
+  - https://github.com/Orain/ansible-playbook.git
+  - https://github.com/taoprogramer/AnsiblePower.git

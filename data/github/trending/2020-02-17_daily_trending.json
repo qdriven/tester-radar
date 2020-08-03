@@ -1,0 +1,887 @@
+{
+  "python": [
+    {
+      "url": "https://github.com/jackzhenguo/python-small-examples",
+      "summary": "Python有趣的小例子一网打尽。Python基础、Python坑点、Python字符串和正则、Python绘图、Python日期和文件、Web开发、数据科学、机器学习、深度学习、TensorFlow、Pytorch，一切都是简单易懂的小例子。",
+      "stars": "2,209",
+      "forked": "473 ",
+      "today": "107 "
+    },
+    {
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "summary": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "stars": "82,921",
+      "forked": "13,970 ",
+      "today": "136 "
+    },
+    {
+      "url": "https://github.com/tychxn/jd-assistant",
+      "summary": "京东抢购助手：包含登录，查询商品库存/价格，添加/清空购物车，抢购商品(下单)，查询订单等功能",
+      "stars": "1,207",
+      "forked": "335 ",
+      "today": "60 "
+    },
+    {
+      "url": "https://github.com/sebastianruder/NLP-progress",
+      "summary": "Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.",
+      "stars": "14,555",
+      "forked": "2,477 ",
+      "today": "25 "
+    },
+    {
+      "url": "https://github.com/snooppr/snoop",
+      "summary": "Snoop — инструмент разведки на основе открытых данных",
+      "stars": "241",
+      "forked": "50 ",
+      "today": "120 "
+    },
+    {
+      "url": "https://github.com/sherlock-project/sherlock",
+      "summary": "🔎",
+      "stars": "10,366",
+      "forked": "997 ",
+      "today": "15 "
+    },
+    {
+      "url": "https://github.com/the0demiurge/ShadowSocksShare",
+      "summary": "Python爬虫/Flask网站/免费ShadowSocks账号/ssr订阅/json 订阅",
+      "stars": "2,572",
+      "forked": "1,036 ",
+      "today": "4 "
+    },
+    {
+      "url": "https://github.com/DarLiner/Algorithm_Interview_Notes-Chinese",
+      "summary": "2018/2019/校招/春招/秋招/自然语言处理(NLP)/深度学习(Deep Learning)/机器学习(Machine Learning)/C/C++/Python/面试笔记，此外，还包括创建者看到的所有机器学习/深度学习面经中的问题。 除了其中 DL/ML 相关的，其他与算法岗相关的计算机知识也会记录。 但是不会包括如前端/测试/JAVA/Android等岗位中有关的问题。",
+      "stars": "396",
+      "forked": "146 ",
+      "today": "6 "
+    },
+    {
+      "url": "https://github.com/Rapptz/discord.py",
+      "summary": "An API wrapper for Discord written in Python.",
+      "stars": "4,224",
+      "forked": "1,272 ",
+      "today": "6 "
+    },
+    {
+      "url": "https://github.com/3b1b/manim",
+      "summary": "Animation engine for explanatory math videos",
+      "stars": "16,956",
+      "forked": "2,042 ",
+      "today": "23 "
+    },
+    {
+      "url": "https://github.com/iperov/DeepFaceLab",
+      "summary": "DeepFaceLab is the leading software for creating deepfakes.",
+      "stars": "12,485",
+      "forked": "2,872 ",
+      "today": "23 "
+    },
+    {
+      "url": "https://github.com/vaexio/vaex",
+      "summary": "Out-of-Core DataFrames for Python, ML, visualize and explore big tabular data at a billion rows per second.",
+      "stars": "2,926",
+      "forked": "202 ",
+      "today": "30 "
+    },
+    {
+      "url": "https://github.com/PyJun/Mooc_Downloader",
+      "summary": "学无止下载器，慕课下载器，Mooc下载，中国大学下载，爱课程下载，网易云课堂下载，学堂在线下载；支持视频，课件同时下载",
+      "stars": "431",
+      "forked": "138 ",
+      "today": "32 "
+    },
+    {
+      "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+      "summary": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+      "stars": "15,231",
+      "forked": "2,713 ",
+      "today": "26 "
+    },
+    {
+      "url": "https://github.com/django/django",
+      "summary": "The Web framework for perfectionists with deadlines.",
+      "stars": "47,238",
+      "forked": "20,378 ",
+      "today": "42 "
+    },
+    {
+      "url": "https://github.com/slavfox/Cozette",
+      "summary": "A bitmap programming font optimized for coziness",
+      "stars": "217",
+      "forked": "2 ",
+      "today": "85 "
+    },
+    {
+      "url": "https://github.com/TheComeUpCode/SpotifyGeneratePlaylist",
+      "summary": "Python",
+      "stars": "21",
+      "forked": "14 ",
+      "today": "5 "
+    },
+    {
+      "url": "https://github.com/theja-m/Data-Structures-and-Algorithms",
+      "summary": "Data Structures and Algorithms in Python",
+      "stars": "20",
+      "forked": "16 ",
+      "today": "7 "
+    },
+    {
+      "url": "https://github.com/zhongxinghong/PKUAutoElective",
+      "summary": "北大选课网补退选阶段自动选课小工具",
+      "stars": "172",
+      "forked": "88 ",
+      "today": "33 "
+    },
+    {
+      "url": "https://github.com/qilingframework/qiling",
+      "summary": "Qiling Advanced Binary Emulation framework",
+      "stars": "531",
+      "forked": "83 ",
+      "today": "17 "
+    },
+    {
+      "url": "https://github.com/deeppomf/DeepCreamPy",
+      "summary": "Decensoring Hentai with Deep Neural Networks",
+      "stars": "8,939",
+      "forked": "969 ",
+      "today": "9 "
+    },
+    {
+      "url": "https://github.com/sergree/matchering",
+      "summary": "🎚️",
+      "stars": "93",
+      "forked": "25 ",
+      "today": "11 "
+    },
+    {
+      "url": "https://github.com/apachecn/AiLearning",
+      "summary": "AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP",
+      "stars": "23,184",
+      "forked": "8,065 ",
+      "today": "27 "
+    },
+    {
+      "url": "https://github.com/Gallopsled/pwntools",
+      "summary": "CTF framework and exploit development library",
+      "stars": "6,224",
+      "forked": "1,157 ",
+      "today": "6 "
+    },
+    {
+      "url": "https://github.com/HyperSine/forensic-qqtoken",
+      "summary": "QQ安全中心 - 动态口令的生成算法",
+      "stars": "59",
+      "forked": "8 ",
+      "today": "9 "
+    }
+  ],
+  "java": [
+    {
+      "url": "https://github.com/CyC2018/CS-Notes",
+      "summary": "📚",
+      "stars": "91,022",
+      "forked": "29,415 ",
+      "today": "113 "
+    },
+    {
+      "url": "https://github.com/eugenp/tutorials",
+      "summary": "Just Announced - \"Learn Spring Security OAuth\":",
+      "stars": "19,515",
+      "forked": "30,335 ",
+      "today": "19 "
+    },
+    {
+      "url": "https://github.com/Snailclimb/JavaGuide",
+      "summary": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+      "stars": "68,923",
+      "forked": "23,565 ",
+      "today": "62 "
+    },
+    {
+      "url": "https://github.com/newbee-ltd/newbee-mall",
+      "summary": "newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。",
+      "stars": "2,150",
+      "forked": "532 ",
+      "today": "44 "
+    },
+    {
+      "url": "https://github.com/hussien89aa/AndroidTutorialForBeginners",
+      "summary": "Step by step to build Android apps using Android Studio",
+      "stars": "2,922",
+      "forked": "5,060 ",
+      "today": "4 "
+    },
+    {
+      "url": "https://github.com/AntennaPod/AntennaPod",
+      "summary": "A podcast manager for Android",
+      "stars": "2,682",
+      "forked": "795 ",
+      "today": "2 "
+    },
+    {
+      "url": "https://github.com/flutter/flutter-intellij",
+      "summary": "Flutter makes it easy and fast to build beautiful mobile apps.",
+      "stars": "987",
+      "forked": "159 ",
+      "today": "2 "
+    },
+    {
+      "url": "https://github.com/rishabh115/Interview-Questions",
+      "summary": "Most comprehensive list",
+      "stars": "1,767",
+      "forked": "550 ",
+      "today": "6 "
+    },
+    {
+      "url": "https://github.com/M66B/NetGuard",
+      "summary": "A simple way to block access to the internet per app",
+      "stars": "2,551",
+      "forked": "579 ",
+      "today": "3 "
+    },
+    {
+      "url": "https://github.com/arduino/Arduino",
+      "summary": "open-source electronics prototyping platform",
+      "stars": "9,906",
+      "forked": "6,637 ",
+      "today": "4 "
+    },
+    {
+      "url": "https://github.com/cSploit/android",
+      "summary": "cSploit - The most complete and advanced IT security professional toolkit on Android.",
+      "stars": "2,375",
+      "forked": "987 ",
+      "today": "4 "
+    },
+    {
+      "url": "https://github.com/codedrinker/community",
+      "summary": "开源论坛、问答系统，现有功能提问、回复、通知、最新、最热、消除零回复功能。功能持续更新中…… 技术栈 Spring、Spring Boot、MyBatis、MySQL/H2、Bootstrap",
+      "stars": "546",
+      "forked": "269 ",
+      "today": "5 "
+    },
+    {
+      "url": "https://github.com/mission-peace/interview",
+      "summary": "Interview questions",
+      "stars": "7,936",
+      "forked": "3,979 ",
+      "today": "7 "
+    },
+    {
+      "url": "https://github.com/EssentialsX/Essentials",
+      "summary": "The essential plugin suite for Minecraft servers.",
+      "stars": "540",
+      "forked": "452 ",
+      "today": "5 "
+    },
+    {
+      "url": "https://github.com/trojan-gfw/igniter",
+      "summary": "A trojan client for Android (UNDER CONSTRUCTION).",
+      "stars": "625",
+      "forked": "201 ",
+      "today": "15 "
+    },
+    {
+      "url": "https://github.com/DrKLO/Telegram",
+      "summary": "Telegram for Android source",
+      "stars": "13,410",
+      "forked": "5,061 ",
+      "today": "10 "
+    },
+    {
+      "url": "https://github.com/zlt2000/microservices-platform",
+      "summary": "基于SpringBoot2.x、SpringCloud和SpringCloudAlibaba并采用前后端分离的企业级微服务多租户系统架构。并引入组件化的思想实现高内聚低耦合，项目代码简洁注释丰富上手容易，适合学习和企业中使用。真正实现了基于RBAC、jwt和oauth2的无状态统一权限认证的解决方案，面向互联网设计同时适合B端和C端用户，支持CI/CD多环境部署，并提供应用管理方便第三方系统接入；同时还集合各种微服务治理功能和监控功能。模块包括:企业级的认证系统、开发平台、应用监控、慢sql监控、统一日志、单点登录、Redis分布式高速缓存、配置中心、分布式任务调度、接口文档、代码生成等等。",
+      "stars": "1,340",
+      "forked": "623 ",
+      "today": "3 "
+    },
+    {
+      "url": "https://github.com/SeleniumHQ/selenium",
+      "summary": "A browser automation framework and ecosystem.",
+      "stars": "16,903",
+      "forked": "5,525 ",
+      "today": "12 "
+    },
+    {
+      "url": "https://github.com/iSoron/uhabits",
+      "summary": "Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits",
+      "stars": "2,944",
+      "forked": "589 ",
+      "today": "4 "
+    },
+    {
+      "url": "https://github.com/firebase/quickstart-android",
+      "summary": "Firebase Quickstart Samples for Android",
+      "stars": "6,532",
+      "forked": "6,486 ",
+      "today": "7 "
+    },
+    {
+      "url": "https://github.com/doocs/advanced-java",
+      "summary": "😮",
+      "stars": "38,752",
+      "forked": "10,621 ",
+      "today": "43 "
+    },
+    {
+      "url": "https://github.com/2227324689/gpmall",
+      "summary": "【咕泡学院实战项目】-基于SpringBoot+Dubbo构建的电商平台-微服务架构、商城、电商、微服务、高并发、kafka、Elasticsearch",
+      "stars": "3,087",
+      "forked": "1,200 ",
+      "today": "3 "
+    },
+    {
+      "url": "https://github.com/alibaba/spring-cloud-alibaba",
+      "summary": "Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.",
+      "stars": "11,531",
+      "forked": "3,320 ",
+      "today": "11 "
+    },
+    {
+      "url": "https://github.com/jojoldu/freelec-springboot2-webservice",
+      "summary": "Java",
+      "stars": "127",
+      "forked": "66 ",
+      "today": "3 "
+    },
+    {
+      "url": "https://github.com/Bigkoo/Android-PickerView",
+      "summary": "This is a picker view for android , support linkage effect, timepicker and optionspicker.（时间选择器、省市区三级联动）",
+      "stars": "11,315",
+      "forked": "2,868 ",
+      "today": "3 "
+    }
+  ],
+  "golang": [
+    {
+      "url": "https://github.com/istio/istio",
+      "summary": "Connect, secure, control, and observe services.",
+      "stars": "21,722",
+      "forked": "3,972 ",
+      "today": "14 "
+    },
+    {
+      "url": "https://github.com/evanw/esbuild",
+      "summary": "An extremely fast JavaScript bundler and minifier",
+      "stars": "1,929",
+      "forked": "33 ",
+      "today": "641 "
+    },
+    {
+      "url": "https://github.com/etcd-io/etcd",
+      "summary": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "stars": "29,680",
+      "forked": "6,160 ",
+      "today": "31 "
+    },
+    {
+      "url": "https://github.com/kubernetes/community",
+      "summary": "Kubernetes community content",
+      "stars": "5,785",
+      "forked": "2,636 ",
+      "today": "8 "
+    },
+    {
+      "url": "https://github.com/mdsecactivebreach/o365-attack-toolkit",
+      "summary": "A toolkit to attack Office365",
+      "stars": "366",
+      "forked": "81 ",
+      "today": "14 "
+    },
+    {
+      "url": "https://github.com/sourcegraph/sourcegraph",
+      "summary": "Universal code search and navigation tool (self-hosted)",
+      "stars": "3,166",
+      "forked": "294 ",
+      "today": "5 "
+    },
+    {
+      "url": "https://github.com/nlopes/slack",
+      "summary": "Slack API in Go",
+      "stars": "2,754",
+      "forked": "683 ",
+      "today": "5 "
+    },
+    {
+      "url": "https://github.com/jinzhu/gorm",
+      "summary": "The fantastic ORM library for Golang, aims to be developer friendly (v2 is under development, PR based on master branch won't be accepted)",
+      "stars": "17,167",
+      "forked": "1,973 ",
+      "today": "18 "
+    },
+    {
+      "url": "https://github.com/phachon/mm-wiki",
+      "summary": "MM-Wiki 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。",
+      "stars": "1,187",
+      "forked": "306 ",
+      "today": "2 "
+    },
+    {
+      "url": "https://github.com/OWASP/Amass",
+      "summary": "In-depth Attack Surface Mapping and Asset Discovery",
+      "stars": "2,699",
+      "forked": "457 ",
+      "today": "16 "
+    },
+    {
+      "url": "https://github.com/lifei6671/mindoc",
+      "summary": "Golang实现的基于beego框架的接口在线文档管理系统",
+      "stars": "3,673",
+      "forked": "1,048 ",
+      "today": "7 "
+    },
+    {
+      "url": "https://github.com/prometheus/node_exporter",
+      "summary": "Exporter for machine metrics",
+      "stars": "4,082",
+      "forked": "1,057 ",
+      "today": "8 "
+    },
+    {
+      "url": "https://github.com/golangci/golangci-lint",
+      "summary": "Linters Runner for Go. 5x faster than gometalinter. Nice colored output. Can report only new issues. Fewer false-positives. Yaml/toml config.",
+      "stars": "4,540",
+      "forked": "393 ",
+      "today": "9 "
+    },
+    {
+      "url": "https://github.com/GoogleCloudPlatform/golang-samples",
+      "summary": "Sample apps and code written for Google Cloud in the Go programming language.",
+      "stars": "1,910",
+      "forked": "850 ",
+      "today": "5 "
+    },
+    {
+      "url": "https://github.com/influxdata/influxdb",
+      "summary": "Scalable datastore for metrics, events, and real-time analytics",
+      "stars": "18,327",
+      "forked": "2,580 ",
+      "today": "21 "
+    },
+    {
+      "url": "https://github.com/AdguardTeam/AdGuardHome",
+      "summary": "Network-wide ads & trackers blocking DNS server",
+      "stars": "3,053",
+      "forked": "320 ",
+      "today": "8 "
+    },
+    {
+      "url": "https://github.com/adonovan/gopl.io",
+      "summary": "Example programs from \"The Go Programming Language\"",
+      "stars": "3,938",
+      "forked": "1,560 ",
+      "today": "3 "
+    },
+    {
+      "url": "https://github.com/google/gvisor",
+      "summary": "Container Runtime Sandbox",
+      "stars": "9,570",
+      "forked": "660 ",
+      "today": "9 "
+    },
+    {
+      "url": "https://github.com/siddontang/go-mysql",
+      "summary": "a powerful mysql toolset with Go",
+      "stars": "2,224",
+      "forked": "519 ",
+      "today": "3 "
+    },
+    {
+      "url": "https://github.com/avelino/awesome-go",
+      "summary": "A curated list of awesome Go frameworks, libraries and software",
+      "stars": "51,990",
+      "forked": "6,865 ",
+      "today": "39 "
+    },
+    {
+      "url": "https://github.com/Z-Bolt/OctoScreen",
+      "summary": "LCD touch interface for our Octoprint",
+      "stars": "161",
+      "forked": "32 ",
+      "today": "3 "
+    },
+    {
+      "url": "https://github.com/bettercap/bettercap",
+      "summary": "The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.",
+      "stars": "6,866",
+      "forked": "674 ",
+      "today": "20 "
+    },
+    {
+      "url": "https://github.com/prometheus/alertmanager",
+      "summary": "Prometheus Alertmanager",
+      "stars": "2,915",
+      "forked": "1,104 ",
+      "today": "4 "
+    },
+    {
+      "url": "https://github.com/golang/lint",
+      "summary": "[mirror] This is a linter for Go source code.",
+      "stars": "3,384",
+      "forked": "457 ",
+      "today": "1 "
+    },
+    {
+      "url": "https://github.com/iGoogle-ink/gopay",
+      "summary": "QQ、微信（WeChat）、支付宝（AliPay）的Go版本SDK。【持续更新，望开发者及时升级】",
+      "stars": "386",
+      "forked": "91 ",
+      "today": "4 "
+    }
+  ],
+  "javascript": [
+    {
+      "url": "https://github.com/laurent22/joplin",
+      "summary": "Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/",
+      "stars": "12,868",
+      "forked": "1,191 ",
+      "today": "127 "
+    },
+    {
+      "url": "https://github.com/tastejs/todomvc",
+      "summary": "Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more",
+      "stars": "26,282",
+      "forked": "13,698 ",
+      "today": "9 "
+    },
+    {
+      "url": "https://github.com/xiandanin/magnetW",
+      "summary": "磁力链接聚合搜索",
+      "stars": "7,284",
+      "forked": "1,320 ",
+      "today": "38 "
+    },
+    {
+      "url": "https://github.com/lyswhut/lx-music-desktop",
+      "summary": "一个基于 electron 的音乐软件",
+      "stars": "3,247",
+      "forked": "557 ",
+      "today": "40 "
+    },
+    {
+      "url": "https://github.com/leon-ai/leon",
+      "summary": "🧠 Leon is your open-source personal assistant.",
+      "stars": "6,296",
+      "forked": "428 ",
+      "today": "113 "
+    },
+    {
+      "url": "https://github.com/webtorrent/webtorrent-desktop",
+      "summary": "❤️",
+      "stars": "7,181",
+      "forked": "843 ",
+      "today": "25 "
+    },
+    {
+      "url": "https://github.com/nondanee/UnblockNeteaseMusic",
+      "summary": "Revive unavailable songs for Netease Cloud Music",
+      "stars": "7,871",
+      "forked": "1,104 ",
+      "today": "38 "
+    },
+    {
+      "url": "https://github.com/jojoldu/junior-recruit-scheduler",
+      "summary": "주니어 개발자 채용 정보",
+      "stars": "3,136",
+      "forked": "552 ",
+      "today": "8 "
+    },
+    {
+      "url": "https://github.com/xiaoymin/swagger-bootstrap-ui",
+      "summary": "Swagger-bootstrap-ui is the Swagger front-end UI implementation, the purpose is to replace the Swagger default UI implementation Swagger-UI, make the document more friendly....",
+      "stars": "1,311",
+      "forked": "288 ",
+      "today": "14 "
+    },
+    {
+      "url": "https://github.com/Siujoeng-Lau/Workers-Proxy",
+      "summary": "Lightweight reverse proxy implemented with Cloudflare Workers.",
+      "stars": "556",
+      "forked": "146 ",
+      "today": "19 "
+    },
+    {
+      "url": "https://github.com/sanyuan0704/react-cloud-music",
+      "summary": "React 16.8打造精美音乐WebApp",
+      "stars": "969",
+      "forked": "232 ",
+      "today": "5 "
+    },
+    {
+      "url": "https://github.com/MichMich/MagicMirror",
+      "summary": "MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.",
+      "stars": "11,520",
+      "forked": "3,019 ",
+      "today": "8 "
+    },
+    {
+      "url": "https://github.com/kefranabg/readme-md-generator",
+      "summary": "📄",
+      "stars": "6,889",
+      "forked": "443 ",
+      "today": "9 "
+    },
+    {
+      "url": "https://github.com/yangshun/tech-interview-handbook",
+      "summary": "💯",
+      "stars": "39,832",
+      "forked": "5,547 ",
+      "today": "34 "
+    },
+    {
+      "url": "https://github.com/firebase/functions-samples",
+      "summary": "Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase",
+      "stars": "7,731",
+      "forked": "2,671 ",
+      "today": "15 "
+    },
+    {
+      "url": "https://github.com/111116/osu",
+      "summary": "web rhythm game http://osugame.online/",
+      "stars": "162",
+      "forked": "8 ",
+      "today": "33 "
+    },
+    {
+      "url": "https://github.com/terser/terser",
+      "summary": "🗜",
+      "stars": "4,117",
+      "forked": "138 ",
+      "today": "5 "
+    },
+    {
+      "url": "https://github.com/indiespirit/react-native-chart-kit",
+      "summary": "📊",
+      "stars": "1,033",
+      "forked": "263 ",
+      "today": "3 "
+    },
+    {
+      "url": "https://github.com/mathdroid/twitter-dev-salaries-scraper",
+      "summary": "https://docs.google.com/spreadsheets/d/1-xIgk7Mw1S5DXTZSbKBgxlsQAn7XGIu7Mfy72lSVHKk/edit?usp=sharing",
+      "stars": "92",
+      "forked": "13 ",
+      "today": "16 "
+    },
+    {
+      "url": "https://github.com/browserslist/browserslist",
+      "summary": "🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env",
+      "stars": "7,182",
+      "forked": "367 ",
+      "today": "7 "
+    },
+    {
+      "url": "https://github.com/stevenjoezhang/live2d-widget",
+      "summary": "把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform",
+      "stars": "1,097",
+      "forked": "403 ",
+      "today": "8 "
+    },
+    {
+      "url": "https://github.com/CodFrm/cxmooc-tools",
+      "summary": "一个超星(学习通)和智慧树(知到)刷课工具,火狐,谷歌,油猴支持.全自动任务,视频倍速秒过,作业考试题库,验证码自动打码(੧ᐛ੭挂科模式,启动)",
+      "stars": "700",
+      "forked": "123 ",
+      "today": "14 "
+    },
+    {
+      "url": "https://github.com/rohanrhu/gdb-frontend",
+      "summary": "☕ GDBFrontend is an easy, flexible and extensionable gui debugger.",
+      "stars": "398",
+      "forked": "10 ",
+      "today": "35 "
+    },
+    {
+      "url": "https://github.com/iamadamdev/bypass-paywalls-chrome",
+      "summary": "Bypass Paywalls for Chrome",
+      "stars": "2,789",
+      "forked": "197 ",
+      "today": "12 "
+    },
+    {
+      "url": "https://github.com/da2k/curso-javascript-ninja",
+      "summary": "Curso Javascript Ninja",
+      "stars": "1,569",
+      "forked": "2,380 ",
+      "today": "3 "
+    }
+  ],
+  "kotlin": [
+    {
+      "url": "https://github.com/inorichi/tachiyomi",
+      "summary": "Free and open source manga reader for Android",
+      "stars": "6,203",
+      "forked": "835 ",
+      "today": "15 "
+    },
+    {
+      "url": "https://github.com/mozilla-mobile/fenix",
+      "summary": "Firefox Preview",
+      "stars": "3,094",
+      "forked": "400 ",
+      "today": "17 "
+    },
+    {
+      "url": "https://github.com/h4h13/RetroMusicPlayer",
+      "summary": "Best material design music player for Android",
+      "stars": "576",
+      "forked": "156 ",
+      "today": "5 "
+    },
+    {
+      "url": "https://github.com/shadowsocks/shadowsocks-android",
+      "summary": "A shadowsocks client for Android",
+      "stars": "28,755",
+      "forked": "10,893 ",
+      "today": "23 "
+    },
+    {
+      "url": "https://github.com/ahmedeltaher/MVVM-Kotlin-Android-Architecture",
+      "summary": "MVVM + Kotlin + Retrofit2 + Dagger2 + Coroutines + MVP + Kotlin-Android-Extensions + RX-java + Mockk + Espresso + Junit5",
+      "stars": "375",
+      "forked": "108 ",
+      "today": "2 "
+    },
+    {
+      "url": "https://github.com/Tapadoo/Alerter",
+      "summary": "An Android Alerting Library",
+      "stars": "4,670",
+      "forked": "570 ",
+      "today": "2 "
+    },
+    {
+      "url": "https://github.com/dropbox/Store",
+      "summary": "Kotlin Library for Async Data Loading and Caching",
+      "stars": "1,092",
+      "forked": "70 ",
+      "today": "17 "
+    },
+    {
+      "url": "https://github.com/InsertKoinIO/koin",
+      "summary": "Koin - a pragmatic lightweight dependency injection framework for Kotlin",
+      "stars": "4,954",
+      "forked": "304 ",
+      "today": "7 "
+    },
+    {
+      "url": "https://github.com/topjohnwu/Magisk",
+      "summary": "A Magic Mask to Alter Android System Systemless-ly",
+      "stars": "9,482",
+      "forked": "1,575 ",
+      "today": "29 "
+    },
+    {
+      "url": "https://github.com/mikepenz/MaterialDrawer",
+      "summary": "The flexible, easy to use, all in one drawer library for your Android project. Now brand new with material 2 design.",
+      "stars": "10,864",
+      "forked": "2,074 ",
+      "today": "4 "
+    },
+    {
+      "url": "https://github.com/videolan/vlc-android",
+      "summary": "VLC for Android, Android TV and ChromeOS",
+      "stars": "611",
+      "forked": "209 ",
+      "today": "3 "
+    },
+    {
+      "url": "https://github.com/google/flexbox-layout",
+      "summary": "Flexbox for Android",
+      "stars": "15,180",
+      "forked": "1,596 ",
+      "today": "5 "
+    },
+    {
+      "url": "https://github.com/Kr328/ClashForAndroid",
+      "summary": "A rule-based tunnel for Android.",
+      "stars": "861",
+      "forked": "122 ",
+      "today": "13 "
+    },
+    {
+      "url": "https://github.com/android/plaid",
+      "summary": "An Android app which provides design news & inspiration as well as being an example of implementing material design.",
+      "stars": "15,007",
+      "forked": "3,054 ",
+      "today": "7 "
+    },
+    {
+      "url": "https://github.com/android/architecture-components-samples",
+      "summary": "Samples for Android Architecture Components.",
+      "stars": "16,062",
+      "forked": "5,300 ",
+      "today": "19 "
+    },
+    {
+      "url": "https://github.com/akexorcist/Android-Localization",
+      "summary": "Let's make language swithching in your app with easy way",
+      "stars": "480",
+      "forked": "102 ",
+      "today": "45 "
+    },
+    {
+      "url": "https://github.com/ncapdevi/FragNav",
+      "summary": "An Android library for managing multiple stacks of fragments",
+      "stars": "1,121",
+      "forked": "172 ",
+      "today": "28 "
+    },
+    {
+      "url": "https://github.com/fgiris/LiveDataWithFlowSample",
+      "summary": "Sample for using LiveData & Flow in MVVM",
+      "stars": "30",
+      "forked": "4 ",
+      "today": "8 "
+    },
+    {
+      "url": "https://github.com/android/topeka",
+      "summary": "A fun to play quiz that showcases material design on Android",
+      "stars": "5,132",
+      "forked": "1,085 ",
+      "today": "6 "
+    },
+    {
+      "url": "https://github.com/ssseasonnn/AnimatorX",
+      "summary": "Animation and coroutines",
+      "stars": "16",
+      "forked": "1 ",
+      "today": "8 "
+    },
+    {
+      "url": "https://github.com/tipsy/javalin",
+      "summary": "A simple and modern Java and Kotlin web framework",
+      "stars": "3,721",
+      "forked": "321 ",
+      "today": "2 "
+    },
+    {
+      "url": "https://github.com/square/okio",
+      "summary": "A modern I/O library for Android, Kotlin, and Java.",
+      "stars": "6,816",
+      "forked": "989 ",
+      "today": "4 "
+    },
+    {
+      "url": "https://github.com/dbacinski/Design-Patterns-In-Kotlin",
+      "summary": "Design Patterns implemented in Kotlin",
+      "stars": "3,621",
+      "forked": "449 ",
+      "today": "3 "
+    },
+    {
+      "url": "https://github.com/princekin-f/EasyFloat",
+      "summary": "🔥",
+      "stars": "816",
+      "forked": "89 ",
+      "today": "5 "
+    },
+    {
+      "url": "https://github.com/igorwojda/android-showcase",
+      "summary": "💎",
+      "stars": "2,214",
+      "forked": "256 ",
+      "today": "9 "
+    }
+  ]
+}

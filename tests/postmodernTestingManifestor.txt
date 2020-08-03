@@ -1,0 +1,10 @@
+Postmodern Testing Manifesto
+
+Software testing is an art and each testing project is a unique work of art. Like the world of art, the testing profession has matured into a postmodern age where the test artisan incorporates prior schools of thought, readily abandons what doesn’t apply, and creatively combines them with innovation specific to the problem at hand, within the constraints at hand.
+
+To that end, when testing, we value:
+Creativity
+Innovation
+Diversity
+Sharing
+Reuse

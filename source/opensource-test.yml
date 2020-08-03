@@ -1,0 +1,24 @@
+urls:
+  - https://github.com/DeemOpen/excord.git
+  - https://github.com/NetEase/Emmagee.git
+  - https://github.com/FluentLenium/FluentLenium.git
+  - https://github.com/SeleniumHQ/fluent-selenium.git
+  - https://github.com/paypal/SeLion.git
+  - https://github.com/christophd/citrus.git
+  - https://github.com/BaiduQA/ITEST.git
+  - https://github.com/EaseTech/easytest-core.git
+  - https://github.com/bbyars/mountebank.git
+  - https://github.com/Mashape/mockbin.git
+  - https://github.com/serenity-bdd/serenity-core.git
+  - https://github.com/jivesoftware/jive-selenium-pages-framework.git
+  - https://github.com/paul-hammant/fluent-selenium-examples.git
+  - https://github.com/galenframework/galen-storage.git
+  - https://github.com/serenity-bdd/serenity-demos.git
+  - https://github.com/galenframework/galen.git
+  - https://github.com/getgauge/gauge.git
+  - https://github.com/paypal/SeLion.git
+  - https://github.com/yandex-qatools/tests-report-example.git
+  - https://github.com/anshooarora/extentreports-java.git
+  - https://github.com/anshooarora/extentx.git
+  - https://github.com/ztwo/Auto_Analysis.git
+  

@@ -1,0 +1,10 @@
+urls:
+  - https://github.com/gridgain/yardstick.git
+  - https://github.com/brianfrankcooper/YCSB.git
+  - https://github.com/jsr/ycsb-tools.git
+  - https://github.com/lexibrent/YCSB-runner.git
+  - https://github.com/arthurlorenzi/ycsb-benchmarking-scripts.git
+  - https://github.com/chinglinwen/ycsb2graph.git
+
+keywords:
+  - SoPeCoYCSB

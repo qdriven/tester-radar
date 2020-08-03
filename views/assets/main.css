@@ -1,0 +1,25 @@
+html {
+  font-family: GillSans, Calibri, Trebuchet, sans-serif;
+}
+
+
+#site-summary {
+  font-size: 20px;
+  color: #d16098;
+}
+
+/*.col {*/
+  /*background-color: rgba(247, 98, 98, 0.78);*/
+/*}*/
+
+/*@font-face {*/
+  /*font-family: 'Material Icons';*/
+  /*font-style: normal;*/
+  /*font-weight: 400;*/
+  /*src: url(assets/materialcss/font/material-design-icons)*/
+  /*src: local('Material Icons'),*/
+       /*local('MaterialIcons-Regular'),*/
+       /*url(assets/materialcss/font/material-design-icons/Material-Design-Icons.woff2) format('woff2'),*/
+       /*url(assets/materialcss/font/material-design-icons/Material-Design-Icons.woff) format('woff'),*/
+       /*url(assets/materialcss/font/material-design-icons/Material-Design-Icons.ttf) format('truetype');*/
+/*}*/

@@ -1,0 +1,18 @@
+trending:
+    frequencies:
+        - daily
+        - weekly
+        - monthly
+topics:
+    - testing
+    - test-framework
+    - test infra
+    - api test framework
+    - api-testing-framework
+    - java
+    - python
+    - api
+    - javascript
+    - blockchain
+    - cd
+    - ci

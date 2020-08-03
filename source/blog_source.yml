@@ -1,0 +1,13 @@
+sites:
+  python:
+    - https://www.programiz.com/python-programming
+    - https://pynative.com/python-random-choice/
+    - https://www.geeksforgeeks.org/python-numbers-choice-function/
+    - https://www.programiz.com/
+    - https://medium.com/python-pandemonium
+    - https://realpython.com/
+    - https://github.com/realpython
+    - https://www.geeksforgeeks.org/
+    - https://github.com/udacity
+  eth:
+    - https://ethfans.org/
