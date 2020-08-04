@@ -555,6 +555,182 @@
 - [find-sec-bugs/find-sec-bugs](https://github.com/find-sec-bugs/find-sec-bugs) - The SpotBugs plugin for security audits of Java web applications and Android applications. (Also work with Kotlin, Groovy and Scala projects)
 - [SimonAlong/Mikilin](https://github.com/SimonAlong/Mikilin) - 对象属性核查框架：可以过滤对象中所有不符合要求的属性，功能对标hibernate.validate，却比validate功能更强大且更灵活，用法却极其简单
 - [authorjapps/zerocode](https://github.com/authorjapps/zerocode) - A community-developed, free, open source, declarative API automation and load testing framework built using Java JUnit core runners for Http REST, SOAP, Security, Database, Kafka and much more. It enables to create and maintain test-cases with absolute ease.
+- [jbb-project/jbb](https://github.com/jbb-project/jbb) - Java bulletin board system
+- [wso2/product-microgateway](https://github.com/wso2/product-microgateway) - A cloud native, developer centric and decentralized API gateway for microservices
+- [vkirankumar3090/zephyrWithCucumber](https://github.com/vkirankumar3090/zephyrWithCucumber) - This Framework will help you to update the Test Cycle Status and Steps of the Test Case which is executed in the Test Cycle with the help of cucumber json file
+- [zatosource/ide-pycharm](https://github.com/zatosource/ide-pycharm) - Zato integration for PyCharm and IntelliJ IDEA
+- [nuclio/nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform
+- [aafanasev/kson](https://github.com/aafanasev/kson) - Gson TypeAdapter & Factory generator for Kotlin data classes
+- [houbb/data-factory](https://github.com/houbb/data-factory) - 🏭Auto generate mock data for java test.(便于 Java 测试自动生成对象信息)
+- [yasuflatland-lf/liferay-dummy-factory](https://github.com/yasuflatland-lf/liferay-dummy-factory) - 🏭 Liferay DXP / 7 Dummy data generation portlet
+- [Azure/Azure-DataFactory](https://github.com/Azure/Azure-DataFactory) - 
+- [Jigsaw-Code/Intra](https://github.com/Jigsaw-Code/Intra) - An experimental tool that allows you to test new DNS-over-HTTPS services on Android
+- [choerodon/devops-service](https://github.com/choerodon/devops-service) - DevOps Service is the core service of Choerodon. It integrated several open source tools to automate the DevOps process of planning, coding, building, testing, and deployment, operation, monitoring.
+- [Netflix-Skunkworks/WSPerfLab](https://github.com/Netflix-Skunkworks/WSPerfLab) - Project for testing web-service implementations.
+- [hmrc/service-manager](https://github.com/hmrc/service-manager) - A python tool to manage developing and testing with lots of microservices
+- [hmrc/service-manager](https://github.com/hmrc/service-manager) - A python tool to manage developing and testing with lots of microservices
+- [azagniotov/stubby4j](https://github.com/azagniotov/stubby4j) - An HTTP stub server for testing application interactions with web services (REST, etc) & external system stubbing for easy testing
+- [julien-lafont/Mocky](https://github.com/julien-lafont/Mocky) - Generate custom HTTP responses, the simpler way to test your Web Services
+- [SmartBear/soapui](https://github.com/SmartBear/soapui) - SoapUI is a free and open source cross-platform functional testing solution for APIs and web services.
+- [rest-driver/rest-driver](https://github.com/rest-driver/rest-driver) - Test Driver to test your RESTful services and clients
+- [ctco/cukes](https://github.com/ctco/cukes) - Cucumber DSL for testing RESTful Web Services
+- [smartrics/RestFixture](https://github.com/smartrics/RestFixture) - A FitNesse fixture for testing REST services
+- [linkedin/test-butler](https://github.com/linkedin/test-butler) - Reliable Android Testing, at your service
+- [spring-projects/spring-restdocs](https://github.com/spring-projects/spring-restdocs) - Test-driven documentation for RESTful services
+- [TANGKUO/HIS](https://github.com/TANGKUO/HIS) - HIS英文全称 hospital information system（医院信息系统），系统主要功能按照数据流量、流向及处理过程分为临床诊疗、药品管理、财务管理、患者管理。诊疗活动由各工作站配合完成，并将临床信息进行整理、处理、汇总、统计、分析等。本系统包括以下工作站：门诊医生工作站、药房医生工作站、医技医生工作站、收费员工作站、对帐员工作站、管理员工作站。
+- [corona-warn-app/cwa-verification-server](https://github.com/corona-warn-app/cwa-verification-server) - Backend implementation of the verification process
+- [mai-lang-chai/Middleware-Vulnerability-detection](https://github.com/mai-lang-chai/Middleware-Vulnerability-detection) - CVE、CMS、中间件漏洞检测利用合集 Since 2019-9-15
+- [randoop/randoop](https://github.com/randoop/randoop) - Automatic test generation for Java
+- [EvoSuite/evosuite](https://github.com/EvoSuite/evosuite) - EvoSuite - automated generation of JUnit test suites for Java classes
+- [igorwojda/android-showcase](https://github.com/igorwojda/android-showcase) - 💎 Android application following best practices:  Kotlin, coroutines, Clean Architecture, feature modules, tests, MVVM, static analysis...
+- [88250/symphony](https://github.com/88250/symphony) - 🎶 一款用 Java 实现的现代化社区（论坛/问答/BBS/社交网络/博客）系统平台。A modern community (forum/Q&A/BBS/SNS/blog) system platform implemented in Java. https://hacpai.com
+- [aws101/aws101](https://github.com/aws101/aws101) - 
+- [kangjianwei/LearningJDK](https://github.com/kangjianwei/LearningJDK) - JDK源码阅读笔记
+- [serenity-bdd/the-serenity-book](https://github.com/serenity-bdd/the-serenity-book) - A book about Serenity BDD
+- [serenity-bdd/serenity-maven-plugin](https://github.com/serenity-bdd/serenity-maven-plugin) - 
+- [purang-fintech/seppb](https://github.com/purang-fintech/seppb) - 普兰能效平台开源版（后端）
+- [Xceptance/neodymium-library](https://github.com/Xceptance/neodymium-library) - A test automation library based on common other best practice open source libraries. It adds missing functionalities but does not reinvent the wheel. Just glues stuff together nicely and adds some sprinkles.
+- [kumuluz/kumuluzee-openapi-mp](https://github.com/kumuluz/kumuluzee-openapi-mp) - KumuluzEE OpenAPI MicroProfile project provides powerful tools to incorporate the OpenAPI 3 specification to your microservices in a standardized way.
+- [kumuluz/kumuluzee](https://github.com/kumuluz/kumuluzee) - Lightweight open-source framework for developing microservices using standard Java EE technologies and migrating Java EE to cloud-native architecture.
+- [springframeworkguru/spring-rest-client-examples](https://github.com/springframeworkguru/spring-rest-client-examples) - Spring Rest Client Examples
+- [odrotbohm/moduliths](https://github.com/odrotbohm/moduliths) - Building modular, monolithic applications using Spring Boot
+- [xenv/gushici](https://github.com/xenv/gushici) - 一言·古诗词 API (Hitokoto API)，随机返回一条古诗词名句。采用  Vert.x + Redis 全异步开发，毫秒级稳定响应。
+- [purgeteam/dynamic-config-spring-boot](https://github.com/purgeteam/dynamic-config-spring-boot) - 支持Nacos,Springcloud Config 配置具体变化对比，触发相应事件。
+- [mrprince/sonar-p3c-pmd](https://github.com/mrprince/sonar-p3c-pmd) - Sonar p3c pmd plugin
+- [sbtqa/page-factory-2](https://github.com/sbtqa/page-factory-2) - Page factory framework for java test automation. Web/Api/Mobile
+- [zalando/intellij-swagger](https://github.com/zalando/intellij-swagger) - A plugin to help you easily edit Swagger and OpenAPI specification files inside IntelliJ IDEA
+- [yapily/yapily-sdk-java](https://github.com/yapily/yapily-sdk-java) - Java SDK generated against the Yapily API. This SDK can be used to connect to Open Banking entities.
+- [yapily/yapily-sdk-java](https://github.com/yapily/yapily-sdk-java) - Java SDK generated against the Yapily API. This SDK can be used to connect to Open Banking entities.
+- [doublechaintech/scm-biz-suite](https://github.com/doublechaintech/scm-biz-suite) - 供应链中台系统基础版，集成零售管理, 电子商务, 供应链管理,  财务管理, 车队管理, 仓库管理, 人员管理, 产品管理, 订单管理, 会员管理, 连锁店管理, 加盟管理, 前端React/Ant Design, 后端Java Spring+自有开源框架，全面支持MySQL, PostgreSQL, 全面支持国产数据库南大通用GBase 8s,通过REST接口调用，前后端完全分离。
+- [danielpalme/ReportGenerator](https://github.com/danielpalme/ReportGenerator) - ReportGenerator converts coverage reports generated by OpenCover, dotCover, Visual Studio, NCover, Cobertura, JaCoCo, Clover, gcov or lcov into human readable reports in various formats.
+- [spring-avengers/summerframework](https://github.com/spring-avengers/summerframework) - Micro Service Framework base on Spring Cloud
+- [networknt/light-hybrid-4j](https://github.com/networknt/light-hybrid-4j) - A hybrid between monolithic and microservices to take advantages of both
+- [yahoo/athenz](https://github.com/yahoo/athenz) - Athenz is a role-based authorization (RBAC) system for provisioning and configuration (centralized authorization) use cases as well as serving/runtime (decentralized authorization) use cases.
+- [yahoo/streaming-benchmarks](https://github.com/yahoo/streaming-benchmarks) - Benchmarks for Low Latency (Streaming) solutions including Apache Storm, Apache Spark, Apache Flink, ...
+- [yahoo/streaming-benchmarks](https://github.com/yahoo/streaming-benchmarks) - Benchmarks for Low Latency (Streaming) solutions including Apache Storm, Apache Spark, Apache Flink, ...
+- [OWASP/Benchmark](https://github.com/OWASP/Benchmark) - OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java. The idea is that since it is fully runnable and all the vulnerabilities are actually exploitable, it’s a fair test for any kind of vulnerability detection tool.  For more details on this project, please see the OWASP Benchmark Project home page.
+- [rememberber/WePush](https://github.com/rememberber/WePush) - 专注批量推送的小而美的工具，目前支持：模板消息-公众号、模板消息-小程序、微信客服消息、微信企业号/企业微信消息、阿里云短信、阿里大于模板短信 、腾讯云短信、云片网短信、E-Mail、HTTP请求、钉钉、华为云短信、百度云短信、又拍云短信、七牛云短信
+- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+- [EaseTech/easytest-core](https://github.com/EaseTech/easytest-core) - The core module of EasyTest Framework. This includes the core classes for performing Data Driven Testing in Java
+- [spesmilo/electrum](https://github.com/spesmilo/electrum) - Electrum Bitcoin Wallet
+- [jenkinsci/jenkinsfile-runner](https://github.com/jenkinsci/jenkinsfile-runner) - A command line tool to run Jenkinsfile as a function
+- [ixrjog/opscloud](https://github.com/ixrjog/opscloud) - 运维管理平台(阿里云)，自动同步阿里云配置信息，堡垒机（容器），批量运维，Kubernetes，Zabbix管理等功能
+- [Blazemeter/taurus](https://github.com/Blazemeter/taurus) - Automation-friendly framework for Continuous Testing by
+- [Blazemeter/taurus](https://github.com/Blazemeter/taurus) - Automation-friendly framework for Continuous Testing by
+- [geekcomputers/Python](https://github.com/geekcomputers/Python) - My Python Examples
+- [arun-gupta/docker-jenkins-pipeline](https://github.com/arun-gupta/docker-jenkins-pipeline) - Devops for Java EE
+- [spotbugs/spotbugs](https://github.com/spotbugs/spotbugs) - SpotBugs is FindBugs' successor. A tool for static analysis to look for bugs in Java code.
+- [QualInsight/qualinsight-plugins-sonarqube-badges](https://github.com/QualInsight/qualinsight-plugins-sonarqube-badges) - Plugin for SonarQube that generates badges displaying information about a project's or view's quality.
+- [soosterwaal/operias](https://github.com/soosterwaal/operias) - Operias is an open source tool to produce diff reports between your code and a given branch on github. It shows the differences in source file and the difference in code coverage in one simple overview.
+- [CodingFabian/SamplingVsInstrumentation](https://github.com/CodingFabian/SamplingVsInstrumentation) - Small demo code for experimenting with the differences of sampling and instrumentation to measure the performance of Java code
+- [GumTreeDiff/gumtree](https://github.com/GumTreeDiff/gumtree) - A neat code differencing tool
+- [SpoonLabs/gumtree-spoon-ast-diff](https://github.com/SpoonLabs/gumtree-spoon-ast-diff) - Computes the AST difference (aka edit script) between two Spoon Java source code abstract syntax trees
+- [SpoonLabs/coming](https://github.com/SpoonLabs/coming) - A tool for mining commits  from Git repositories and diffs to automatically extract code change pattern instances and features with ast analysis 
+- [android10/Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture) - This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.
+- [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go
+- [informalsystems/apalache](https://github.com/informalsystems/apalache) - APALACHE: symbolic model checker for TLA+
+- [github/platform-samples](https://github.com/github/platform-samples) - A public place for all platform sample projects.
+- [github/platform-samples](https://github.com/github/platform-samples) - A public place for all platform sample projects.
+- [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
+- [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
+- [sika-code/sika-code](https://github.com/sika-code/sika-code) - 开源改变世界，让世界没有难写的代码
+- [easycodebox/easycode](https://github.com/easycodebox/easycode) - 致力于打造Java企业级项目一站式解决方案
+- [makejavas/EasyCode](https://github.com/makejavas/EasyCode) - 基于IntelliJ IDEA开发的代码生成插件，支持自定义任意模板（Java，html，js，xml）。只要是与数据库相关的代码都可以通过自定义模板来生成。支持数据库类型与java类型映射关系配置。支持同时生成生成多张表的代码。每张表有独立的配置信息。完全的个性化定义，规则由你设置。
+- [retest/recheck.cli](https://github.com/retest/recheck.cli) - Maintain your Golden Master files, Git-like on the command line.
+- [yangzongzhuan/RuoYi](https://github.com/yangzongzhuan/RuoYi) - (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
+- [undera/jmeter-plugins](https://github.com/undera/jmeter-plugins) - JMeter Plugins
+- [flowable/flowable-engine](https://github.com/flowable/flowable-engine) - A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users.
+- [spring2go/staffjoy](https://github.com/spring2go/staffjoy) - 微服务(Microservices)和云原生架构教学案例项目，基于Spring Boot和Kubernetes技术栈
+- [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus.
+- [geekidea/spring-boot-plus](https://github.com/geekidea/spring-boot-plus) - :fire: Spring-Boot-Plus is a easy-to-use, high-speed, high-efficient,feature-rich, open source spring boot scaffolding. :rocket:
+- [Exrick/xboot](https://github.com/Exrick/xboot) - 基于Spring Boot 2.x的一站式前后端分离快速开发平台XBoot 微信小程序+Uniapp 前端：Vue+iView Admin 后端：Spring Boot 2.x/Spring Security/JWT/JPA+Mybatis-Plus/Redis/Elasticsearch/Activiti 分布式限流/同步锁/验证码/SnowFlake雪花算法ID生成 动态权限管理 数据权限 工作流 代码生成 定时任务 第三方社交账号、短信登录 单点登录 OAuth2开放平台
+- [Apicurio/apicurio-studio](https://github.com/Apicurio/apicurio-studio) - Open Source API Design
+- [Apicurio/apicurio-studio](https://github.com/Apicurio/apicurio-studio) - Open Source API Design
+- [MobiDevBiz/voidtool](https://github.com/MobiDevBiz/voidtool) - Tool that aids in development and quality assurance processes for iOS applications.
+- [exoplatform/platform-qa-ui](https://github.com/exoplatform/platform-qa-ui) - UI Quality Assurance for eXo Platform
+- [agile-lab-dev/DataQuality](https://github.com/agile-lab-dev/DataQuality) - DataQuality for BigData
+- [teamed/qulice](https://github.com/teamed/qulice) - Quality Police for Java projects
+- [greenrobot/EventBus](https://github.com/greenrobot/EventBus) - Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.
+- [YellowLabTools/YellowLabTools](https://github.com/YellowLabTools/YellowLabTools) - WebPerf and front-end quality testing tool
+- [stephanenicolas/Quality-Tools-for-Android](https://github.com/stephanenicolas/Quality-Tools-for-Android) - 
+- [vincentbrison/vb-android-app-quality](https://github.com/vincentbrison/vb-android-app-quality) - Sample android project using Gradle, with basic quality tools set up. 
+- [spring-projects/spring-integration](https://github.com/spring-projects/spring-integration) - Spring Integration provides an extension of the Spring programming model to support the well-known Enterprise Integration Patterns (EIP)
+- [spring-projects/spring-integration](https://github.com/spring-projects/spring-integration) - Spring Integration provides an extension of the Spring programming model to support the well-known Enterprise Integration Patterns (EIP)
+- [joshlong/cloud-native-workshop](https://github.com/joshlong/cloud-native-workshop) - win w/ Spring Boot, Spring Cloud and Cloud Foundry
+- [joshlong/cloud-native-workshop](https://github.com/joshlong/cloud-native-workshop) - win w/ Spring Boot, Spring Cloud and Cloud Foundry
+- [qaviton/qaviton](https://github.com/qaviton/qaviton) - The first open source project to facilitate a unified testing automation framework for Web, Mobile & IoT with Machine Learning, AI and much more
+- [enijkamp/supermonkey](https://github.com/enijkamp/supermonkey) - A crawler for automated Android UI testing.
+- [SpiderLabs/Airachnid-Burp-Extension](https://github.com/SpiderLabs/Airachnid-Burp-Extension) - A Burp Extension to test applications for vulnerability to the Web Cache Deception attack
+- [fossasia/susi_android](https://github.com/fossasia/susi_android) - SUSI.AI Android App https://play.google.com/apps/testing/ai.susi
+- [fossasia/susi_android](https://github.com/fossasia/susi_android) - SUSI.AI Android App https://play.google.com/apps/testing/ai.susi
+- [gaia-pipeline/gaia](https://github.com/gaia-pipeline/gaia) - Build powerful pipelines in any programming language.
+- [gocd/gocd](https://github.com/gocd/gocd) - Main repository for GoCD - Continuous Delivery server
+- [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
+- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
+- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
+- [pmd/pmd](https://github.com/pmd/pmd) - An extensible multilanguage static code analyzer.
+- [pmd/pmd](https://github.com/pmd/pmd) - An extensible multilanguage static code analyzer.
+- [pmd/pmd](https://github.com/pmd/pmd) - An extensible multilanguage static code analyzer.
+- [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) - Continuous Inspection
+- [zhangdaiscott/jeecg-boot](https://github.com/zhangdaiscott/jeecg-boot) - 基于代码生成器的低代码平台，无代码开发、超越传统商业平台！前后端分离架构：SpringBoot 2.x，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新开发模式(OnlineCoding-&gt; 代码生成-&gt; 手工MERGE)，帮助Java项目解决70%重复工作，让开发更关注业务逻辑，既能快速提高开发效率，帮助公司节省成本，同时又不失灵活性。
+- [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+- [alibaba/Alink](https://github.com/alibaba/Alink) - Alink is the Machine Learning algorithm platform based on Flink, developed by the PAI team of Alibaba computing platform. 
+- [alibaba/Alink](https://github.com/alibaba/Alink) - Alink is the Machine Learning algorithm platform based on Flink, developed by the PAI team of Alibaba computing platform. 
+- [lenve/vhr](https://github.com/lenve/vhr) - 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
+- [thombergs/code-examples](https://github.com/thombergs/code-examples) - A collection of code examples from blog posts etc.
+- [web3j/web3j](https://github.com/web3j/web3j) - Lightweight Java and Android library for integration with Ethereum clients
+- [h2database/h2database](https://github.com/h2database/h2database) - H2 is an embeddable RDBMS written in Java.
+- [alibaba/alibaba-rsocket-broker](https://github.com/alibaba/alibaba-rsocket-broker) - Alibaba RSocket Broker: Mesh, Streaming & IoT
+- [alibaba/alibaba-rsocket-broker](https://github.com/alibaba/alibaba-rsocket-broker) - Alibaba RSocket Broker: Mesh, Streaming & IoT
+- [mrwilson/byte-monkey](https://github.com/mrwilson/byte-monkey) - :monkey: Bytecode-level fault injection for the JVM.
+- [codecentric/chaos-monkey-spring-boot](https://github.com/codecentric/chaos-monkey-spring-boot) - Chaos Monkey for Spring Boot
+- [apache/incubator-dolphinscheduler](https://github.com/apache/incubator-dolphinscheduler) - Dolphin Scheduler is a distributed and easy-to-extend visual workflow scheduling platform, dedicated to solving the complex dependencies in data processing, making the scheduling system out of the box for data processing.(分布式易扩展的可视化工作流任务调度)
+- [jtablesaw/tablesaw](https://github.com/jtablesaw/tablesaw) - Java dataframe and visualization library
+- [zhisheng17/flink-learning](https://github.com/zhisheng17/flink-learning) - flink learning blog. http://www.54tianzhisheng.cn  含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例（PVUV、日志存储、百亿数据实时去重、监控告警）分享。欢迎大家支持我的专栏《大数据实时计算引擎 Flink 实战与性能优化》
+- [Exrick/xpay](https://github.com/Exrick/xpay) - XPay个人免签收款支付系统 完全免费 资金直接到达本人账号 支持 支付宝 微信 QQ 云闪付 无需备案 无需签约 无需挂机监控APP 无需插件 无需第三方支付SDK 无需营业执照身份证 只需收款码 搞定支付流程 现已支持移动端支付 
+- [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
+- [jfrog/project-examples](https://github.com/jfrog/project-examples) - Small projects in universal build ecosystems to configure CI and Artifactory
+- [jfrog/project-examples](https://github.com/jfrog/project-examples) - Small projects in universal build ecosystems to configure CI and Artifactory
+- [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
+- [JorgeCastilloPrz/hiroaki](https://github.com/JorgeCastilloPrz/hiroaki) - Write idiomatic API integration tests using Kotlin (Unit and Instrumentation)
+- [sitewhere/sitewhere](https://github.com/sitewhere/sitewhere) - SiteWhere is an industrial strength open-source application enablement platform for the Internet of Things (IoT). It provides a multi-tenant microservice-based infrastructure that includes device/asset management, data ingestion, big-data storage, and integration through a modern, scalable architecture.  SiteWhere provides REST APIs for all system functionality.  SiteWhere provides SDKs for many common device platforms including Android, iOS, Arduino, and any Java-capable platform such as Raspberry Pi rapidly accelerating the speed of innovation.
+- [fengjiachun/Jupiter](https://github.com/fengjiachun/Jupiter) - Jupiter是一款性能非常不错的, 轻量级的分布式服务框架
+- [killme2008/aviator](https://github.com/killme2008/aviator) - A high performance scripting language hosted on the JVM.
+- [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
+- [RichyHBM/Coinbag](https://github.com/RichyHBM/Coinbag) - A read-only cryptocurrency wallet manager allowing users to view and receive cryptocurrency payments.
+- [RichyHBM/Coinbag](https://github.com/RichyHBM/Coinbag) - A read-only cryptocurrency wallet manager allowing users to view and receive cryptocurrency payments.
+- [vaccovecrana/manikuit](https://github.com/vaccovecrana/manikuit) - Manikuit - Cryptocurrency based payment gateway
+- [vaccovecrana/manikuit](https://github.com/vaccovecrana/manikuit) - Manikuit - Cryptocurrency based payment gateway
+- [tendermint/tendermint](https://github.com/tendermint/tendermint) - ⟁ Tendermint Core (BFT Consensus) in Go
+- [hashgraph/hedera-sdk-java](https://github.com/hashgraph/hedera-sdk-java) - Hedera™ Hashgraph SDK for Java
+- [jepsen-io/jepsen](https://github.com/jepsen-io/jepsen) - A framework for distributed systems verification, with fault injection
+- [spyder-ide/spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment
+- [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
+- [ray-project/ray](https://github.com/ray-project/ray) - A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
+- [retest/recheck](https://github.com/retest/recheck) - Replace traditional assertions with a single check.
+- [spinnaker/keel](https://github.com/spinnaker/keel) - Spinnaker's declarative service
+- [spinnaker/keel](https://github.com/spinnaker/keel) - Spinnaker's declarative service
+- [alibaba/jvm-sandbox-repeater](https://github.com/alibaba/jvm-sandbox-repeater) -  A Java server-side recording and playback solution based on JVM-Sandbox
+- [Idean/sonar-swift](https://github.com/Idean/sonar-swift) - Open source Swift plugin for SonarQube (also supports Objective-C)
+- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter | Ask us anything at our forum |
+- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter | Ask us anything at our forum |
+- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter | Ask us anything at our forum |
+- [fescobar/allure-docker-service](https://github.com/fescobar/allure-docker-service) - This docker container allows you to see up to date reports simply mounting your "allure-results" directory in the container (for a Single Project) or your "projects" directory (for Multiple Projects). Every time appears new results (generated for your tests), Allure Docker Service will detect those changes and it will generate a new report automatically (optional: send results / generate report through API), what you will see refreshing your browser.
+- [gustavoasoares/jdolly](https://github.com/gustavoasoares/jdolly) - JDolly is a Java program generator
+- [christian-draeger/page-content-tester](https://github.com/christian-draeger/page-content-tester) - Paco is a Java based framework for non-blocking and highly parallelized Dom testing.
+- [mysugr/sweetest](https://github.com/mysugr/sweetest) - Sweetens up your test code with good architecture and dependency management
+- [andrewjc/kheera-testrunner-android](https://github.com/andrewjc/kheera-testrunner-android) - BDD Framework for Android
+- [mike-neck/kuickcheck](https://github.com/mike-neck/kuickcheck) - A property based testing framework for Kotlin
+- [bakdata/fluent-kafka-streams-tests](https://github.com/bakdata/fluent-kafka-streams-tests) - Fluent Kafka Streams Test with Java
+- [bakdata/fluent-kafka-streams-tests](https://github.com/bakdata/fluent-kafka-streams-tests) - Fluent Kafka Streams Test with Java
+- [TorXakis/TorXakis](https://github.com/TorXakis/TorXakis) - A tool for Model Based Testing
+- [Ginger-Automation/Ginger](https://github.com/Ginger-Automation/Ginger) - Ginger Automation IDE 
+- [slawekradzyminski/AwesomeTesting](https://github.com/slawekradzyminski/AwesomeTesting) - Awesome Testing Blog Tests
+- [nhn/eat](https://github.com/nhn/eat) - Json based scenario testing tool(which can have test for functional and non-functional)
+- [JakimLi/pandaria](https://github.com/JakimLi/pandaria) - Lightweight API testing tool based on cucumber JVM
+- [retest/recheck-web](https://github.com/retest/recheck-web) - recheck for web apps – change comparison tool with local Golden Masters, Git-like ignore syntax and "Unbreakable Selenium" tests.
+- [intuit/CloudRaider](https://github.com/intuit/CloudRaider) - A resiliency tool that automates Failure mode effect analysis tests, simplifying complex testing with a behavior-driven development and testing approach. Provides a programmatic way to execute controlled failures in AWS and a BDD way to write test cases, allowing test plans themselves to become test cases that can be executed as is.
 ## PYTHON
 - [lidatong/dataclasses-json](https://github.com/lidatong/dataclasses-json) - Easily serialize Data Classes to and from JSON
 - [makerdao/market-maker-keeper](https://github.com/makerdao/market-maker-keeper) - Maker Keeper Framework: Market maker keepers for OasisDEX, EtherDelta, 0x (RadarRelay, ERCdEX), Paradex, DDEX, IDEX, Bibox, Ethfinex, GoPax, HitBTC, TheOcean, OKEX and Gate.io.
@@ -1044,6 +1220,152 @@
 - [ontio/ontology](https://github.com/ontio/ontology) - Official Go implementation of the Ontology protocol. https://dev-docs.ont.io/#/
 - [chenjiandongx/Github-spider](https://github.com/chenjiandongx/Github-spider) - Github 仓库及用户分析爬虫
 - [allenai/allennlp](https://github.com/allenai/allennlp) - An open-source NLP research library, built on PyTorch.
+- [Gerapy/Gerapy](https://github.com/Gerapy/Gerapy) - Distributed Crawler Management Framework Based on Scrapy, Scrapyd, Django and Vue.js
+- [vaultit/qvarn](https://github.com/vaultit/qvarn) - A RESTful HTTP API for JSON storage, integrating with Gluu for identity management, authentication, and authorization
+- [lionheart/python-restmapper](https://github.com/lionheart/python-restmapper) - RestMapper takes the pain out of integrating with RESTful APIs.
+- [mathewmarcus/StopTLS](https://github.com/mathewmarcus/StopTLS) - MitM proxy which performs opportunistic SSL/TLS stripping
+- [zatosource/zato-apitest](https://github.com/zatosource/zato-apitest) - API Testing for Humans
+- [xinlingqudongX/TSDK](https://github.com/xinlingqudongX/TSDK) - 淘宝爬虫SDK，用于淘宝开放平台或淘宝、天猫、阿里巴巴登录爬取
+- [DataDog/integrations-extras](https://github.com/DataDog/integrations-extras) - Community developed integrations and plugins for the Datadog Agent.
+- [nuclio/nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform
+- [joke2k/django-faker](https://github.com/joke2k/django-faker) - Django-faker uses fake-factory to generate test data for Django models and templates
+- [Jigsaw-Code/Intra](https://github.com/Jigsaw-Code/Intra) - An experimental tool that allows you to test new DNS-over-HTTPS services on Android
+- [choerodon/devops-service](https://github.com/choerodon/devops-service) - DevOps Service is the core service of Choerodon. It integrated several open source tools to automate the DevOps process of planning, coding, building, testing, and deployment, operation, monitoring.
+- [codingo/Reconnoitre](https://github.com/codingo/Reconnoitre) - A security tool for multithreaded information gathering and service enumeration whilst building directory structures to store results, along with writing out recommendations for further testing.
+- [Netflix-Skunkworks/WSPerfLab](https://github.com/Netflix-Skunkworks/WSPerfLab) - Project for testing web-service implementations.
+- [hmrc/service-manager](https://github.com/hmrc/service-manager) - A python tool to manage developing and testing with lots of microservices
+- [RhinoSecurityLabs/pacu](https://github.com/RhinoSecurityLabs/pacu) - The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.
+- [gitcoinco/web](https://github.com/gitcoinco/web) - Grow Open Source
+- [hyperledger/cello](https://github.com/hyperledger/cello) - Operating System for Enterprise Blockchain
+- [shd101wyy/markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) - One of the 'BEST' markdown preview extensions for Atom editor!
+- [mai-lang-chai/Middleware-Vulnerability-detection](https://github.com/mai-lang-chai/Middleware-Vulnerability-detection) - CVE、CMS、中间件漏洞检测利用合集 Since 2019-9-15
+- [EvoSuite/evosuite](https://github.com/EvoSuite/evosuite) - EvoSuite - automated generation of JUnit test suites for Java classes
+- [fmzquant/fmz_extend_api_demo](https://github.com/fmzquant/fmz_extend_api_demo) - 零成本快速打造你自己专属的多用户量化交易平台
+- [networkx/networkx](https://github.com/networkx/networkx) - Network Analysis in Python
+- [ethhub-io/ethhub](https://github.com/ethhub-io/ethhub) - The essential Ethereum information hub.
+- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
+- [CoatiSoftware/SourcetrailPythonIndexer](https://github.com/CoatiSoftware/SourcetrailPythonIndexer) - Python Indexer for Sourcetrail based on jedi, parso and SourcetrailDB
+- [apache/skywalking-python](https://github.com/apache/skywalking-python) - The Python agent for Apache SkyWalking
+- [bytedance/fedlearner](https://github.com/bytedance/fedlearner) - A multi-party collaborative machine learning framework
+- [myide/see](https://github.com/myide/see) - 基于开源组件（Inception & SQLAdvisor & SOAR）的SQL审核&SQL优化的Web平台
+- [x-hansong/Crystal](https://github.com/x-hansong/Crystal) - 一个基于scrapy+selenium+phantomjs的爬虫程序，用于抓取多个学校的学术报告信息
+- [HelloGitHub-Team/HelloDjango-blog-tutorial](https://github.com/HelloGitHub-Team/HelloDjango-blog-tutorial) - 免费带你学 django 全栈！基于 django 2.2 的个人博客，初学者绝对不能错过的 django 教程！｡◕ᴗ◕｡
+- [alibaba/alibaba.alicloud](https://github.com/alibaba/alibaba.alicloud) - 
+- [AElfProject/AElf](https://github.com/AElfProject/AElf) - A scalable cloud computing blockchain platform
+- [scanny/python-pptx](https://github.com/scanny/python-pptx) - Create Open XML PowerPoint documents in Python
+- [thombashi/pytablereader](https://github.com/thombashi/pytablereader) - A Python library to load structured table data from files/strings/URL with various data format: CSV / Excel / Google-Sheets / HTML / JSON / LDJSON / LTSV / Markdown / SQLite / TSV.
+- [rafalp/Misago](https://github.com/rafalp/Misago) - Misago is fully featured modern forum application that is fast, scalable and responsive.
+- [yeasy/docker-compose-files](https://github.com/yeasy/docker-compose-files) - Some typical docker compose templates.
+- [GoogleCloudPlatform/PerfKitBenchmarker](https://github.com/GoogleCloudPlatform/PerfKitBenchmarker) - PerfKit Benchmarker (PKB) contains a set of benchmarks to measure and compare cloud offerings. The benchmarks use default settings to reflect what most users will see. PerfKit Benchmarker is licensed under the Apache 2 license terms. Please make sure to read, understand and agree to the terms of the LICENSE and CONTRIBUTING files before proceeding.
+- [amplab/benchmark](https://github.com/amplab/benchmark) - Large scale query engine benchmark
+- [DropsDevopsOrg/ECommerceCrawlers](https://github.com/DropsDevopsOrg/ECommerceCrawlers) - 实战🐍多种网站、电商数据爬虫🕷。包含🕸：淘宝商品、微信公众号、大众点评、企查查、招聘网站、闲鱼、阿里任务、博客园、微博、百度贴吧、豆瓣电影、包图网、全景网、豆瓣音乐、某省药监局、搜狐新闻、机器学习文本采集、fofa资产采集、汽车之家、国家统计局、百度关键词收录数、蜘蛛泛目录、今日头条、豆瓣影评、携程、小米应用商店、安居客、途家民宿❤️❤️❤️。微信爬虫展示项目:
+- [offu/WeRoBot](https://github.com/offu/WeRoBot) - WeRoBot 是一个微信公众号开发框架
+- [injetlee/Python](https://github.com/injetlee/Python) - Python脚本。模拟登录知乎， 爬虫，操作excel，微信公众号，远程开机
+- [fighting41love/funNLP](https://github.com/fighting41love/funNLP) - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术系列报告、自然语言生成、NLU太难了系列、自动对联数据及机器人、用户名黑名单列表、罪名法务名词及分类模型、微信公众号语料、cs224n深度学习自然语言处理课程、中文手写汉字识别、中文自然语言处理 语料/数据集、变量命名神器、分词语料库+代码、任务型对话英文数据集、ASR 语音数据集 + 基于深度学习的中文语音识别系统、笑声检测器、Microsoft多语言数字/单位/如日期时间识别包、中华新华字典数据库及api(包括常用歇后语、成语、词语和汉字)、文档图谱自动生成、SpaCy 中文模型、Common Voice语音识别数据集新版、神经网络关系抽取、基于bert的命名实体识别、关键词(Keyphrase)抽取包pke、基于医疗领域知识图谱的问答系统、基于依存句法与语义角色标注的事件三元组抽取、依存句法分析4万句高质量标注数据、cnocr：用来做中文OCR的Python3包、中文人物关系知识图谱项目、中文nlp竞赛项目及代码汇总、中文字符数据、speech-aligner: 从“人声语音”及其“语言文本”产生音素级别时间对齐标注的工具、AmpliGraph: 知识图谱表示学习(Python)库：知识图谱概念链接预测、Scattertext 文本可视化(python)、语言/知识表示工具：BERT & ERNIE、中文对比英文自然语言处理NLP的区别综述、Synonyms中文近义词工具包、HarvestText领域自适应文本挖掘工具（新词发现-情感分析-实体链接等）、word2word：(Python)方便易用的多语言词-词对集：62种语言/3,564个多语言对、语音识别语料生成工具：从具有音频/字幕的在线视频创建自动语音识别(ASR)语料库、构建医疗实体识别的模型（包含词典和语料标注）、单文档非监督的关键词抽取、Kashgari中使用gpt-2语言模型、开源的金融投资数据提取工具、文本自动摘要库TextTeaser: 仅支持英文、人民日报语料处理工具集、一些关于自然语言的基本模型、基于14W歌曲知识库的问答尝试--功能包括歌词接龙and已知歌词找歌曲以及歌曲歌手歌词三角关系的问答、基于Siamese bilstm模型的相似句子判定模型并提供训练数据集和测试数据集、用Transformer编解码模型实现的根据Hacker News文章标题自动生成评论、用BERT进行序列标记和文本分类的模板代码、LitBank：NLP数据集——支持自然语言处理和计算人文学科任务的100部带标记英文小说语料、百度开源的基准信息抽取系统、虚假新闻数据集、Facebook: LAMA语言模型分析，提供Transformer-XL/BERT/ELMo/GPT预训练语言模型的统一访问接口、CommonsenseQA：面向常识的英文QA挑战、中文知识图谱资料、数据及工具、各大公司内部里大牛分享的技术文档 PDF 或者 PPT、自然语言生成SQL语句（英文）、中文NLP数据增强（EDA）工具、英文NLP数据增强工具 、基于医药知识图谱的智能问答系统、京东商品知识图谱、基于mongodb存储的军事领域知识图谱问答项目、基于远监督的中文关系抽取、语音情感分析、中文ULMFiT-情感分析-文本分类-语料及模型、一个拍照做题程序、世界各国大规模人名库、一个利用有趣中文语料库 qingyun 训练出来的中文聊天机器人、中文聊天机器人seqGAN、省市区镇行政区划数据带拼音标注、教育行业新闻语料库包含自动文摘功能、开放了对话机器人-知识图谱-语义理解-自然语言处理工具及数据、中文知识图谱：基于百度百科中文页面-抽取三元组信息-构建中文知识图谱、masr: 中文语音识别-提供预训练模型-高识别率、Python音频数据增广库、中文全词覆盖BERT及两份阅读理解数据、ConvLab：开源多域端到端对话系统平台、中文自然语言处理数据集、基于最新版本rasa搭建的对话系统、基于TensorFlow和BERT的管道式实体及关系抽取、一个小型的证券知识图谱/知识库、复盘所有NLP比赛的TOP方案、OpenCLaP：多领域开源中文预训练语言模型仓库、UER：基于不同语料+编码器+目标任务的中文预训练模型仓库、中文自然语言处理向量合集、基于金融-司法领域(兼有闲聊性质)的聊天机器人、g2pC：基于上下文的汉语读音自动标记模块、Zincbase 知识图谱构建工具包、诗歌质量评价/细粒度情感诗歌语料库、快速转化「中文数字」和「阿拉伯数字」、百度知道问答语料库、基于知识图谱的问答系统、jieba_fast 加速版的jieba、正则表达式教程、中文阅读理解数据集、基于BERT等最新语言模型的抽取式摘要提取、Python利用深度学习进行文本摘要的综合指南、知识图谱深度学习相关资料整理、维基大规模平行文本语料、StanfordNLP 0.2.0：纯Python版自然语言处理包、NeuralNLP-NeuralClassifier：腾讯开源深度学习文本分类工具、端到端的封闭域对话系统、中文命名实体识别：NeuroNER vs. BertNER、新闻事件线索抽取、2019年百度的三元组抽取比赛：“科学空间队”源码、基于依存句法的开放域文本知识三元组抽取和知识库构建、中文的GPT2训练代码、ML-NLP - 机器学习(Machine Learning)NLP面试中常考到的知识点和代码实现、nlp4han:中文自然语言处理工具集(断句/分词/词性标注/组块/句法分析/语义分析/NER/N元语法/HMM/代词消解/情感分析/拼写检查、XLM：Facebook的跨语言预训练语言模型、用基于BERT的微调和特征提取方法来进行知识图谱百度百科人物词条属性抽取、中文自然语言处理相关的开放任务-数据集-当前最佳结果、CoupletAI - 基于CNN+Bi-LSTM+Attention 的自动对对联系统、抽象知识图谱、MiningZhiDaoQACorpus - 580万百度知道问答数据挖掘项目、brat rapid annotation tool: 序列标注工具、大规模中文知识图谱数据：1.4亿实体、数据增强在机器翻译及其他nlp任务中的应用及效果、allennlp阅读理解:支持多种数据和模型、PDF表格数据提取工具 、 Graphbrain：AI开源软件库和科研工具，目的是促进自动意义提取和文本理解以及知识的探索和推断、简历自动筛选系统、基于命名实体识别的简历自动摘要、中文语言理解测评基准，包括代表性的数据集&基准模型&语料库&排行榜、树洞 OCR 文字识别 、从包含表格的扫描图片中识别表格和文字、语声迁移、Python口语自然语言处理工具集(英文)、 similarity：相似度计算工具包，java编写、海量中文预训练ALBERT模型 、Transformers 2.0 、基于大规模音频数据集Audioset的音频增强 、Poplar：网页版自然语言标注工具、图片文字去除，可用于漫画翻译 、186种语言的数字叫法库、Amazon发布基于知识的人-人开放领域对话数据集 、中文文本纠错模块代码、繁简体转换 、 Python实现的多种文本可读性评价指标、类似于人名/地名/组织机构名的命名体识别数据集 、东南大学《知识图谱》研究生课程(资料)、. 英文拼写检查库 、 wwsearch是企业微信后台自研的全文检索引擎、CHAMELEON：深度学习新闻推荐系统元架构 、 8篇论文梳理BERT相关模型进展与反思、DocSearch：免费文档搜索引擎、 LIDA：轻量交互式对话标注工具 、aili - the fastest in-memory index in the East 东半球最快并发索引 、知识图谱车音工作项目、自然语言生成资源大全 、中日韩分词库mecab的Python接口库、中文文本摘要/关键词提取、汉字字符特征提取器 (featurizer)，提取汉字的特征（发音特征、字形特征）用做深度学习的特征、中文生成任务基准测评 、中文缩写数据集、中文任务基准测评 - 代表性的数据集-基准(预训练)模型-语料库-baseline-工具包-排行榜、PySS3：面向可解释AI的SS3文本分类器机器可视化工具 、中文NLP数据集列表、COPE - 格律诗编辑程序、doccano：基于网页的开源协同多语言文本标注工具 、PreNLP：自然语言预处理库、简单的简历解析器，用来从简历中提取关键信息、用于中文闲聊的GPT2模型：GPT2-chitchat、基于检索聊天机器人多轮响应选择相关资源列表(Leaderboards、Datasets、Papers)、(Colab)抽象文本摘要实现集锦(教程 、词语拼音数据、高效模糊搜索工具、NLP数据增广资源集、微软对话机器人框架 、 GitHub Typo Corpus：大规模GitHub多语言拼写错误/语法错误数据集、TextCluster：短文本聚类预处理模块 Short text cluster、面向语音识别的中文文本规范化、BLINK：最先进的实体链接库、BertPunc：基于BERT的最先进标点修复模型、Tokenizer：快速、可定制的文本词条化库、中文语言理解测评基准，包括代表性的数据集、基准(预训练)模型、语料库、排行榜、spaCy 医学文本挖掘与信息提取 、 NLP任务示例项目代码集、 python拼写检查库、chatbot-list - 行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍、语音质量评价指标(MOSNet, BSSEval, STOI, PESQ, SRMR)、 用138GB语料训练的法文RoBERTa预训练语言模型 、BERT-NER-Pytorch：三种不同模式的BERT中文NER实验、无道词典 - 有道词典的命令行版本，支持英汉互查和在线查询、2019年NLP亮点回顾、 Chinese medical dialogue data 中文医疗对话数据集 、最好的汉字数字(中文数字)-阿拉伯数字转换工具、 基于百科知识库的中文词语多词义/义项获取与特定句子词语语义消歧、awesome-nlp-sentiment-analysis - 情感分析、情绪原因识别、评价对象和评价词抽取、LineFlow：面向所有深度学习框架的NLP数据高效加载器、中文医学NLP公开资源整理 、MedQuAD：(英文)医学问答数据集、将自然语言数字串解析转换为整数和浮点数、Transfer Learning in Natural Language Processing (NLP) 、面向语音识别的中文/英文发音辞典、Tokenizers：注重性能与多功能性的最先进分词器、CLUENER 细粒度命名实体识别 Fine Grained Named Entity Recognition、 基于BERT的中文命名实体识别、中文谣言数据库、NLP数据集/基准任务大列表、nlp相关的一些论文及代码, 包括主题模型、词向量(Word Embedding)、命名实体识别(NER)、文本分类(Text Classificatin)、文本生成(Text Generation)、文本相似性(Text Similarity)计算等，涉及到各种与nlp相关的算法，基于keras和tensorflow 、Python文本挖掘/NLP实战示例、 Blackstone：面向非结构化法律文本的spaCy pipeline和NLP模型通过同义词替换实现文本“变脸” 、中文 预训练 ELECTREA 模型: 基于对抗学习 pretrain Chinese Model 、albert-chinese-ner - 用预训练语言模型ALBERT做中文NER 、基于GPT2的特定主题文本生成/文本增广、开源预训练语言模型合集、多语言句向量包、编码、标记和实现：一种可控高效的文本生成方法、 英文脏话大列表 、attnvis：GPT2、BERT等transformer语言模型注意力交互可视化、CoVoST：Facebook发布的多语种语音-文本翻译语料库，包括11种语言(法语、德语、荷兰语、俄语、西班牙语、意大利语、土耳其语、波斯语、瑞典语、蒙古语和中文)的语音、文字转录及英文译文、Jiagu自然语言处理工具 - 以BiLSTM等模型为基础，提供知识图谱关系抽取 中文分词 词性标注 命名实体识别 情感分析 新词发现 关键词 文本摘要 文本聚类等功能、用unet实现对文档表格的自动检测，表格重建、NLP事件提取文献资源列表 、 金融领域自然语言处理研究资源大列表、CLUEDatasetSearch - 中英文NLP数据集：搜索所有中文NLP数据集，附常用英文NLP数据集 、medical_NER - 中文医学知识图谱命名实体识别 、(哈佛)讲因果推理的免费书、知识图谱相关学习资料/数据集/工具资源大列表、Forte：灵活强大的自然语言处理pipeline工具集 、Python字符串相似性算法库、PyLaia：面向手写文档分析的深度学习工具包、TextFooler：针对文本分类/推理的对抗文本生成模块、Haystack：灵活、强大的可扩展问答(QA)框架、中文关键短语抽取工具
+- [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
+- [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
+- [jenkinsci/jenkins-scripts](https://github.com/jenkinsci/jenkins-scripts) - Scripts in Groovy, shell, Ruby, Python, whatever for managing/interacting with Jenkins
+- [aqzt/kjyw](https://github.com/aqzt/kjyw) - 快捷运维，代号kjyw，项目基于shell、python，运维脚本工具库，收集各类运维常用工具脚本，实现快速安装nginx、mysql、php、redis、nagios、运维经常使用的脚本等等...
+- [unpingco/Python-for-Signal-Processing](https://github.com/unpingco/Python-for-Signal-Processing) - Notebooks for "Python for Signal Processing" book
+- [operatorequals/covertutils](https://github.com/operatorequals/covertutils) - A framework for Backdoor development!
+- [n1nj4sec/pupy](https://github.com/n1nj4sec/pupy) - Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python
+- [ClearcodeHQ/mirakuru](https://github.com/ClearcodeHQ/mirakuru) - Mirakuru - a python library that starts your subprocess and waits for a clear indication, that it's running (process orchestrator)
+- [xolox/python-executor](https://github.com/xolox/python-executor) - Programmer friendly subprocess wrapper
+- [leffss/cmdb](https://github.com/leffss/cmdb) - 基于 python 3.7 + django 2.2.3 + AdminLTE-3.0.0-beta.1 实现的资产管理系统。
+- [python-cmd2/cmd2](https://github.com/python-cmd2/cmd2) - cmd2 - quickly build feature-rich and user-friendly interactive command line applications in Python
+- [rasbt/stat453-deep-learning-ss20](https://github.com/rasbt/stat453-deep-learning-ss20) - STAT 453: Intro to Deep Learning @ UW-Madison (Spring 2020)
+- [skywind3000/ECDICT](https://github.com/skywind3000/ECDICT) - Free English to Chinese Dictionary Database
+- [1200wd/bitcoinlib](https://github.com/1200wd/bitcoinlib) - Bitcoin and other Cryptocurrencies Library for Python. Includes a fully functional  wallet, Mnemonic key generation and management and connection with various service providers to receive and send blockchain and transaction information.
+- [spesmilo/electrum](https://github.com/spesmilo/electrum) - Electrum Bitcoin Wallet
+- [ktdreyer/jenkins-job-wrecker](https://github.com/ktdreyer/jenkins-job-wrecker) - convert Jenkins job XML to JJB YAML
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Materials to help you rock your next coding interview
+- [gquere/pwn_jenkins](https://github.com/gquere/pwn_jenkins) - Notes about attacking Jenkins servers
+- [cnych/kubernetes-learning](https://github.com/cnych/kubernetes-learning) - 《从Docker到Kubernetes进阶课程》在线文档
+- [Blazemeter/taurus](https://github.com/Blazemeter/taurus) - Automation-friendly framework for Continuous Testing by
+- [devops-workflow/jenkins-job-builder-config](https://github.com/devops-workflow/jenkins-job-builder-config) - Jenkins Job Builder definitions
+- [cryptoeconomicslab/plasma-chamber](https://github.com/cryptoeconomicslab/plasma-chamber) - Plasma Chamber is a DApps development framework that guarantees security, scalability, and usability utilizing Plasma technology.
+- [geekcomputers/Python](https://github.com/geekcomputers/Python) - My Python Examples
+- [FabriceSalvaire/CodeReview](https://github.com/FabriceSalvaire/CodeReview) - CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
+- [devitocodes/devito](https://github.com/devitocodes/devito) - Code generation framework for automated finite difference computation
+- [SpoonLabs/coming](https://github.com/SpoonLabs/coming) - A tool for mining commits  from Git repositories and diffs to automatically extract code change pattern instances and features with ast analysis 
+- [emberian/this-week-in-rust](https://github.com/emberian/this-week-in-rust) - Data for this-week-in-rust.org
+- [mattmakai/fullstackpython.com](https://github.com/mattmakai/fullstackpython.com) - Full Stack Python source with Pelican, Bootstrap and Markdown.
+- [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go
+- [informalsystems/apalache](https://github.com/informalsystems/apalache) - APALACHE: symbolic model checker for TLA+
+- [github/platform-samples](https://github.com/github/platform-samples) - A public place for all platform sample projects.
+- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+- [hhyo/Archery](https://github.com/hhyo/Archery) - SQL 审核查询平台
+- [Conflux-Chain/conflux-rust](https://github.com/Conflux-Chain/conflux-rust) - The Rust implementation of Conflux protocol.
+- [undera/jmeter-plugins](https://github.com/undera/jmeter-plugins) - JMeter Plugins
+- [Staffjoy/v2](https://github.com/Staffjoy/v2) - Staffjoy V2 - all microservices in a monorepo
+- [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus.
+- [chubaofs/chubaofs](https://github.com/chubaofs/chubaofs) - A distributed file system and object store for cloud native applications
+- [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
+- [menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator) -  Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
+- [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
+- [CreditEaseDBA/Themis](https://github.com/CreditEaseDBA/Themis) - 数据库审核平台
+- [stephanenicolas/Quality-Tools-for-Android](https://github.com/stephanenicolas/Quality-Tools-for-Android) - 
+- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
+- [spring-projects/spring-integration](https://github.com/spring-projects/spring-integration) - Spring Integration provides an extension of the Spring programming model to support the well-known Enterprise Integration Patterns (EIP)
+- [jsupratman13/ai_programming](https://github.com/jsupratman13/ai_programming) - test site for programming algorithms, planning, etc
+- [amirshukayev/Blockchain-Sentiment-Analysis-AI-Trader](https://github.com/amirshukayev/Blockchain-Sentiment-Analysis-AI-Trader) - Crypto trading assistant that uses sentiment analysis on scraped web data to provide analysis. Feel free to fork and test
+- [qaviton/qaviton](https://github.com/qaviton/qaviton) - The first open source project to facilitate a unified testing automation framework for Web, Mobile & IoT with Machine Learning, AI and much more
+- [eth-sri/ilf](https://github.com/eth-sri/ilf) - AI based fuzzer based on imitation learning
+- [StandOutstar/Pytest_Allure_Airtest_Demo](https://github.com/StandOutstar/Pytest_Allure_Airtest_Demo) - Sample for Automated UI Test of Apps
+- [danielvdende/data-testing-with-airflow](https://github.com/danielvdende/data-testing-with-airflow) - 
+- [buildbot/buildbot](https://github.com/buildbot/buildbot) - Python-based continuous integration testing framework; your pull requests are more than welcome!
+- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
+- [sfyc23/EverydayWechat](https://github.com/sfyc23/EverydayWechat) - 微信助手：1.每日定时给好友（女友）发送定制消息。2.机器人自动回复好友。3.群助手功能（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5等）
+- [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
+- [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
+- [kiwitcms/Kiwi](https://github.com/kiwitcms/Kiwi) - the leading open source test management system
+- [fluencelabs/fluence](https://github.com/fluencelabs/fluence) - Peer-to-peer computing protocol and licensing system
+- [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
+- [BANKEX/plasma-research](https://github.com/BANKEX/plasma-research) - 
+- [pventuzelo/octopus](https://github.com/pventuzelo/octopus) - Security Analysis tool for WebAssembly module (wasm) and Blockchain Smart Contracts (BTC/ETH/NEO/EOS)
+- [pympler/pympler](https://github.com/pympler/pympler) - Development tool to measure, monitor and analyze the memory behavior of Python objects in a running Python application.
+- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
+- [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
+- [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps Kubernetes SREs and developers practice chaos engineering in a Kubernetes native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q
+- [lepture/mistune](https://github.com/lepture/mistune) - A fast yet powerful Python Markdown parser with renderers and plugins.
+- [cantaro86/Financial-Models-Numerical-Methods](https://github.com/cantaro86/Financial-Models-Numerical-Methods) - Collection of notebooks about quantitative finance, with interactive python code.
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
+- [apache/incubator-dolphinscheduler](https://github.com/apache/incubator-dolphinscheduler) - Dolphin Scheduler is a distributed and easy-to-extend visual workflow scheduling platform, dedicated to solving the complex dependencies in data processing, making the scheduling system out of the box for data processing.(分布式易扩展的可视化工作流任务调度)
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
+- [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
+- [HollowayBooks/aws-lambda-slack-bot](https://github.com/HollowayBooks/aws-lambda-slack-bot) - Build a Slack bot with AWS Lambda
+- [jfrog/project-examples](https://github.com/jfrog/project-examples) - Small projects in universal build ecosystems to configure CI and Artifactory
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+- [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
+- [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library, plus lessons and tutorials
+- [zalando/connexion](https://github.com/zalando/connexion) - Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation & OAuth2 support
+- [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
+- [s0md3v/Arjun](https://github.com/s0md3v/Arjun) - HTTP parameter discovery suite.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ Easy Web Automation and Testing with Selenium & pytest. Batteries included.
+- [kubernetes-client/python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes
+- [quay/quay](https://github.com/quay/quay) - Build, Store, and Distribute your Applications and Containers
+- [dragen1860/Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book) - 深度学习入门开源书，基于TensorFlow 2.0案例实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.
+- [coorty/ATEC_Payment_Risk_Recognition_Competition](https://github.com/coorty/ATEC_Payment_Risk_Recognition_Competition) - ATEC蚂蚁开发者大赛-风险大脑-支付风险识别
+- [tendermint/tendermint](https://github.com/tendermint/tendermint) - ⟁ Tendermint Core (BFT Consensus) in Go
+- [Turing-Chain/risk-redistribution-payment-dappcon](https://github.com/Turing-Chain/risk-redistribution-payment-dappcon) - A Risk Redistribution Standard for Practical Cryptocurrency Payments
+- [PaloAltoNetworks/WireLurkerDetector](https://github.com/PaloAltoNetworks/WireLurkerDetector) - Script for detecting the WireLurker malware family
+- [jepsen-io/jepsen](https://github.com/jepsen-io/jepsen) - A framework for distributed systems verification, with fault injection
+- [spyder-ide/spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment
+- [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
+- [bbfamily/abu](https://github.com/bbfamily/abu) - 阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构
+- [google/pytype](https://github.com/google/pytype) - A static type analyzer for Python code
+- [ray-project/ray](https://github.com/ray-project/ray) - A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
+- [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
+- [zaproxy/zap-api-python](https://github.com/zaproxy/zap-api-python) - OWASP ZAP Python API 
+- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter | Ask us anything at our forum |
+- [fescobar/allure-docker-service](https://github.com/fescobar/allure-docker-service) - This docker container allows you to see up to date reports simply mounting your "allure-results" directory in the container (for a Single Project) or your "projects" directory (for Multiple Projects). Every time appears new results (generated for your tests), Allure Docker Service will detect those changes and it will generate a new report automatically (optional: send results / generate report through API), what you will see refreshing your browser.
+- [amazingTest/Taisite-Platform](https://github.com/amazingTest/Taisite-Platform) - 最强接口测试平台
+- [microsoft/c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started) - Sample code for Channel 9 Python for Beginners course
+- [Ginger-Automation/Ginger](https://github.com/Ginger-Automation/Ginger) - Ginger Automation IDE 
+- [lago-project/lago](https://github.com/lago-project/lago) - Ad-hoc virtual testing environment framework
+- [Morgan-Stanley/testplan](https://github.com/Morgan-Stanley/testplan) - Testplan, a multi-testing framework, because unit tests can only go so far..
+- [ansible-community/molecule](https://github.com/ansible-community/molecule) - Molecule aids in the development and testing of Ansible roles
+- [Watch-Dogs-HIT/Watch_Dogs-Client](https://github.com/Watch-Dogs-HIT/Watch_Dogs-Client) - Linux远程主机及进程状态监测系统 - 客户端
 ## JAVASCRIPT
 - [Uniswap/uniswap-api](https://github.com/Uniswap/uniswap-api) - 🔮 Uniswap market data
 - [sigillabs/mobidex](https://github.com/sigillabs/mobidex) - Mobile trustless trading through Uniswap
@@ -1818,4 +2140,250 @@
 - [digital-asset/daml](https://github.com/digital-asset/daml) - The DAML smart contract language
 - [digital-asset/daml](https://github.com/digital-asset/daml) - The DAML smart contract language
 - [find-sec-bugs/find-sec-bugs](https://github.com/find-sec-bugs/find-sec-bugs) - The SpotBugs plugin for security audits of Java web applications and Android applications. (Also work with Kotlin, Groovy and Scala projects)
-## GO
+- [stoplightio/prism](https://github.com/stoplightio/prism) - Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.
+- [stoplightio/prism](https://github.com/stoplightio/prism) - Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.
+- [Gerapy/Gerapy](https://github.com/Gerapy/Gerapy) - Distributed Crawler Management Framework Based on Scrapy, Scrapyd, Django and Vue.js
+- [near/near-wallet](https://github.com/near/near-wallet) - Web wallet for NEAR Protocol which stores keys in browser's localStorage
+- [nuclio/nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform
+- [yasuflatland-lf/liferay-dummy-factory](https://github.com/yasuflatland-lf/liferay-dummy-factory) - 🏭 Liferay DXP / 7 Dummy data generation portlet
+- [rosiejs/rosie](https://github.com/rosiejs/rosie) - factory for building JavaScript objects, mostly useful for setting up test data. Inspired by factory_girl
+- [choerodon/devops-service](https://github.com/choerodon/devops-service) - DevOps Service is the core service of Choerodon. It integrated several open source tools to automate the DevOps process of planning, coding, building, testing, and deployment, operation, monitoring.
+- [choerodon/devops-service](https://github.com/choerodon/devops-service) - DevOps Service is the core service of Choerodon. It integrated several open source tools to automate the DevOps process of planning, coding, building, testing, and deployment, operation, monitoring.
+- [wswebcreation/wdio-image-comparison-service](https://github.com/wswebcreation/wdio-image-comparison-service) - Image comparison / visual regression testing for WebdriverIO V5 and higher
+- [azagniotov/stubby4j](https://github.com/azagniotov/stubby4j) - An HTTP stub server for testing application interactions with web services (REST, etc) & external system stubbing for easy testing
+- [julien-lafont/Mocky](https://github.com/julien-lafont/Mocky) - Generate custom HTTP responses, the simpler way to test your Web Services
+- [julien-lafont/Mocky](https://github.com/julien-lafont/Mocky) - Generate custom HTTP responses, the simpler way to test your Web Services
+- [SmartBear/soapui](https://github.com/SmartBear/soapui) - SoapUI is a free and open source cross-platform functional testing solution for APIs and web services.
+- [gitcoinco/web](https://github.com/gitcoinco/web) - Grow Open Source
+- [hyperledger/cello](https://github.com/hyperledger/cello) - Operating System for Enterprise Blockchain
+- [0xGG/crossnote](https://github.com/0xGG/crossnote) - 📝 An interesting markdown note taking application
+- [0xGG/crossnote](https://github.com/0xGG/crossnote) - 📝 An interesting markdown note taking application
+- [shd101wyy/mume](https://github.com/shd101wyy/mume) - Powerful markdown tool
+- [shd101wyy/mume](https://github.com/shd101wyy/mume) - Powerful markdown tool
+- [shd101wyy/markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) - One of the 'BEST' markdown preview extensions for Atom editor!
+- [shd101wyy/markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) - One of the 'BEST' markdown preview extensions for Atom editor!
+- [TANGKUO/HIS](https://github.com/TANGKUO/HIS) - HIS英文全称 hospital information system（医院信息系统），系统主要功能按照数据流量、流向及处理过程分为临床诊疗、药品管理、财务管理、患者管理。诊疗活动由各工作站配合完成，并将临床信息进行整理、处理、汇总、统计、分析等。本系统包括以下工作站：门诊医生工作站、药房医生工作站、医技医生工作站、收费员工作站、对帐员工作站、管理员工作站。
+- [corona-warn-app/cwa-verification-server](https://github.com/corona-warn-app/cwa-verification-server) - Backend implementation of the verification process
+- [smooth-code/jest-puppeteer](https://github.com/smooth-code/jest-puppeteer) - Run your tests using Jest & Puppeteer 🎪✨
+- [EvoSuite/evosuite](https://github.com/EvoSuite/evosuite) - EvoSuite - automated generation of JUnit test suites for Java classes
+- [luffyZh/next-antd-scaffold](https://github.com/luffyZh/next-antd-scaffold) - 🏠 A simple scaffold based on Next.js for quick use with ant-design, redux, redux-saga, fetch and pm2. 
+- [Hulkye/FrontEndNav](https://github.com/Hulkye/FrontEndNav) - :label: FrontEndNav，前端网站收藏，前端网站导航，webhub, f2e , fe收藏集
+- [czfshine/notion](https://github.com/czfshine/notion) - 一款多合一应用，旨在集成笔记，TODO，任务管理，wiki，文件管理，文档管理（创意来自notion.so）
+- [iotexproject/iotex-explorer](https://github.com/iotexproject/iotex-explorer) - Official explorer and wallet of IoTeX blockchain!
+- [iotexproject/iotex-explorer](https://github.com/iotexproject/iotex-explorer) - Official explorer and wallet of IoTeX blockchain!
+- [iotexproject/iotex-core](https://github.com/iotexproject/iotex-core) - Official implementation of IoTeX blockchain protocol in Go.
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
+- [scotch-io/vue-starter-course](https://github.com/scotch-io/vue-starter-course) - Code for the scotch.io course: Getting Started with Vue
+- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
+- [88250/pipe](https://github.com/88250/pipe) - 🎷 B3log 分布式社区的 Go 博客端节点系统，欢迎加入下一代社区网络。B3log distributed community blog-end node, welcome to join the next generation community network. 
+- [88250/symphony](https://github.com/88250/symphony) - 🎶 一款用 Java 实现的现代化社区（论坛/问答/BBS/社交网络/博客）系统平台。A modern community (forum/Q&A/BBS/SNS/blog) system platform implemented in Java. https://hacpai.com
+- [Kong/insomnia](https://github.com/Kong/insomnia) - The Open Source API Client and Design Platform for GraphQL and REST -&gt;
+- [react-cosmos/react-cosmos](https://github.com/react-cosmos/react-cosmos) - Dev environment for building scalable, high-quality user interfaces
+- [react-cosmos/react-cosmos](https://github.com/react-cosmos/react-cosmos) - Dev environment for building scalable, high-quality user interfaces
+- [bytedance/fedlearner](https://github.com/bytedance/fedlearner) - A multi-party collaborative machine learning framework
+- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
+- [serenity-bdd/serenity-maven-plugin](https://github.com/serenity-bdd/serenity-maven-plugin) - 
+- [Xceptance/neodymium-library](https://github.com/Xceptance/neodymium-library) - A test automation library based on common other best practice open source libraries. It adds missing functionalities but does not reinvent the wheel. Just glues stuff together nicely and adds some sprinkles.
+- [atian25/vuepress-plugin-yuque-deploy](https://github.com/atian25/vuepress-plugin-yuque-deploy) - deploy your vuepress markdown to https://yuque.com
+- [x-cold/yuque-hexo](https://github.com/x-cold/yuque-hexo) - 同步语雀的文章到你的 Hexo 项目吧！
+- [diwand/yapi](https://github.com/diwand/yapi) - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台,当前分支为在yapi主分支1.7.0版本基础上定制增加了若干功能
+- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - Bringing full-stack to the Jamstack.
+- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - Bringing full-stack to the Jamstack.
+- [HelloGitHub-Team/HelloDjango-blog-tutorial](https://github.com/HelloGitHub-Team/HelloDjango-blog-tutorial) - 免费带你学 django 全栈！基于 django 2.2 的个人博客，初学者绝对不能错过的 django 教程！｡◕ᴗ◕｡
+- [zalando/zappr](https://github.com/zalando/zappr) - An agent that enforces guidelines for your GitHub repositories
+- [opendata-for-all/gadolinium](https://github.com/opendata-for-all/gadolinium) - Tool using OpenAPI specified API file in order to test and visualize non-functional properties  (currently Latency and Uptime)
+- [opendata-for-all/gadolinium](https://github.com/opendata-for-all/gadolinium) - Tool using OpenAPI specified API file in order to test and visualize non-functional properties  (currently Latency and Uptime)
+- [yapily/yapily-api-test-suite](https://github.com/yapily/yapily-api-test-suite) - Postman collection runner for Yapily API's
+- [nuysoft/Mock](https://github.com/nuysoft/Mock) - A simulation data generator
+- [stoplightio/spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI v2 & v3.
+- [stoplightio/spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI v2 & v3.
+- [doublechaintech/scm-biz-suite](https://github.com/doublechaintech/scm-biz-suite) - 供应链中台系统基础版，集成零售管理, 电子商务, 供应链管理,  财务管理, 车队管理, 仓库管理, 人员管理, 产品管理, 订单管理, 会员管理, 连锁店管理, 加盟管理, 前端React/Ant Design, 后端Java Spring+自有开源框架，全面支持MySQL, PostgreSQL, 全面支持国产数据库南大通用GBase 8s,通过REST接口调用，前后端完全分离。
+- [smartping/smartping](https://github.com/smartping/smartping) - 综合性网络质量(PING)检测工具，支持正/反向PING绘图、互PING拓扑绘图与报警、全国PING延迟地图与在线检测工具等功能 
+- [yyhsong/iDataV](https://github.com/yyhsong/iDataV) - 大屏数据可视化 Big screen data visualization demo
+- [adrianvlupu/C4-Builder](https://github.com/adrianvlupu/C4-Builder) - This is a documentation builder. You feed it .md and .puml and it exports a site, pdf, or a markdown with navigation.
+- [l-hammer/You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) - 💄CSS tricks for web developers~
+- [danielpalme/ReportGenerator](https://github.com/danielpalme/ReportGenerator) - ReportGenerator converts coverage reports generated by OpenCover, dotCover, Visual Studio, NCover, Cobertura, JaCoCo, Clover, gcov or lcov into human readable reports in various formats.
+- [danielpalme/ReportGenerator](https://github.com/danielpalme/ReportGenerator) - ReportGenerator converts coverage reports generated by OpenCover, dotCover, Visual Studio, NCover, Cobertura, JaCoCo, Clover, gcov or lcov into human readable reports in various formats.
+- [SerpicoProject/Serpico](https://github.com/SerpicoProject/Serpico) - SimplE RePort wrIting and COllaboration tool
+- [cosmos/peggy](https://github.com/cosmos/peggy) - A CosmosSDK application for moving assets on and off of EVM based, POW chains
+- [swishlabsco/cosmos-ethereum-bridge](https://github.com/swishlabsco/cosmos-ethereum-bridge) - Cosmos Ethereum Bridge
+- [tendermint/dex-demo](https://github.com/tendermint/dex-demo) - DeX Demo
+- [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar) - 🌟 Ethereum 2.0: TypeScript Implementation of the Beacon Chain 
+- [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar) - 🌟 Ethereum 2.0: TypeScript Implementation of the Beacon Chain 
+- [irisnet/irishub](https://github.com/irisnet/irishub) - A BPoS blockchain that enables cross-chain interoperability through a unified service model -- built with Cosmos-SDK
+- [rafalp/Misago](https://github.com/rafalp/Misago) - Misago is fully featured modern forum application that is fast, scalable and responsive.
+- [WebStackPage/webstack-Admin](https://github.com/WebStackPage/webstack-Admin) - 网址导航后台静态源码 webstack dashboard UI
+- [eine/issue-runner](https://github.com/eine/issue-runner) - Execute Minimal Working Examples (MWEs) defined in the body of Markdown files or GitHub issues.
+- [eine/issue-runner](https://github.com/eine/issue-runner) - Execute Minimal Working Examples (MWEs) defined in the body of Markdown files or GitHub issues.
+- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [builderbook/builderbook](https://github.com/builderbook/builderbook) - Open source web app. Built with React, Material-UI, Next, Express, Mongoose, MongoDB.
+- [txd-team/docsite](https://github.com/txd-team/docsite) - An opensource static website generator
+- [yahoo/athenz](https://github.com/yahoo/athenz) - Athenz is a role-based authorization (RBAC) system for provisioning and configuration (centralized authorization) use cases as well as serving/runtime (decentralized authorization) use cases.
+- [amplab/benchmark](https://github.com/amplab/benchmark) - Large scale query engine benchmark
+- [OWASP/Benchmark](https://github.com/OWASP/Benchmark) - OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java. The idea is that since it is fully runnable and all the vulnerabilities are actually exploitable, it’s a fair test for any kind of vulnerability detection tool.  For more details on this project, please see the OWASP Benchmark Project home page.
+- [crmeb/CRMEB](https://github.com/crmeb/CRMEB) - 开源微信公众号商城 小程序商城系统，带分销、拼团、秒杀、砍价、优惠券、积分等功能，前后端全部开源，更是一套方便二次开发的框架
+- [lyricat/wechat-format](https://github.com/lyricat/wechat-format) - 微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML
+- [helloxz/yqdoc](https://github.com/helloxz/yqdoc) - 基于语雀API开发的文档系统
+- [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
+- [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
+- [n1nj4sec/pupy](https://github.com/n1nj4sec/pupy) - Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python
+- [leffss/cmdb](https://github.com/leffss/cmdb) - 基于 python 3.7 + django 2.2.3 + AdminLTE-3.0.0-beta.1 实现的资产管理系统。
+- [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [x-extends/vxe-table](https://github.com/x-extends/vxe-table) - 🐬 vxe-table vue  表格解决方案
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
+- [bitcoinjs/bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) - A javascript Bitcoin library for node.js and browsers.
+- [bitcoinjs/bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) - A javascript Bitcoin library for node.js and browsers.
+- [greenaddress/WalletElectron](https://github.com/greenaddress/WalletElectron) - The GreenAddress wallet for Windows/Mac/Linux
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Materials to help you rock your next coding interview
+- [cnych/kubernetes-learning](https://github.com/cnych/kubernetes-learning) - 《从Docker到Kubernetes进阶课程》在线文档
+- [Blazemeter/taurus](https://github.com/Blazemeter/taurus) - Automation-friendly framework for Continuous Testing by
+- [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) -  DevOps Guide from basic to advanced with Interview Questions and Notes 🔥
+- [github/janky](https://github.com/github/janky) - Continuous integration server built on top of Jenkins and Hubot
+- [postmanlabs/newman](https://github.com/postmanlabs/newman) - Newman is a command-line collection runner for Postman
+- [judasn/Linux-Tutorial](https://github.com/judasn/Linux-Tutorial) - 《Java 程序员眼中的 Linux》
+- [cryptoeconomicslab/plasma-chamber](https://github.com/cryptoeconomicslab/plasma-chamber) - Plasma Chamber is a DApps development framework that guarantees security, scalability, and usability utilizing Plasma technology.
+- [cryptoeconomicslab/plasma-chamber](https://github.com/cryptoeconomicslab/plasma-chamber) - Plasma Chamber is a DApps development framework that guarantees security, scalability, and usability utilizing Plasma technology.
+- [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders) - Find open-source alternatives
+- [microsoft/fluent-ui-react](https://github.com/microsoft/fluent-ui-react) - An ecosystem for building highly customizable enterprise class user interfaces.
+- [microsoft/fluent-ui-react](https://github.com/microsoft/fluent-ui-react) - An ecosystem for building highly customizable enterprise class user interfaces.
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
+- [ing-bank/lion](https://github.com/ing-bank/lion) - Lion Web Components
+- [prettydiff/prettydiff](https://github.com/prettydiff/prettydiff) - Beautifier and language aware code comparison tool for many languages. It also minifies and a few other things.
+- [prettydiff/prettydiff](https://github.com/prettydiff/prettydiff) - Beautifier and language aware code comparison tool for many languages. It also minifies and a few other things.
+- [emberian/this-week-in-rust](https://github.com/emberian/this-week-in-rust) - Data for this-week-in-rust.org
+- [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go
+- [github/platform-samples](https://github.com/github/platform-samples) - A public place for all platform sample projects.
+- [FunctionScript/FunctionScript](https://github.com/FunctionScript/FunctionScript) - A language and specification for turning JavaScript functions into typed HTTP APIs
+- [stdlib/lib](https://github.com/stdlib/lib) - Standard Library API Development, Deployment, and Management Tools
+- [easycodebox/easycode](https://github.com/easycodebox/easycode) - 致力于打造Java企业级项目一站式解决方案
+- [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - The tiny framework for building hypertext applications.
+- [yangzongzhuan/RuoYi](https://github.com/yangzongzhuan/RuoYi) - (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
+- [vinodkd/jmx.js](https://github.com/vinodkd/jmx.js) - jmx.js - a Web-based editor for JMeter JMX Files
+- [flowable/flowable-engine](https://github.com/flowable/flowable-engine) - A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users.
+- [Staffjoy/v2](https://github.com/Staffjoy/v2) - Staffjoy V2 - all microservices in a monorepo
+- [spring2go/staffjoy](https://github.com/spring2go/staffjoy) - 微服务(Microservices)和云原生架构教学案例项目，基于Spring Boot和Kubernetes技术栈
+- [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus.
+- [Apicurio/apicurio-studio](https://github.com/Apicurio/apicurio-studio) - Open Source API Design
+- [Apicurio/apicurio-studio](https://github.com/Apicurio/apicurio-studio) - Open Source API Design
+- [SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
+- [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
+- [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
+- [menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator) -  Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
+- [postwoman-io/postwoman](https://github.com/postwoman-io/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 70k+ developers. https://postwoman.io
+- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
+- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
+- [feelschaotic/AndroidKnowledgeSystem](https://github.com/feelschaotic/AndroidKnowledgeSystem) - The most complete Android advanced route knowledge map ⭐️你想要的最全 Android 进阶路线知识图谱+干货资料收集🚀 
+- [exoplatform/platform-qa-ui](https://github.com/exoplatform/platform-qa-ui) - UI Quality Assurance for eXo Platform
+- [agile-lab-dev/DataQuality](https://github.com/agile-lab-dev/DataQuality) - DataQuality for BigData
+- [agile-lab-dev/DataQuality](https://github.com/agile-lab-dev/DataQuality) - DataQuality for BigData
+- [YellowLabTools/YellowLabTools](https://github.com/YellowLabTools/YellowLabTools) - WebPerf and front-end quality testing tool
+- [CreditEaseDBA/Themis](https://github.com/CreditEaseDBA/Themis) - 数据库审核平台
+- [Qafoo/QualityAnalyzer](https://github.com/Qafoo/QualityAnalyzer) - Tool helping us to analyze software projects
+- [spring-projects/spring-integration](https://github.com/spring-projects/spring-integration) - Spring Integration provides an extension of the Spring programming model to support the well-known Enterprise Integration Patterns (EIP)
+- [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
+- [amirshukayev/Blockchain-Sentiment-Analysis-AI-Trader](https://github.com/amirshukayev/Blockchain-Sentiment-Analysis-AI-Trader) - Crypto trading assistant that uses sentiment analysis on scraped web data to provide analysis. Feel free to fork and test
+- [eth-sri/ilf](https://github.com/eth-sri/ilf) - AI based fuzzer based on imitation learning
+- [airtap/airtap](https://github.com/airtap/airtap) - Test your JavaScript in 800+ browsers.
+- [gaia-pipeline/gaia](https://github.com/gaia-pipeline/gaia) - Build powerful pipelines in any programming language.
+- [buildbot/buildbot](https://github.com/buildbot/buildbot) - Python-based continuous integration testing framework; your pull requests are more than welcome!
+- [buildbot/buildbot](https://github.com/buildbot/buildbot) - Python-based continuous integration testing framework; your pull requests are more than welcome!
+- [Strider-CD/strider](https://github.com/Strider-CD/strider) - Open Source Continuous Integration & Deployment Server
+- [Strider-CD/strider](https://github.com/Strider-CD/strider) - Open Source Continuous Integration & Deployment Server
+- [concourse/concourse](https://github.com/concourse/concourse) - Concourse is a container-based continuous thing-doer written in Go and Elm.
+- [gocd/gocd](https://github.com/gocd/gocd) - Main repository for GoCD - Continuous Delivery server
+- [gocd/gocd](https://github.com/gocd/gocd) - Main repository for GoCD - Continuous Delivery server
+- [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
+- [auchenberg/volkswagen](https://github.com/auchenberg/volkswagen) - :see_no_evil: Volkswagen detects when your tests are being run in a CI server, and makes them pass.
+- [Tencent/feflow](https://github.com/Tencent/feflow) - 🚀 A command line tool aims to improve front-end engineer workflow and standard, powered by TypeScript.
+- [Tencent/feflow](https://github.com/Tencent/feflow) - 🚀 A command line tool aims to improve front-end engineer workflow and standard, powered by TypeScript.
+- [ehmicky/cross-platform-node-guide](https://github.com/ehmicky/cross-platform-node-guide) - 📗 How to write cross-platform Node.js code
+- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
+- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
+- [pmd/pmd](https://github.com/pmd/pmd) - An extensible multilanguage static code analyzer.
+- [pmd/pmd](https://github.com/pmd/pmd) - An extensible multilanguage static code analyzer.
+- [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) - Continuous Inspection
+- [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) - Continuous Inspection
+- [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
+- [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
+- [wesbos/beginner-javascript](https://github.com/wesbos/beginner-javascript) - Slam Dunk JavaScript
+- [alyssaxuu/flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨
+- [kiwitcms/Kiwi](https://github.com/kiwitcms/Kiwi) - the leading open source test management system
+- [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
+- [fluencelabs/fluence](https://github.com/fluencelabs/fluence) - Peer-to-peer computing protocol and licensing system
+- [fluencelabs/fluence](https://github.com/fluencelabs/fluence) - Peer-to-peer computing protocol and licensing system
+- [BANKEX/PlasmaETHexchange](https://github.com/BANKEX/PlasmaETHexchange) - Plasma protocol compatible ETH Exchange Platform
+- [BitGo/BitGoJS](https://github.com/BitGo/BitGoJS) - BitGo JavaScript SDK
+- [BitGo/BitGoJS](https://github.com/BitGo/BitGoJS) - BitGo JavaScript SDK
+- [BitGo/bitgo-utxo-lib](https://github.com/BitGo/bitgo-utxo-lib) - UTXO coins functions implemented in pure JavaScript
+- [coingate/magento2-plugin](https://github.com/coingate/magento2-plugin) - Accept Bitcoin & Altcoins on your Magento 2 store
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
+- [thombergs/code-examples](https://github.com/thombergs/code-examples) - A collection of code examples from blog posts etc.
+- [thombergs/code-examples](https://github.com/thombergs/code-examples) - A collection of code examples from blog posts etc.
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go
+- [BANKEX/Blockchain-Hackathon-Kazan](https://github.com/BANKEX/Blockchain-Hackathon-Kazan) - Storage mortgage securities system
+- [BANKEX/plasma-research](https://github.com/BANKEX/plasma-research) - 
+- [h2database/h2database](https://github.com/h2database/h2database) - H2 is an embeddable RDBMS written in Java.
+- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
+- [LingRay/mindmap](https://github.com/LingRay/mindmap) - rewrite naotu.baidu.com with vuejs
+- [slxiao/test-funnel](https://github.com/slxiao/test-funnel) - ⌛️ test selector for Javascript 
+- [chromaui/learnstorybook.com](https://github.com/chromaui/learnstorybook.com) - Static site and content for Storybook tutorials
+- [tinacms/tinacms](https://github.com/tinacms/tinacms) - Tina is a toolkit for building content management systems directly into websites made with React (Gatsby and Next.js)
+- [tinacms/tinacms](https://github.com/tinacms/tinacms) - Tina is a toolkit for building content management systems directly into websites made with React (Gatsby and Next.js)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
+- [rickbergfalk/sqlpad](https://github.com/rickbergfalk/sqlpad) - Web-based SQL editor run in your own private cloud. Supports MySQL, Postgres, SQL Server, Vertica, Crate, ClickHouse, Presto, SAP HANA, Cassandra, Snowflake, BigQuery, SQLite, and more with ODBC
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
+- [styleguidist/react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
+- [styleguidist/react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
+- [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
+- [thoughtworks/metricating-api](https://github.com/thoughtworks/metricating-api) - A system that collects issue tracker data to visualize agile team metrics
+- [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) - A library that generates an interactive radar, inspired by http://thoughtworks.com/radar/
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js - Open Source Analytics Framework
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js - Open Source Analytics Framework
+- [jfrog/project-examples](https://github.com/jfrog/project-examples) - Small projects in universal build ecosystems to configure CI and Artifactory
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+- [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library, plus lessons and tutorials
+- [DataFire/DataFire](https://github.com/DataFire/DataFire) - A framework for building integrations and APIs
+- [strongloop/loopback-next](https://github.com/strongloop/loopback-next) - LoopBack makes it easy to build modern API applications that require complex integrations.
+- [strongloop/loopback-next](https://github.com/strongloop/loopback-next) - LoopBack makes it easy to build modern API applications that require complex integrations.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ Easy Web Automation and Testing with Selenium & pytest. Batteries included.
+- [quay/quay](https://github.com/quay/quay) - Build, Store, and Distribute your Applications and Containers
+- [quay/quay](https://github.com/quay/quay) - Build, Store, and Distribute your Applications and Containers
+- [seymoe/QuillCMS](https://github.com/seymoe/QuillCMS) - QuillCMS, A Content Management System build with Node.js, Express, Nuxt.js and MongoDB.
+- [vuejs/vue-next](https://github.com/vuejs/vue-next) - Repo for Vue 3.0 (currently in beta)
+- [vuejs/vue-next](https://github.com/vuejs/vue-next) - Repo for Vue 3.0 (currently in beta)
+- [iocredits/io.credit](https://github.com/iocredits/io.credit) - io.credit | Official Website | Open Source Cryptocurrency for Secure Digital Payments
+- [dualsight/corepay](https://github.com/dualsight/corepay) - A unified, secure and painless self-hosted cryptocurrency payments processor.
+- [sciedou/coinpay](https://github.com/sciedou/coinpay) - Payment QR code generator for multi cryptocurrencies
+- [yhuag/reveal-ethereum-private-state](https://github.com/yhuag/reveal-ethereum-private-state) - This is a tutorial repo that shows you how to read private variables of Ethereum smart contracts
+- [Turing-Chain/BTC-ETH-Cross-Chain-Atomic-Swap](https://github.com/Turing-Chain/BTC-ETH-Cross-Chain-Atomic-Swap) - The project won the Consensys Sponsorship Prize on the ETHSanFrancisco hackathon.  Created by HU Yao-Chieh, Tina Lee, and Kevin Gau.
+- [Turing-Chain/risk-redistribution-payment-dappcon](https://github.com/Turing-Chain/risk-redistribution-payment-dappcon) - A Risk Redistribution Standard for Practical Cryptocurrency Payments
+- [mdn/interactive-examples](https://github.com/mdn/interactive-examples) - Home of the MDN live code editor interactive examples
+- [spyder-ide/spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment
+- [openstf/stf](https://github.com/openstf/stf) - Control and manage Android devices from your browser.
+- [ray-project/ray](https://github.com/ray-project/ray) - A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
+- [ray-project/ray](https://github.com/ray-project/ray) - A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
+- [retest/recheck](https://github.com/retest/recheck) - Replace traditional assertions with a single check.
+- [alibaba-fusion/next](https://github.com/alibaba-fusion/next) - 🦍 A configurable component library for web built on React. 
+- [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
+- [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
+- [alibaba/jvm-sandbox-repeater](https://github.com/alibaba/jvm-sandbox-repeater) -  A Java server-side recording and playback solution based on JVM-Sandbox
+- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter | Ask us anything at our forum |
+- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter | Ask us anything at our forum |
+- [fescobar/allure-docker-service](https://github.com/fescobar/allure-docker-service) - This docker container allows you to see up to date reports simply mounting your "allure-results" directory in the container (for a Single Project) or your "projects" directory (for Multiple Projects). Every time appears new results (generated for your tests), Allure Docker Service will detect those changes and it will generate a new report automatically (optional: send results / generate report through API), what you will see refreshing your browser.
+- [fescobar/allure-docker-service](https://github.com/fescobar/allure-docker-service) - This docker container allows you to see up to date reports simply mounting your "allure-results" directory in the container (for a Single Project) or your "projects" directory (for Multiple Projects). Every time appears new results (generated for your tests), Allure Docker Service will detect those changes and it will generate a new report automatically (optional: send results / generate report through API), what you will see refreshing your browser.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
+- [amazingTest/Taisite-Platform](https://github.com/amazingTest/Taisite-Platform) - 最强接口测试平台
+- [adobe/mocka](https://github.com/adobe/mocka) - Mocka - The complete testing framework for LUA and Nginx
+- [Testy/TestyTs](https://github.com/Testy/TestyTs) - ✔️ Modern TypeScript testing framework.
+- [Testy/TestyTs](https://github.com/Testy/TestyTs) - ✔️ Modern TypeScript testing framework.
+- [Ginger-Automation/Ginger](https://github.com/Ginger-Automation/Ginger) - Ginger Automation IDE 
+- [Ginger-Automation/Ginger](https://github.com/Ginger-Automation/Ginger) - Ginger Automation IDE 
+- [JakimLi/pandaria](https://github.com/JakimLi/pandaria) - Lightweight API testing tool based on cucumber JVM
+- [retest/recheck-web](https://github.com/retest/recheck-web) - recheck for web apps – change comparison tool with local Golden Masters, Git-like ignore syntax and "Unbreakable Selenium" tests.
+- [Morgan-Stanley/testplan](https://github.com/Morgan-Stanley/testplan) - Testplan, a multi-testing framework, because unit tests can only go so far..
+- [AvengersWeChat/PadChat-SDK](https://github.com/AvengersWeChat/PadChat-SDK) - 永久免费 微信ipad、微信mac协议，可实现微信80%功能；支持62数据登录、扫码登录、收发朋友圈、查看朋友圈、微信建群、微信拉人进群、微信公众号阅读、微信消息收发、微信附近的人定位、微信添加好友、微信红包接收、微信防撤回、分享小程序、微信加粉、微信收藏、微信标签等
