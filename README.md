@@ -2387,3 +2387,4 @@
 - [retest/recheck-web](https://github.com/retest/recheck-web) - recheck for web apps – change comparison tool with local Golden Masters, Git-like ignore syntax and "Unbreakable Selenium" tests.
 - [Morgan-Stanley/testplan](https://github.com/Morgan-Stanley/testplan) - Testplan, a multi-testing framework, because unit tests can only go so far..
 - [AvengersWeChat/PadChat-SDK](https://github.com/AvengersWeChat/PadChat-SDK) - 永久免费 微信ipad、微信mac协议，可实现微信80%功能；支持62数据登录、扫码登录、收发朋友圈、查看朋友圈、微信建群、微信拉人进群、微信公众号阅读、微信消息收发、微信附近的人定位、微信添加好友、微信红包接收、微信防撤回、分享小程序、微信加粉、微信收藏、微信标签等
+## GO

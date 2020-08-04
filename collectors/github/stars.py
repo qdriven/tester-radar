@@ -47,6 +47,7 @@ class GithubSelfStarredRepoCollector(BaseGithubCollector):
                 else:
                     break
                 self.unstar_repo(repo.full_name)
+                print("unstar ", repo.full_name)
                 print("about {} repo is on the queue".format(self.loop_count))
                 self.loop_count -= 1
         except Exception as e:
@@ -59,7 +60,6 @@ class GithubSelfStarredRepoCollector(BaseGithubCollector):
 
     def fetch(self):
         super().fetch()
-
 
 
 ## ToDo:
