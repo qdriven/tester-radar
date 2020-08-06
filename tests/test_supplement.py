@@ -80,7 +80,7 @@
 # #
 # # def test_diff():
 # #     assert dict_1 == dict_2
-from extractors.supplement import load_json_file, write_dict_to_json_file
+from extractors.supplement import load_json_file, write_to_json_file
 
 
 def test_load_json_file():
@@ -95,4 +95,4 @@ def test_load_json_file_not_exist():
 
 def test_write_dict_to_json_file():
     result = load_json_file("sample_repo.json")
-    write_dict_to_json_file(result, 'dump_dict.json')
+    write_to_json_file(result, 'dump_dict.json')

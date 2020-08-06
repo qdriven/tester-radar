@@ -9,14 +9,14 @@ import atexit
 import fire
 
 from collectors.github.stars import GithubSelfStarredRepoCollector, STARRED_REPO_JSON_FILE
-from extractors.supplement import write_dict_to_json_file
+from extractors.supplement import write_to_json_file
 
 collector = GithubSelfStarredRepoCollector()
 
 
 def star_exit_handler():
     print("start to handle star system exit hook ......")
-    write_dict_to_json_file(collector.starred_repos, STARRED_REPO_JSON_FILE)
+    write_to_json_file(collector.starred_repos, STARRED_REPO_JSON_FILE)
 
 
 atexit.register(star_exit_handler)

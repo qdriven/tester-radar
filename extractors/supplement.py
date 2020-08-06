@@ -52,7 +52,7 @@ def load_json_file(file_path: str) -> dict:
     return json_dict
 
 
-def write_dict_to_json_file(dict_values: dict, file_path: str):
+def write_to_json_file(dict_values: any, file_path: str):
     with open(file_path, 'w') as f:
         json.dump(dict_values, f)
 

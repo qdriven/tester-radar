@@ -1,0 +1,4249 @@
+[
+  {
+    "name": "TheJambo/awesome-testing",
+    "url": "https://github.com/TheJambo/awesome-testing",
+    "stars": 477,
+    "topics": [
+      "testing",
+      "tester",
+      "naughty-strings",
+      "awesome-list",
+      "awesome",
+      "list"
+    ],
+    "desc": "A curated list of testing resources",
+    "forks": 63,
+    "languages": {}
+  },
+  {
+    "name": "abhivaikar/howtheytest",
+    "url": "https://github.com/abhivaikar/howtheytest",
+    "stars": 198,
+    "topics": [
+      "testing",
+      "companies",
+      "testing-practices",
+      "quality",
+      "culture",
+      "software-testing",
+      "software-quality",
+      "quality-engineering",
+      "knowledge-sharing",
+      "knowledge",
+      "test-engineering"
+    ],
+    "desc": "A collection of public resources about how software companies test their software",
+    "forks": 41,
+    "languages": {
+      "HTML": 1126
+    }
+  },
+  {
+    "name": "mdrichardson/FUTpuppeteer",
+    "url": "https://github.com/mdrichardson/FUTpuppeteer",
+    "stars": 12,
+    "topics": [
+      "fifa",
+      "fut",
+      "selenium",
+      "python",
+      "bot"
+    ],
+    "desc": "This is an auto-clicker bot used to trade players and items on FIFA Ultimate Team's Web App.",
+    "forks": 2,
+    "languages": {
+      "Python": 402091
+    }
+  },
+  {
+    "name": "mgeeky/Penetration-Testing-Tools",
+    "url": "https://github.com/mgeeky/Penetration-Testing-Tools",
+    "stars": 433,
+    "topics": [
+      "penetration-testing",
+      "penetration",
+      "testing",
+      "tools",
+      "scripts",
+      "cheatsheets",
+      "exploit",
+      "social-engineering",
+      "networks",
+      "red-teaming",
+      "hacking"
+    ],
+    "desc": "A collection of more than a 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Penetration Testing and IT Security audits purposes. Most of them came handy at least once during my real-world engagements.",
+    "forks": 125,
+    "languages": {
+      "PowerShell": 763451,
+      "Python": 552849,
+      "Shell": 88095,
+      "Ruby": 35118,
+      "VBScript": 20594,
+      "C++": 16354,
+      "Smalltalk": 13360,
+      "JavaScript": 9665,
+      "PHP": 9184,
+      "C#": 6780,
+      "ASP": 3835,
+      "Java": 3809,
+      "Batchfile": 2062,
+      "C": 2027,
+      "XSLT": 789,
+      "HTML": 315
+    }
+  },
+  {
+    "name": "WasiqB/coteafs-selenium",
+    "url": "https://github.com/WasiqB/coteafs-selenium",
+    "stars": 46,
+    "topics": [
+      "selenium-webdriver",
+      "automation-framework",
+      "java",
+      "testing-tools",
+      "test-automation",
+      "selenium",
+      "software-testing",
+      "cross-browser",
+      "automation-test"
+    ],
+    "desc": ":computer: Selenium WebDriver wrapper framework in Java for clean and maintainable tests.",
+    "forks": 12,
+    "languages": {
+      "Java": 161130
+    }
+  },
+  {
+    "name": "evolvingweb/sitediff",
+    "url": "https://github.com/evolvingweb/sitediff",
+    "stars": 123,
+    "topics": [
+      "sanitization",
+      "diff",
+      "comparison",
+      "html"
+    ],
+    "desc": "SiteDiff makes it easy to see differences between two versions of a website.",
+    "forks": 22,
+    "languages": {
+      "HTML": 1654763,
+      "Ruby": 103058,
+      "JavaScript": 9494,
+      "CSS": 4764,
+      "Dockerfile": 1007,
+      "XSLT": 321
+    }
+  },
+  {
+    "name": "zebrunner/zebrunner",
+    "url": "https://github.com/zebrunner/zebrunner",
+    "stars": 195,
+    "topics": [
+      "automation",
+      "testing",
+      "qa",
+      "java",
+      "reporing",
+      "junit",
+      "testng",
+      "selenium",
+      "appium"
+    ],
+    "desc": "Zebrunner root project",
+    "forks": 43,
+    "languages": {
+      "FreeMarker": 89235,
+      "TSQL": 42859,
+      "PLpgSQL": 31635,
+      "Shell": 12541
+    }
+  },
+  {
+    "name": "zebrunner/zebrunner",
+    "url": "https://github.com/zebrunner/zebrunner",
+    "stars": 195,
+    "topics": [
+      "automation",
+      "testing",
+      "qa",
+      "java",
+      "reporing",
+      "junit",
+      "testng",
+      "selenium",
+      "appium"
+    ],
+    "desc": "Zebrunner root project",
+    "forks": 43,
+    "languages": {
+      "FreeMarker": 89235,
+      "TSQL": 42859,
+      "PLpgSQL": 31635,
+      "Shell": 12541
+    }
+  },
+  {
+    "name": "zebrunner/zebrunner",
+    "url": "https://github.com/zebrunner/zebrunner",
+    "stars": 195,
+    "topics": [
+      "automation",
+      "testing",
+      "qa",
+      "java",
+      "reporing",
+      "junit",
+      "testng",
+      "selenium",
+      "appium"
+    ],
+    "desc": "Zebrunner root project",
+    "forks": 43,
+    "languages": {
+      "FreeMarker": 89235,
+      "TSQL": 42859,
+      "PLpgSQL": 31635,
+      "Shell": 12541
+    }
+  },
+  {
+    "name": "BCDevOps/BDDStack",
+    "url": "https://github.com/BCDevOps/BDDStack",
+    "stars": 4,
+    "topics": [
+      "bdd",
+      "bdd-framework",
+      "geb",
+      "spock",
+      "openshift",
+      "headless-tests",
+      "testing",
+      "test-automation",
+      "test-automation-framework"
+    ],
+    "desc": "This is the Geb, Spock Test stack as deployed at BCGOV, it supports Chrome and Firefox headless testing, which can be used in OpenShift pipelines. ***Warning: Default Branch is Develop, please clone from Latest Release for use in your project, or develop if you want to contribute.",
+    "forks": 12,
+    "languages": {
+      "Groovy": 4389,
+      "Dockerfile": 856
+    }
+  },
+  {
+    "name": "ekohanchi/AutoTestFramework",
+    "url": "https://github.com/ekohanchi/AutoTestFramework",
+    "stars": 5,
+    "topics": [
+      "automated-testing",
+      "automation",
+      "test",
+      "test-automation",
+      "test-automation-framework",
+      "quality-assurance-tests",
+      "test-automation-project",
+      "automation-framework",
+      "automation-ui",
+      "automation-api",
+      "performance-testing",
+      "performance-test",
+      "performance-tests"
+    ],
+    "desc": "A customizable functional & performance java automated testing framework for testing web (including network traffic) & api services along with integration to AWS services and different databases. Framework also supports specifying configuration key value pairs in a config.properties file (located in the resources folder). Secrets can be encrypted and stored in the config.properties file and will be decrypted in memory at runtime",
+    "forks": 1,
+    "languages": {
+      "Java": 29882
+    }
+  },
+  {
+    "name": "ekohanchi/AutoTestFramework",
+    "url": "https://github.com/ekohanchi/AutoTestFramework",
+    "stars": 5,
+    "topics": [
+      "automated-testing",
+      "automation",
+      "test",
+      "test-automation",
+      "test-automation-framework",
+      "quality-assurance-tests",
+      "test-automation-project",
+      "automation-framework",
+      "automation-ui",
+      "automation-api",
+      "performance-testing",
+      "performance-test",
+      "performance-tests"
+    ],
+    "desc": "A customizable functional & performance java automated testing framework for testing web (including network traffic) & api services along with integration to AWS services and different databases. Framework also supports specifying configuration key value pairs in a config.properties file (located in the resources folder). Secrets can be encrypted and stored in the config.properties file and will be decrypted in memory at runtime",
+    "forks": 1,
+    "languages": {
+      "Java": 29882
+    }
+  },
+  {
+    "name": "SpectoLabs/hoverfly-java",
+    "url": "https://github.com/SpectoLabs/hoverfly-java",
+    "stars": 120,
+    "topics": [
+      "api-simulation",
+      "service-virtualization",
+      "java",
+      "testing",
+      "testing-tools",
+      "https",
+      "http",
+      "mocking",
+      "stubbing",
+      "proxy",
+      "hoverfly"
+    ],
+    "desc": "Java binding for Hoverfly",
+    "forks": 42,
+    "languages": {
+      "Java": 568492,
+      "Shell": 1552,
+      "Python": 908
+    }
+  },
+  {
+    "name": "eykrehbein/strest",
+    "url": "https://github.com/eykrehbein/strest",
+    "stars": 1720,
+    "topics": [
+      "nodejs",
+      "cli",
+      "rest-api",
+      "testing",
+      "test-automation",
+      "typescript",
+      "javascript"
+    ],
+    "desc": "\u26a1\ufe0f CI-ready tests for REST APIs configured in YAML",
+    "forks": 59,
+    "languages": {
+      "TypeScript": 38932,
+      "JavaScript": 222,
+      "Dockerfile": 201
+    }
+  },
+  {
+    "name": "taverntesting/tavern",
+    "url": "https://github.com/taverntesting/tavern",
+    "stars": 667,
+    "topics": [
+      "python",
+      "pytest",
+      "testing",
+      "test-automation",
+      "mqtt",
+      "http"
+    ],
+    "desc": "A command-line tool and Python library and Pytest plugin for automated testing of RESTful APIs, with a simple, concise and flexible YAML-based syntax",
+    "forks": 133,
+    "languages": {
+      "Python": 303099,
+      "Dockerfile": 1228,
+      "Shell": 388
+    }
+  },
+  {
+    "name": "metersphere/metersphere",
+    "url": "https://github.com/metersphere/metersphere",
+    "stars": 1295,
+    "topics": [
+      "jmeter",
+      "testing",
+      "test-automation",
+      "api-testing",
+      "performance-testing",
+      "testcase",
+      "testlink",
+      "continuous-testing",
+      "postman",
+      "testlink-alternative"
+    ],
+    "desc": "An open source continuous testing platform. MeterSphere \u662f\u4e00\u7ad9\u5f0f\u7684\u5f00\u6e90\u4f01\u4e1a\u7ea7\u6301\u7eed\u6d4b\u8bd5\u5e73\u53f0\uff0c\u6db5\u76d6\u6d4b\u8bd5\u8ddf\u8e2a\u3001\u63a5\u53e3\u6d4b\u8bd5\u3001\u6027\u80fd\u6d4b\u8bd5\u3001\u56e2\u961f\u534f\u4f5c\u7b49\u529f\u80fd\uff0c\u5168\u9762\u517c\u5bb9 JMeter\u3001Postman \u7b49\u5f00\u6e90\u3001\u4e3b\u6d41\u6807\u51c6\u3002",
+    "forks": 254,
+    "languages": {
+      "Java": 1201464,
+      "Vue": 760705,
+      "JavaScript": 167268,
+      "TSQL": 5227,
+      "CSS": 2720,
+      "Dockerfile": 2715,
+      "HTML": 658,
+      "Shell": 127
+    }
+  },
+  {
+    "name": "CleanCut/green",
+    "url": "https://github.com/CleanCut/green",
+    "stars": 655,
+    "topics": [
+      "test-runner",
+      "python",
+      "green",
+      "unittest",
+      "testing",
+      "test-automation",
+      "test-driven-development"
+    ],
+    "desc": "Green is a clean, colorful, fast python test runner.",
+    "forks": 71,
+    "languages": {
+      "Python": 294541,
+      "Shell": 4429,
+      "Makefile": 4060
+    }
+  },
+  {
+    "name": "bbyars/mountebank",
+    "url": "https://github.com/bbyars/mountebank",
+    "stars": 1476,
+    "topics": [
+      "mountebank",
+      "service-virtualization",
+      "test-automation",
+      "testing",
+      "test-framework",
+      "microservices-testing",
+      "mocking",
+      "stubbing"
+    ],
+    "desc": "Over the wire test doubles",
+    "forks": 197,
+    "languages": {
+      "JavaScript": 1032217,
+      "HTML": 815708,
+      "CSS": 9205,
+      "Shell": 4454,
+      "Ruby": 1862,
+      "Roff": 226,
+      "Dockerfile": 98,
+      "Batchfile": 87
+    }
+  },
+  {
+    "name": "stryker-mutator/stryker",
+    "url": "https://github.com/stryker-mutator/stryker",
+    "stars": 1573,
+    "topics": [
+      "mutation-testing",
+      "stryker",
+      "javascript",
+      "typescript",
+      "testing-tools",
+      "test-automation",
+      "testing"
+    ],
+    "desc": "Mutation testing for JavaScript and friends",
+    "forks": 146,
+    "languages": {
+      "TypeScript": 1174304,
+      "JavaScript": 133683,
+      "HTML": 27447,
+      "Vue": 6787,
+      "CSS": 6164
+    }
+  },
+  {
+    "name": "brookshi/Hitchhiker",
+    "url": "https://github.com/brookshi/Hitchhiker",
+    "stars": 2140,
+    "topics": [
+      "restful-api",
+      "api",
+      "nodejs",
+      "typescript",
+      "testing-tools",
+      "test-automation",
+      "test",
+      "hitchhiker",
+      "collaboration",
+      "stress-test",
+      "schedule"
+    ],
+    "desc": "a Restful Api test tool",
+    "forks": 383,
+    "languages": {
+      "TypeScript": 1005366,
+      "JavaScript": 151092,
+      "HTML": 46664,
+      "CSS": 29295,
+      "Shell": 1742,
+      "Batchfile": 1531,
+      "Dockerfile": 551
+    }
+  },
+  {
+    "name": "web-platform-tests/wpt",
+    "url": "https://github.com/web-platform-tests/wpt",
+    "stars": 2937,
+    "topics": [
+      "testing",
+      "html",
+      "test-automation",
+      "browser",
+      "w3c",
+      "whatwg",
+      "test-runner",
+      "web-standards",
+      "javascript",
+      "dom",
+      "web-development",
+      "google-chrome",
+      "blink",
+      "gecko",
+      "firefox",
+      "microsoft-edge",
+      "safari",
+      "webkit",
+      "opera"
+    ],
+    "desc": "Test suites for Web platform specs \u2014 including WHATWG, W3C, and others",
+    "forks": 2059,
+    "languages": {
+      "HTML": 106653356,
+      "JavaScript": 10503992,
+      "Python": 3222683,
+      "CSS": 83103,
+      "Shell": 60927,
+      "Perl": 34706,
+      "Makefile": 7727,
+      "Batchfile": 5809,
+      "Haxe": 3707,
+      "XSLT": 3044,
+      "Dockerfile": 2618,
+      "Ruby": 1685,
+      "Roff": 677
+    }
+  },
+  {
+    "name": "alipay/SoloPi",
+    "url": "https://github.com/alipay/SoloPi",
+    "stars": 3472,
+    "topics": [
+      "mobile-testing",
+      "ui-testing",
+      "adb",
+      "android",
+      "automation",
+      "automated-testing",
+      "test-automation"
+    ],
+    "desc": "SoloPi \u81ea\u52a8\u5316\u6d4b\u8bd5\u5de5\u5177",
+    "forks": 721,
+    "languages": {
+      "Java": 2202034,
+      "HTML": 280135,
+      "Roff": 26526,
+      "C": 12453,
+      "CSS": 11139,
+      "CMake": 850
+    }
+  },
+  {
+    "name": "AirtestProject/Airtest",
+    "url": "https://github.com/AirtestProject/Airtest",
+    "stars": 4037,
+    "topics": [
+      "automated-testing",
+      "game",
+      "unity3d",
+      "android",
+      "automation",
+      "test-automation",
+      "test-framework",
+      "ios",
+      "windows"
+    ],
+    "desc": "UI Automation Framework for Games and Apps",
+    "forks": 694,
+    "languages": {
+      "Python": 431506,
+      "Shell": 160
+    }
+  },
+  {
+    "name": "Catena-Media/Dtective",
+    "url": "https://github.com/Catena-Media/Dtective",
+    "stars": 10,
+    "topics": [
+      "automation-framework",
+      "test-automation",
+      "behavior-driven-development",
+      "selenium",
+      "cucumber",
+      "gherkin",
+      "java"
+    ],
+    "desc": "Dtective",
+    "forks": 5,
+    "languages": {
+      "Java": 416501,
+      "Gherkin": 83249,
+      "Dockerfile": 261,
+      "HTML": 178
+    }
+  },
+  {
+    "name": "hitchdev/hitchstory",
+    "url": "https://github.com/hitchdev/hitchstory",
+    "stars": 18,
+    "topics": [
+      "bdd",
+      "bdd-framework",
+      "testing-framework",
+      "testing",
+      "tests",
+      "specification",
+      "yaml",
+      "strongly-typed",
+      "bdd-style-testing-framework",
+      "bdd-tests",
+      "behavior-driven-development",
+      "bdd-specs",
+      "documentation-tool"
+    ],
+    "desc": "Type-safe, StrictYAML based BDD framework for python.",
+    "forks": 1,
+    "languages": {
+      "Python": 67648,
+      "HTML": 4389
+    }
+  },
+  {
+    "name": "NoraUi/NoraUi",
+    "url": "https://github.com/NoraUi/NoraUi",
+    "stars": 47,
+    "topics": [
+      "regression-automation",
+      "robot",
+      "tests",
+      "test-framework",
+      "testing-tools",
+      "test-driven-development",
+      "test-automation",
+      "testing-framework",
+      "selenium",
+      "selenium-webdriver",
+      "java",
+      "cucumber",
+      "cucumber-jvm",
+      "gherkin",
+      "ux-testing",
+      "cucumber-expressions",
+      "noraui",
+      "behavior-driven-development",
+      "bdd"
+    ],
+    "desc": "Non-Regression Automation for User Interfaces",
+    "forks": 29,
+    "languages": {
+      "Java": 998127,
+      "Gherkin": 23339,
+      "CSS": 12842,
+      "Shell": 9816,
+      "TSQL": 4046
+    }
+  },
+  {
+    "name": "hdorgeval/testcafe-starter",
+    "url": "https://github.com/hdorgeval/testcafe-starter",
+    "stars": 72,
+    "topics": [
+      "testcafe",
+      "e2e",
+      "typescript",
+      "gherkin",
+      "bdd",
+      "behavior-driven-development",
+      "test-framework",
+      "e2e-testing",
+      "html-report",
+      "starter-project",
+      "starter-template",
+      "automation",
+      "qa"
+    ],
+    "desc": "starter project for e2e tests with testcafe",
+    "forks": 17,
+    "languages": {
+      "TypeScript": 42516
+    }
+  },
+  {
+    "name": "grappa-py/grappa",
+    "url": "https://github.com/grappa-py/grappa",
+    "stars": 110,
+    "topics": [
+      "assertions",
+      "assertion-library",
+      "testing",
+      "behavior-driven-development",
+      "bdd",
+      "bdd-style",
+      "expressive",
+      "declarative",
+      "python"
+    ],
+    "desc": "Behavior-oriented, expressive, human-friendly Python assertion library for the 21st century",
+    "forks": 11,
+    "languages": {
+      "Python": 144569,
+      "Makefile": 1520
+    }
+  },
+  {
+    "name": "qaprosoft/carina",
+    "url": "https://github.com/qaprosoft/carina",
+    "stars": 523,
+    "topics": [
+      "testing",
+      "framework",
+      "test-automation",
+      "test-automation-framework",
+      "testing-tools",
+      "test",
+      "testng",
+      "java",
+      "selenium",
+      "appium",
+      "mybatis",
+      "carina",
+      "carina-framework",
+      "parallel-tests",
+      "ios-test",
+      "web-test",
+      "android-test",
+      "appium-java"
+    ],
+    "desc": "Carina automation framework: Web, Mobile, API, DB",
+    "forks": 135,
+    "languages": {
+      "Java": 1625248,
+      "Gherkin": 312
+    }
+  },
+  {
+    "name": "qaprosoft/carina",
+    "url": "https://github.com/qaprosoft/carina",
+    "stars": 523,
+    "topics": [
+      "testing",
+      "framework",
+      "test-automation",
+      "test-automation-framework",
+      "testing-tools",
+      "test",
+      "testng",
+      "java",
+      "selenium",
+      "appium",
+      "mybatis",
+      "carina",
+      "carina-framework",
+      "parallel-tests",
+      "ios-test",
+      "web-test",
+      "android-test",
+      "appium-java"
+    ],
+    "desc": "Carina automation framework: Web, Mobile, API, DB",
+    "forks": 135,
+    "languages": {
+      "Java": 1625248,
+      "Gherkin": 312
+    }
+  },
+  {
+    "name": "qaprosoft/carina",
+    "url": "https://github.com/qaprosoft/carina",
+    "stars": 523,
+    "topics": [
+      "testing",
+      "framework",
+      "test-automation",
+      "test-automation-framework",
+      "testing-tools",
+      "test",
+      "testng",
+      "java",
+      "selenium",
+      "appium",
+      "mybatis",
+      "carina",
+      "carina-framework",
+      "parallel-tests",
+      "ios-test",
+      "web-test",
+      "android-test",
+      "appium-java"
+    ],
+    "desc": "Carina automation framework: Web, Mobile, API, DB",
+    "forks": 135,
+    "languages": {
+      "Java": 1625248,
+      "Gherkin": 312
+    }
+  },
+  {
+    "name": "rohan-tcd/kick-off-web-scraping-python-selenium-beautifulsoup",
+    "url": "https://github.com/rohan-tcd/kick-off-web-scraping-python-selenium-beautifulsoup",
+    "stars": 7,
+    "topics": [
+      "python",
+      "selenium-webdriver",
+      "selenium",
+      "phantomjs",
+      "beautifulsoup",
+      "bs4",
+      "urllib",
+      "tabulate",
+      "csv",
+      "time",
+      "pandas-dataframe",
+      "beautiful-soup",
+      "scraping-websites",
+      "scraper",
+      "data-extraction",
+      "data-extractor"
+    ],
+    "desc": "A tutorial-based introduction to web scraping with Python.",
+    "forks": 2,
+    "languages": {
+      "Python": 13049
+    }
+  },
+  {
+    "name": "Shopify/toxiproxy",
+    "url": "https://github.com/Shopify/toxiproxy",
+    "stars": 4677,
+    "topics": [
+      "resiliency",
+      "tcp-proxy",
+      "go",
+      "proxy",
+      "chaos",
+      "testing",
+      "omg",
+      "is",
+      "down"
+    ],
+    "desc": ":alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing",
+    "forks": 255,
+    "languages": {
+      "Go": 148763,
+      "Makefile": 2739,
+      "Ruby": 888,
+      "Dockerfile": 206
+    }
+  },
+  {
+    "name": "jdi-testing/jdi-light",
+    "url": "https://github.com/jdi-testing/jdi-light",
+    "stars": 45,
+    "topics": [
+      "automation-ui",
+      "automated-testing",
+      "jdi-light",
+      "selenium",
+      "java",
+      "ui-testing",
+      "bdd-style-testing-framework",
+      "jdi",
+      "tutorial",
+      "effort",
+      "html-elements",
+      "predictable-tests",
+      "html-element"
+    ],
+    "desc": "Powerful Framework for UI Automation Testing on Java",
+    "forks": 23,
+    "languages": {
+      "Java": 1802582,
+      "Gherkin": 47098,
+      "Shell": 8375,
+      "XSLT": 6290,
+      "Batchfile": 79
+    }
+  },
+  {
+    "name": "puppeteer/puppeteer",
+    "url": "https://github.com/puppeteer/puppeteer",
+    "stars": 63705,
+    "topics": [
+      "headless-chrome",
+      "testing",
+      "web",
+      "developer-tools",
+      "node-module",
+      "automation"
+    ],
+    "desc": "Headless Chrome Node.js API",
+    "forks": 6571,
+    "languages": {
+      "TypeScript": 919713,
+      "JavaScript": 363351,
+      "HTML": 18557,
+      "Shell": 1306,
+      "CSS": 393
+    }
+  },
+  {
+    "name": "puppeteer/puppeteer",
+    "url": "https://github.com/puppeteer/puppeteer",
+    "stars": 63705,
+    "topics": [
+      "headless-chrome",
+      "testing",
+      "web",
+      "developer-tools",
+      "node-module",
+      "automation"
+    ],
+    "desc": "Headless Chrome Node.js API",
+    "forks": 6571,
+    "languages": {
+      "TypeScript": 919713,
+      "JavaScript": 363351,
+      "HTML": 18557,
+      "Shell": 1306,
+      "CSS": 393
+    }
+  },
+  {
+    "name": "StackStorm/orquesta",
+    "url": "https://github.com/StackStorm/orquesta",
+    "stars": 64,
+    "topics": [
+      "workflow-engine",
+      "workflow-execution",
+      "stackstorm",
+      "orquesta",
+      "workflows",
+      "devops",
+      "automation",
+      "orchestration"
+    ],
+    "desc": "Orquesta is a graph based workflow engine for StackStorm. Questions? https://forum.stackstorm.com",
+    "forks": 11,
+    "languages": {
+      "Python": 1355755,
+      "Makefile": 2105
+    }
+  },
+  {
+    "name": "StackStorm/st2",
+    "url": "https://github.com/StackStorm/st2",
+    "stars": 3903,
+    "topics": [
+      "python",
+      "stackstorm",
+      "devops",
+      "deployment",
+      "cicd",
+      "automation",
+      "auto-remediation",
+      "st2",
+      "workflows",
+      "chatops",
+      "ifttt"
+    ],
+    "desc": "StackStorm (aka \"IFTTT for Ops\") is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs with 6000+ actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html. Questions? https://forum.stackstorm.com/.",
+    "forks": 511,
+    "languages": {
+      "Python": 6218849,
+      "Shell": 89350,
+      "Makefile": 69632,
+      "PowerShell": 856,
+      "JavaScript": 444,
+      "HTML": 198
+    }
+  },
+  {
+    "name": "muesli/beehive",
+    "url": "https://github.com/muesli/beehive",
+    "stars": 4528,
+    "topics": [
+      "automation",
+      "ifttt",
+      "workflow",
+      "event-driven"
+    ],
+    "desc": "A flexible event/agent & automation system with lots of bees \ud83d\udc1d",
+    "forks": 224,
+    "languages": {
+      "Go": 654013,
+      "Shell": 3292,
+      "Dockerfile": 980,
+      "Makefile": 912
+    }
+  },
+  {
+    "name": "openatx/uiautomator2",
+    "url": "https://github.com/openatx/uiautomator2",
+    "stars": 2532,
+    "topics": [
+      "python",
+      "uiautomator",
+      "test"
+    ],
+    "desc": "Android Uiautomator2 Python Wrapper",
+    "forks": 677,
+    "languages": {
+      "Python": 284385,
+      "HTML": 4802,
+      "Shell": 312,
+      "Batchfile": 29
+    }
+  },
+  {
+    "name": "theintern/intern",
+    "url": "https://github.com/theintern/intern",
+    "stars": 4261,
+    "topics": [
+      "intern",
+      "typescript",
+      "javascript",
+      "testing",
+      "coverage",
+      "webdriver"
+    ],
+    "desc": "A next-generation code testing stack for JavaScript.",
+    "forks": 311,
+    "languages": {
+      "TypeScript": 1496733,
+      "JavaScript": 32717,
+      "HTML": 15791,
+      "CSS": 8087
+    }
+  },
+  {
+    "name": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "stars": 48314,
+    "topics": [
+      "nodejs",
+      "javascript",
+      "best-practices",
+      "styleguide",
+      "style-guide",
+      "node-js",
+      "express",
+      "expressjs",
+      "nodejs-development",
+      "es6",
+      "eslint",
+      "mocha",
+      "chai",
+      "microservices",
+      "rest",
+      "npm",
+      "jest",
+      "types",
+      "testing"
+    ],
+    "desc": ":white_check_mark:  The Node.js best practices list (August 2020)",
+    "forks": 4491,
+    "languages": {
+      "JavaScript": 7884,
+      "CSS": 1148,
+      "HTML": 1103
+    }
+  },
+  {
+    "name": "seveniruby/bashgems",
+    "url": "https://github.com/seveniruby/bashgems",
+    "stars": 8,
+    "topics": [
+      "shell",
+      "bash",
+      "testing",
+      "testerhome"
+    ],
+    "desc": "\u4e00\u4e2a\u589e\u5f3abash\u7684\u5de5\u5177\uff0c\u63d0\u4f9b\u4e00\u4e9b\u51fd\u6570\u5c01\u88c5\u5e76\u9884\u52a0\u8f7d\u5230shell\u4e2d\u63d0\u9ad8\u5de5\u4f5c\u6548\u7387",
+    "forks": 6,
+    "languages": {
+      "Shell": 6446
+    }
+  },
+  {
+    "name": "sirixdb/sirix",
+    "url": "https://github.com/sirixdb/sirix",
+    "stars": 550,
+    "topics": [
+      "xquery",
+      "java",
+      "revision",
+      "temporal-data",
+      "storage",
+      "snapshot",
+      "comparison",
+      "ssd",
+      "json",
+      "versioning",
+      "hashing",
+      "diffing",
+      "diff",
+      "xml",
+      "xpath",
+      "kotlin",
+      "vertx",
+      "coroutines",
+      "diff-algorithm",
+      "keycloak"
+    ],
+    "desc": "SirixDB facilitates effective and efficient storing and querying of your temporal data. Every commit stores a space-efficient snapshot. It is log-structured and never overwrites data. SirixDB uses a novel page-level versioning approach called sliding snapshot.",
+    "forks": 103,
+    "languages": {
+      "Java": 5657341,
+      "Kotlin": 335787,
+      "XQuery": 22850,
+      "Shell": 10368,
+      "XSLT": 6568,
+      "HTML": 3972,
+      "Dockerfile": 1230
+    }
+  },
+  {
+    "name": "google/diff-match-patch",
+    "url": "https://github.com/google/diff-match-patch",
+    "stars": 3425,
+    "topics": [
+      "difference",
+      "diff",
+      "match",
+      "patch",
+      "text-processing"
+    ],
+    "desc": "Diff Match Patch is a high-performance library in multiple languages that manipulates plain text.",
+    "forks": 620,
+    "languages": {
+      "Python": 224309,
+      "Objective-C": 191171,
+      "Dart": 162089,
+      "C++": 147873,
+      "C#": 147714,
+      "Java": 142718,
+      "JavaScript": 117734,
+      "Lua": 113978,
+      "HTML": 56981,
+      "C": 21641,
+      "QMake": 323
+    }
+  },
+  {
+    "name": "seperman/deepdiff",
+    "url": "https://github.com/seperman/deepdiff",
+    "stars": 837,
+    "topics": [
+      "python",
+      "tree",
+      "deep-search",
+      "repetition",
+      "difference",
+      "comparison",
+      "report-repetition",
+      "nested",
+      "recursive",
+      "diff",
+      "delta",
+      "distance",
+      "distance-calculation",
+      "deepdiff",
+      "deephash"
+    ],
+    "desc": "Deep Difference and search of any Python object/data.",
+    "forks": 118,
+    "languages": {
+      "Python": 416041,
+      "Shell": 48
+    }
+  },
+  {
+    "name": "txthinking/frank",
+    "url": "https://github.com/txthinking/frank",
+    "stars": 76,
+    "topics": [
+      "rest",
+      "restful",
+      "rest-api",
+      "restful-api",
+      "rest-client",
+      "restapi",
+      "testing",
+      "testing-tools",
+      "test-automation",
+      "test-runner"
+    ],
+    "desc": "Frank is a REST API automated testing tool like Postman but in command line. Auto generate markdown API document.",
+    "forks": 10,
+    "languages": {
+      "Go": 17877
+    }
+  },
+  {
+    "name": "zhangfei19841004/zmock",
+    "url": "https://github.com/zhangfei19841004/zmock",
+    "stars": 83,
+    "topics": [
+      "mock",
+      "zmock",
+      "zson",
+      "http",
+      "test",
+      "test-automation",
+      "mock-server"
+    ],
+    "desc": "zmock--http\u63a5\u53e3\u7684mock\u5e73\u53f0",
+    "forks": 62,
+    "languages": {
+      "Java": 1399182,
+      "HTML": 481491
+    }
+  },
+  {
+    "name": "darklynx/request-baskets",
+    "url": "https://github.com/darklynx/request-baskets",
+    "stars": 82,
+    "topics": [
+      "webhooks",
+      "test-automation",
+      "qa",
+      "testing",
+      "http-requests",
+      "rest",
+      "restful",
+      "rest-api",
+      "testing-tools"
+    ],
+    "desc": "HTTP requests collector to test webhooks, notifications, REST clients and more ...",
+    "forks": 16,
+    "languages": {
+      "Go": 272127,
+      "HTML": 50816,
+      "Shell": 2543,
+      "Dockerfile": 2383
+    }
+  },
+  {
+    "name": "ehmicky/test-each",
+    "url": "https://github.com/ehmicky/test-each",
+    "stars": 89,
+    "topics": [
+      "testing",
+      "test",
+      "test-automation",
+      "data-driven",
+      "data-driven-tests",
+      "data-driven-testing",
+      "fuzzing",
+      "fuzz-testing",
+      "fuzz",
+      "cartesian",
+      "snapshot-testing",
+      "code-quality",
+      "continuous-integration",
+      "es6",
+      "javascript",
+      "nodejs",
+      "library",
+      "iterable",
+      "foreach",
+      "functional-programming"
+    ],
+    "desc": "\ud83e\udd16 Repeat tests. Repeat tests. Repeat tests.",
+    "forks": 1,
+    "languages": {
+      "JavaScript": 15944
+    }
+  },
+  {
+    "name": "ehmicky/test-each",
+    "url": "https://github.com/ehmicky/test-each",
+    "stars": 89,
+    "topics": [
+      "testing",
+      "test",
+      "test-automation",
+      "data-driven",
+      "data-driven-tests",
+      "data-driven-testing",
+      "fuzzing",
+      "fuzz-testing",
+      "fuzz",
+      "cartesian",
+      "snapshot-testing",
+      "code-quality",
+      "continuous-integration",
+      "es6",
+      "javascript",
+      "nodejs",
+      "library",
+      "iterable",
+      "foreach",
+      "functional-programming"
+    ],
+    "desc": "\ud83e\udd16 Repeat tests. Repeat tests. Repeat tests.",
+    "forks": 1,
+    "languages": {
+      "JavaScript": 15944
+    }
+  },
+  {
+    "name": "cerberustesting/cerberus-source",
+    "url": "https://github.com/cerberustesting/cerberus-source",
+    "stars": 108,
+    "topics": [
+      "testing",
+      "test-driven-development",
+      "selenium",
+      "appium",
+      "sikuli",
+      "test-automation",
+      "functional-testing"
+    ],
+    "desc": "User-friendly automated testing framework.",
+    "forks": 65,
+    "languages": {
+      "Java": 8856030,
+      "JavaScript": 3677890,
+      "HTML": 368475,
+      "Shell": 249860,
+      "Dockerfile": 169758,
+      "CSS": 132692,
+      "TSQL": 13133,
+      "Batchfile": 744
+    }
+  },
+  {
+    "name": "cerberustesting/cerberus-source",
+    "url": "https://github.com/cerberustesting/cerberus-source",
+    "stars": 108,
+    "topics": [
+      "testing",
+      "test-driven-development",
+      "selenium",
+      "appium",
+      "sikuli",
+      "test-automation",
+      "functional-testing"
+    ],
+    "desc": "User-friendly automated testing framework.",
+    "forks": 65,
+    "languages": {
+      "Java": 8856030,
+      "JavaScript": 3677890,
+      "HTML": 368475,
+      "Shell": 249860,
+      "Dockerfile": 169758,
+      "CSS": 132692,
+      "TSQL": 13133,
+      "Batchfile": 744
+    }
+  },
+  {
+    "name": "skrapeit/skrape.it",
+    "url": "https://github.com/skrapeit/skrape.it",
+    "stars": 117,
+    "topics": [
+      "skrape",
+      "dom",
+      "parse",
+      "kotlin",
+      "html-parser",
+      "test-automation",
+      "crawler",
+      "scraper",
+      "testing",
+      "kotlin-dsl",
+      "jsoup",
+      "integration-testing",
+      "system-testing"
+    ],
+    "desc": "A Kotlin-based testing/scraping/parsing library providing the ability to analyze and extract data from HTML (server & client-side rendered). It places particular emphasis on ease of use and a high level of readability by providing an intuitive DSL. It aims to be a testing lib, but can also be used to scrape websites in a convenient fashion.",
+    "forks": 17,
+    "languages": {
+      "Kotlin": 258908,
+      "HTML": 1790,
+      "Shell": 281
+    }
+  },
+  {
+    "name": "cdent/gabbi",
+    "url": "https://github.com/cdent/gabbi",
+    "stars": 129,
+    "topics": [
+      "python",
+      "testing",
+      "test-automation",
+      "test-driven-development",
+      "http",
+      "api"
+    ],
+    "desc": "Declarative HTTP Testing for Python and anything else",
+    "forks": 29,
+    "languages": {
+      "Python": 200727,
+      "Shell": 1252,
+      "Makefile": 930
+    }
+  },
+  {
+    "name": "meqaio/swagger_meqa",
+    "url": "https://github.com/meqaio/swagger_meqa",
+    "stars": 133,
+    "topics": [
+      "swagger",
+      "openapi",
+      "test",
+      "yaml",
+      "code-gen",
+      "test-automation",
+      "testing-tools",
+      "testing-framework",
+      "testing",
+      "rest-api",
+      "restful-api",
+      "restful"
+    ],
+    "desc": "Auto generate and run tests using swagger/OpenAPI spec, no coding needed",
+    "forks": 14,
+    "languages": {
+      "Go": 127934,
+      "Python": 26512,
+      "Shell": 1970,
+      "Dockerfile": 427
+    }
+  },
+  {
+    "name": "meqaio/swagger_meqa",
+    "url": "https://github.com/meqaio/swagger_meqa",
+    "stars": 133,
+    "topics": [
+      "swagger",
+      "openapi",
+      "test",
+      "yaml",
+      "code-gen",
+      "test-automation",
+      "testing-tools",
+      "testing-framework",
+      "testing",
+      "rest-api",
+      "restful-api",
+      "restful"
+    ],
+    "desc": "Auto generate and run tests using swagger/OpenAPI spec, no coding needed",
+    "forks": 14,
+    "languages": {
+      "Go": 127934,
+      "Python": 26512,
+      "Shell": 1970,
+      "Dockerfile": 427
+    }
+  },
+  {
+    "name": "stb-tester/stb-tester",
+    "url": "https://github.com/stb-tester/stb-tester",
+    "stars": 135,
+    "topics": [
+      "python",
+      "test-automation",
+      "set-top-box",
+      "remote-control",
+      "gstreamer",
+      "lirc",
+      "opencv",
+      "computer-vision",
+      "testing",
+      "test-framework",
+      "video",
+      "video-processing",
+      "power-control",
+      "pylint",
+      "ocr",
+      "template-matching",
+      "page-object",
+      "hdmi",
+      "hdmi-cec",
+      "numpy"
+    ],
+    "desc": "Automated Testing for Set-Top Boxes and Smart TVs",
+    "forks": 83,
+    "languages": {
+      "Python": 632092,
+      "Shell": 127361,
+      "HTML": 64979,
+      "Makefile": 14966,
+      "C": 4400,
+      "Dockerfile": 3583
+    }
+  },
+  {
+    "name": "Tencent/QT4i",
+    "url": "https://github.com/Tencent/QT4i",
+    "stars": 178,
+    "topics": [
+      "qta",
+      "testing",
+      "test-automation",
+      "test-framework",
+      "ios"
+    ],
+    "desc": "QTA driver for iOS app",
+    "forks": 44,
+    "languages": {
+      "Python": 2047662,
+      "Objective-C": 208196,
+      "C": 591,
+      "HTML": 191
+    }
+  },
+  {
+    "name": "os-autoinst/openQA",
+    "url": "https://github.com/os-autoinst/openQA",
+    "stars": 182,
+    "topics": [
+      "perl",
+      "testing",
+      "test-automation",
+      "test-scheduling"
+    ],
+    "desc": "openQA web-frontend, scheduler and tools.",
+    "forks": 144,
+    "languages": {
+      "Perl": 2808435,
+      "TSQL": 544563,
+      "JavaScript": 289933,
+      "CSS": 47369,
+      "Shell": 46986,
+      "Makefile": 12241,
+      "PLpgSQL": 11483,
+      "Python": 10372,
+      "Dockerfile": 9823,
+      "PHP": 2644,
+      "Vim script": 393
+    }
+  },
+  {
+    "name": "Tencent/QT4A",
+    "url": "https://github.com/Tencent/QT4A",
+    "stars": 275,
+    "topics": [
+      "qta",
+      "testing",
+      "test-framework",
+      "test-automation",
+      "android"
+    ],
+    "desc": "QTA driver for Android app",
+    "forks": 72,
+    "languages": {
+      "Python": 614066,
+      "Shell": 3510
+    }
+  },
+  {
+    "name": "npryce/hamkrest",
+    "url": "https://github.com/npryce/hamkrest",
+    "stars": 301,
+    "topics": [
+      "testing",
+      "test-automation",
+      "assertions",
+      "predicates",
+      "matchers",
+      "kotlin",
+      "hamcrest"
+    ],
+    "desc": "Hamcrest for Kotlin",
+    "forks": 34,
+    "languages": {
+      "Kotlin": 60860,
+      "Shell": 485
+    }
+  },
+  {
+    "name": "arquillian/arquillian-core",
+    "url": "https://github.com/arquillian/arquillian-core",
+    "stars": 306,
+    "topics": [
+      "java",
+      "jvm",
+      "testing",
+      "integration-testing",
+      "test-automation"
+    ],
+    "desc": "Arquillian provides a component model for integration tests, which includes dependency injection and container life cycle management. Instead of managing a runtime in your test, Arquillian brings your test to the runtime.",
+    "forks": 164,
+    "languages": {
+      "Java": 2421804
+    }
+  },
+  {
+    "name": "tomato42/tlsfuzzer",
+    "url": "https://github.com/tomato42/tlsfuzzer",
+    "stars": 317,
+    "topics": [
+      "tlslite-ng",
+      "tls",
+      "ssl",
+      "security-audit",
+      "security-vulnerability",
+      "test-framework",
+      "test-automation",
+      "testing-tools",
+      "test-suite",
+      "tlslite",
+      "protocol-verifier",
+      "protocol-tester",
+      "automation",
+      "rfc-compliance",
+      "standard-conformity",
+      "robot",
+      "drown",
+      "tls13",
+      "tls12",
+      "fuzzer"
+    ],
+    "desc": "SSL and TLS protocol test suite and fuzzer",
+    "forks": 78,
+    "languages": {
+      "Python": 3166861,
+      "Makefile": 1197
+    }
+  },
+  {
+    "name": "Tencent/QTAF",
+    "url": "https://github.com/Tencent/QTAF",
+    "stars": 327,
+    "topics": [
+      "qta",
+      "test-automation",
+      "test-framework",
+      "testing"
+    ],
+    "desc": "QTA test framework",
+    "forks": 93,
+    "languages": {
+      "Python": 2414693,
+      "XSLT": 11055
+    }
+  },
+  {
+    "name": "google/mobly",
+    "url": "https://github.com/google/mobly",
+    "stars": 380,
+    "topics": [
+      "python",
+      "android",
+      "testing",
+      "test-automation",
+      "google",
+      "android-test",
+      "android-development",
+      "automation",
+      "wifi",
+      "bluetooth",
+      "telephony",
+      "networking",
+      "android-app",
+      "android-wear",
+      "phone",
+      "mobile",
+      "windows",
+      "robotics",
+      "android-devices",
+      "cars"
+    ],
+    "desc": "E2E test framework for tests with complex environment requirements.",
+    "forks": 97,
+    "languages": {
+      "Python": 907363
+    }
+  },
+  {
+    "name": "google/mobly",
+    "url": "https://github.com/google/mobly",
+    "stars": 380,
+    "topics": [
+      "python",
+      "android",
+      "testing",
+      "test-automation",
+      "google",
+      "android-test",
+      "android-development",
+      "automation",
+      "wifi",
+      "bluetooth",
+      "telephony",
+      "networking",
+      "android-app",
+      "android-wear",
+      "phone",
+      "mobile",
+      "windows",
+      "robotics",
+      "android-devices",
+      "cars"
+    ],
+    "desc": "E2E test framework for tests with complex environment requirements.",
+    "forks": 97,
+    "languages": {
+      "Python": 907363
+    }
+  },
+  {
+    "name": "hamvocke/spring-testing",
+    "url": "https://github.com/hamvocke/spring-testing",
+    "stars": 468,
+    "topics": [
+      "spring-boot",
+      "testing",
+      "test-automation",
+      "spring",
+      "test-microservices",
+      "microservices",
+      "test-pyramid",
+      "spring-test"
+    ],
+    "desc": "A Spring Boot application with lots of sample tests",
+    "forks": 239,
+    "languages": {
+      "Java": 25422,
+      "Shell": 178,
+      "Dockerfile": 157
+    }
+  },
+  {
+    "name": "Patrowl/PatrowlManager",
+    "url": "https://github.com/Patrowl/PatrowlManager",
+    "stars": 300,
+    "topics": [
+      "automation",
+      "orchestration",
+      "secops",
+      "patrowl",
+      "incident-response",
+      "api",
+      "security-tools",
+      "vulnerability-management",
+      "security-automation",
+      "security-scanner",
+      "vulnerability-scanners",
+      "vulnerability-detection",
+      "threat-intelligence",
+      "threat-hunting",
+      "ioc",
+      "thehive",
+      "cortext"
+    ],
+    "desc": "PatrOwl - Open Source, Smart and Scalable Security Operations Orchestration Platform",
+    "forks": 70,
+    "languages": {
+      "HTML": 883967,
+      "Python": 507067,
+      "Shell": 7316,
+      "CSS": 4664,
+      "Dockerfile": 907
+    }
+  },
+  {
+    "name": "gangly/datafaker",
+    "url": "https://github.com/gangly/datafaker",
+    "stars": 223,
+    "topics": [
+      "mysql",
+      "bigdata",
+      "postgresql",
+      "oracle",
+      "kafka",
+      "datafaker",
+      "testing",
+      "hive",
+      "hbase",
+      "python",
+      "fakedata",
+      "faker"
+    ],
+    "desc": "Datafaker is a large-scale test data and flow test data generation tool. Datafaker fakes data and inserts to  varied data sources. \u6d4b\u8bd5\u6570\u636e\u751f\u6210\u5de5\u5177",
+    "forks": 45,
+    "languages": {
+      "Python": 78624,
+      "Batchfile": 824
+    }
+  },
+  {
+    "name": "adnanh/webhook",
+    "url": "https://github.com/adnanh/webhook",
+    "stars": 5520,
+    "topics": [
+      "webhook",
+      "go",
+      "devops",
+      "sysadmin",
+      "deploy",
+      "redeploy",
+      "shell",
+      "web",
+      "server",
+      "incoming",
+      "execute",
+      "hook",
+      "hooks",
+      "webhooks",
+      "integration",
+      "ci",
+      "automate",
+      "script",
+      "automation",
+      "programming"
+    ],
+    "desc": "webhook is a lightweight incoming webhook server to run shell commands",
+    "forks": 458,
+    "languages": {
+      "Go": 113156,
+      "Makefile": 1209
+    }
+  },
+  {
+    "name": "nsacyber/WALKOFF",
+    "url": "https://github.com/nsacyber/WALKOFF",
+    "stars": 718,
+    "topics": [
+      "automation",
+      "integration",
+      "administration",
+      "orchestration",
+      "orchestration-framework",
+      "orchestrator",
+      "workflow",
+      "cybersecurity",
+      "security",
+      "automation-framework",
+      "framework",
+      "analytics",
+      "sysadmin",
+      "devops",
+      "walkoff",
+      "walkoff-apps",
+      "walkoff-workflows",
+      "python"
+    ],
+    "desc": "A flexible, easy to use, automation framework allowing users to integrate their capabilities and devices to cut through the repetitive, tedious tasks slowing them down. #nsacyber",
+    "forks": 184,
+    "languages": {
+      "Python": 1549007,
+      "TypeScript": 351137,
+      "PowerShell": 328880,
+      "HTML": 158870,
+      "CSS": 29705,
+      "Dockerfile": 18160,
+      "Shell": 3562,
+      "JavaScript": 1716
+    }
+  },
+  {
+    "name": "flocasts/flagpole",
+    "url": "https://github.com/flocasts/flagpole",
+    "stars": 15,
+    "topics": [
+      "qa",
+      "rest",
+      "flagpole",
+      "html",
+      "json",
+      "testing",
+      "integration-testing",
+      "testing-framework",
+      "qa-testing",
+      "qa-automation-test",
+      "automation",
+      "automated-testing",
+      "cli"
+    ],
+    "desc": "QA automation framework and CLI that unifies HTML integration testing, full E2E browser testing, REST API tests, and more.",
+    "forks": 1,
+    "languages": {
+      "TypeScript": 455665,
+      "JavaScript": 17103,
+      "HTML": 3740,
+      "Shell": 403
+    }
+  },
+  {
+    "name": "flocasts/flagpole",
+    "url": "https://github.com/flocasts/flagpole",
+    "stars": 15,
+    "topics": [
+      "qa",
+      "rest",
+      "flagpole",
+      "html",
+      "json",
+      "testing",
+      "integration-testing",
+      "testing-framework",
+      "qa-testing",
+      "qa-automation-test",
+      "automation",
+      "automated-testing",
+      "cli"
+    ],
+    "desc": "QA automation framework and CLI that unifies HTML integration testing, full E2E browser testing, REST API tests, and more.",
+    "forks": 1,
+    "languages": {
+      "TypeScript": 455665,
+      "JavaScript": 17103,
+      "HTML": 3740,
+      "Shell": 403
+    }
+  },
+  {
+    "name": "Coveros/selenified",
+    "url": "https://github.com/Coveros/selenified",
+    "stars": 33,
+    "topics": [
+      "sauce-labs",
+      "selenium-grid",
+      "testng",
+      "java",
+      "selenium",
+      "failsafe",
+      "parallelization",
+      "webpage",
+      "webservices",
+      "testing",
+      "test-automation",
+      "test-framework",
+      "lambda-test"
+    ],
+    "desc": "The Selenified Test Framework provides mechanisms for simply testing applications at multiple tiers while easily integrating into DevOps build environments. Selenified provides traceable reporting for both web and API testing, wraps and extends Selenium calls to more appropriately handle testing errors, and supports testing over multiple browsers locally, or in the cloud in parallel. It can be a great starting point for building or improving test automation in your organization.",
+    "forks": 9,
+    "languages": {
+      "Java": 2128712,
+      "HTML": 16148
+    }
+  },
+  {
+    "name": "Coveros/selenified",
+    "url": "https://github.com/Coveros/selenified",
+    "stars": 33,
+    "topics": [
+      "sauce-labs",
+      "selenium-grid",
+      "testng",
+      "java",
+      "selenium",
+      "failsafe",
+      "parallelization",
+      "webpage",
+      "webservices",
+      "testing",
+      "test-automation",
+      "test-framework",
+      "lambda-test"
+    ],
+    "desc": "The Selenified Test Framework provides mechanisms for simply testing applications at multiple tiers while easily integrating into DevOps build environments. Selenified provides traceable reporting for both web and API testing, wraps and extends Selenium calls to more appropriately handle testing errors, and supports testing over multiple browsers locally, or in the cloud in parallel. It can be a great starting point for building or improving test automation in your organization.",
+    "forks": 9,
+    "languages": {
+      "Java": 2128712,
+      "HTML": 16148
+    }
+  },
+  {
+    "name": "qxf2/qxf2-page-object-model",
+    "url": "https://github.com/qxf2/qxf2-page-object-model",
+    "stars": 134,
+    "topics": [
+      "selenium",
+      "page-object",
+      "qa",
+      "automation",
+      "automation-framework",
+      "appium",
+      "testrail",
+      "python",
+      "python3"
+    ],
+    "desc": "Write Selenium and Appium tests in Python using the Page Object pattern. This Pythonic GUI and API test automation framework will help you get started with QA automation quickly. It comes with many useful integrations like - email, BrowserStack, Slack, TestRail, etc. This repository is developed and maintained by Qxf2 Services (https://qxf2.com). ",
+    "forks": 111,
+    "languages": {
+      "Python": 294860,
+      "Dockerfile": 4303
+    }
+  },
+  {
+    "name": "qxf2/qxf2-page-object-model",
+    "url": "https://github.com/qxf2/qxf2-page-object-model",
+    "stars": 134,
+    "topics": [
+      "selenium",
+      "page-object",
+      "qa",
+      "automation",
+      "automation-framework",
+      "appium",
+      "testrail",
+      "python",
+      "python3"
+    ],
+    "desc": "Write Selenium and Appium tests in Python using the Page Object pattern. This Pythonic GUI and API test automation framework will help you get started with QA automation quickly. It comes with many useful integrations like - email, BrowserStack, Slack, TestRail, etc. This repository is developed and maintained by Qxf2 Services (https://qxf2.com). ",
+    "forks": 111,
+    "languages": {
+      "Python": 294860,
+      "Dockerfile": 4303
+    }
+  },
+  {
+    "name": "Frameworkium/frameworkium-examples",
+    "url": "https://github.com/Frameworkium/frameworkium-examples",
+    "stars": 39,
+    "topics": [
+      "selenium",
+      "frameworkium",
+      "allure",
+      "selenium-webdriver"
+    ],
+    "desc": "Sample project which utilises frameworkium-core, a framework for writing maintainable Selenium and REST API tests and facilitates reporting and integration to JIRA.",
+    "forks": 25,
+    "languages": {
+      "Java": 102054
+    }
+  },
+  {
+    "name": "nemonik/hands-on-DevOps",
+    "url": "https://github.com/nemonik/hands-on-DevOps",
+    "stars": 142,
+    "topics": [
+      "hands-on-devops-course",
+      "vagrant",
+      "devops",
+      "gitlab",
+      "ansible-automation",
+      "virtual-machine",
+      "drone",
+      "taiga",
+      "sonarqube",
+      "selenium",
+      "inspec",
+      "ansible",
+      "go",
+      "docker-image",
+      "pipeline",
+      "plantuml",
+      "kubernetes",
+      "docker",
+      "continuous-delivery",
+      "continuous-integration"
+    ],
+    "desc": "A hands-on DevOps course covering the culture, methods and repeated practices of modern software development involving Packer, Vagrant, VirtualBox, Ansible, Kubernetes, K3s, MetalLB, Traefik, Docker-Compose, Docker, Taiga, GitLab, Drone CI, SonarQube, Selenium, InSpec, Alpine 3.10, Ubuntu-bionic, CentOS 7...",
+    "forks": 40,
+    "languages": {
+      "Shell": 20871,
+      "Ruby": 13352,
+      "Smarty": 110
+    }
+  },
+  {
+    "name": "safex/tropix",
+    "url": "https://github.com/safex/tropix",
+    "stars": 79,
+    "topics": [
+      "poloniex",
+      "bittrex",
+      "trading",
+      "automation",
+      "cryptocurrency",
+      "altcoin",
+      "sec",
+      "safeexchangecoin",
+      "safex",
+      "ethereum",
+      "crypto"
+    ],
+    "desc": "Trade automation for cryptocurrency altcoin exchanges: poloniex.com, bittrex.com",
+    "forks": 21,
+    "languages": {
+      "Rust": 113598
+    }
+  },
+  {
+    "name": "vektra/mockery",
+    "url": "https://github.com/vektra/mockery",
+    "stars": 1938,
+    "topics": [
+      "go",
+      "mock",
+      "mocking",
+      "golang",
+      "testing",
+      "generator",
+      "generation",
+      "mockgen",
+      "testify",
+      "mocks",
+      "stretchr"
+    ],
+    "desc": "A mock code autogenerator for Golang",
+    "forks": 190,
+    "languages": {
+      "Go": 82496,
+      "Shell": 915,
+      "Makefile": 364,
+      "Dockerfile": 277
+    }
+  },
+  {
+    "name": "klaros-testmanagement/klaros-docker",
+    "url": "https://github.com/klaros-testmanagement/klaros-docker",
+    "stars": 8,
+    "topics": [
+      "testing-tools",
+      "test",
+      "docker",
+      "test-management",
+      "test-case-management",
+      "test-cases",
+      "testing",
+      "testing-tool"
+    ],
+    "desc": "Install and configure Klaros Test Management under Docker for Windows and Linux.",
+    "forks": 1,
+    "languages": {
+      "HTML": 254571,
+      "Dockerfile": 13845,
+      "Shell": 10861,
+      "TSQL": 7418
+    }
+  },
+  {
+    "name": "klaros-testmanagement/klaros-docker",
+    "url": "https://github.com/klaros-testmanagement/klaros-docker",
+    "stars": 8,
+    "topics": [
+      "testing-tools",
+      "test",
+      "docker",
+      "test-management",
+      "test-case-management",
+      "test-cases",
+      "testing",
+      "testing-tool"
+    ],
+    "desc": "Install and configure Klaros Test Management under Docker for Windows and Linux.",
+    "forks": 1,
+    "languages": {
+      "HTML": 254571,
+      "Dockerfile": 13845,
+      "Shell": 10861,
+      "TSQL": 7418
+    }
+  },
+  {
+    "name": "jakubroztocil/cointrol",
+    "url": "https://github.com/jakubroztocil/cointrol",
+    "stars": 1301,
+    "topics": [
+      "bitcoin",
+      "bot",
+      "bitstamp",
+      "trade",
+      "transaction",
+      "automation",
+      "python",
+      "jakubroztocil",
+      "speculation",
+      "trading",
+      "trading-bot",
+      "cryptocurrencies"
+    ],
+    "desc": "\u0e3f Bitcoin trading bot with a real-time dashboard for Bitstamp.",
+    "forks": 280,
+    "languages": {
+      "Python": 80372,
+      "CoffeeScript": 15368,
+      "HTML": 6690,
+      "CSS": 649
+    }
+  },
+  {
+    "name": "postmanlabs/httpbin",
+    "url": "https://github.com/postmanlabs/httpbin",
+    "stars": 9083,
+    "topics": [
+      "http",
+      "http-server",
+      "testing",
+      "service",
+      "api",
+      "json",
+      "httpbin",
+      "python"
+    ],
+    "desc": "HTTP Request & Response Service, written in Python + Flask.",
+    "forks": 1331,
+    "languages": {
+      "Python": 95451,
+      "HTML": 32078,
+      "Dockerfile": 537
+    }
+  },
+  {
+    "name": "codeforequity-at/botium-core",
+    "url": "https://github.com/codeforequity-at/botium-core",
+    "stars": 161,
+    "topics": [
+      "botium",
+      "selenium",
+      "chatbot",
+      "test-automation",
+      "testing-tools"
+    ],
+    "desc": "The Selenium for Chatbots - Bots Testing Bots",
+    "forks": 49,
+    "languages": {
+      "JavaScript": 748144,
+      "HTML": 1352
+    }
+  },
+  {
+    "name": "rafaeltoledo/unified-code-coverage-android",
+    "url": "https://github.com/rafaeltoledo/unified-code-coverage-android",
+    "stars": 151,
+    "topics": [
+      "jacoco",
+      "android",
+      "testing",
+      "gradle",
+      "code-coverage",
+      "kotlin"
+    ],
+    "desc": "Mixing the coverage data from both Instrumented and Unit tests",
+    "forks": 29,
+    "languages": {
+      "Java": 2479
+    }
+  },
+  {
+    "name": "SurpSG/diff-coverage-maven-plugin",
+    "url": "https://github.com/SurpSG/diff-coverage-maven-plugin",
+    "stars": 2,
+    "topics": [
+      "coverage",
+      "java",
+      "kotlin",
+      "jacoco",
+      "maven",
+      "maven-plugin",
+      "diff",
+      "diff-coverage",
+      "code-coverage"
+    ],
+    "desc": "Maven plugin for computing code coverage on modified code",
+    "forks": 0,
+    "languages": {
+      "Kotlin": 11618,
+      "Java": 1282
+    }
+  },
+  {
+    "name": "form-com/diff-coverage-gradle",
+    "url": "https://github.com/form-com/diff-coverage-gradle",
+    "stars": 10,
+    "topics": [
+      "coverage",
+      "java",
+      "kotlin",
+      "jacoco",
+      "gradle-plugin",
+      "gradle",
+      "diff",
+      "diff-coverage",
+      "code-coverage"
+    ],
+    "desc": "Gradle plugin for computing code coverage on modified code",
+    "forks": 1,
+    "languages": {
+      "Kotlin": 76233,
+      "Java": 1278
+    }
+  },
+  {
+    "name": "Invictum/serenity-reportportal-integration",
+    "url": "https://github.com/Invictum/serenity-reportportal-integration",
+    "stars": 17,
+    "topics": [
+      "automation",
+      "test-automation",
+      "serenity-bdd",
+      "serenity",
+      "reportportal",
+      "report-portal"
+    ],
+    "desc": "Serenity TAF integration with Report Portal",
+    "forks": 6,
+    "languages": {
+      "Java": 80342,
+      "Shell": 338
+    }
+  },
+  {
+    "name": "bloomberg/powerfulseal",
+    "url": "https://github.com/bloomberg/powerfulseal",
+    "stars": 1331,
+    "topics": [
+      "kubernetes",
+      "testing",
+      "openstack"
+    ],
+    "desc": "A powerful testing tool for Kubernetes clusters.",
+    "forks": 133,
+    "languages": {
+      "Python": 262257,
+      "JavaScript": 1605,
+      "Makefile": 1482,
+      "Dockerfile": 1373,
+      "Shell": 101
+    }
+  },
+  {
+    "name": "go-testfixtures/testfixtures",
+    "url": "https://github.com/go-testfixtures/testfixtures",
+    "stars": 537,
+    "topics": [
+      "go",
+      "testing",
+      "database",
+      "fixtures"
+    ],
+    "desc": "Ruby on Rails like test fixtures for Go. Write tests against a real database",
+    "forks": 42,
+    "languages": {
+      "Go": 54629,
+      "Dockerfile": 116
+    }
+  },
+  {
+    "name": "adobe/athena",
+    "url": "https://github.com/adobe/athena",
+    "stars": 14,
+    "topics": [
+      "performance-testing",
+      "functional-testing",
+      "api",
+      "microservices",
+      "testing",
+      "acceptance-testing",
+      "api-testing-framework",
+      "api-testing"
+    ],
+    "desc": "\ud83d\udee1A Performance and Functional Testing Engine for APIs",
+    "forks": 3,
+    "languages": {
+      "JavaScript": 131675,
+      "Shell": 6349,
+      "Dockerfile": 623
+    }
+  },
+  {
+    "name": "kotest/kotest",
+    "url": "https://github.com/kotest/kotest",
+    "stars": 2480,
+    "topics": [
+      "kotlin",
+      "matchers",
+      "assertions",
+      "testing",
+      "test",
+      "testing-tools",
+      "property-testing"
+    ],
+    "desc": "Powerful, elegant and flexible test framework for Kotlin",
+    "forks": 337,
+    "languages": {
+      "Kotlin": 2165235,
+      "HTML": 423,
+      "Java": 145
+    }
+  },
+  {
+    "name": "kotest/kotest",
+    "url": "https://github.com/kotest/kotest",
+    "stars": 2480,
+    "topics": [
+      "kotlin",
+      "matchers",
+      "assertions",
+      "testing",
+      "test",
+      "testing-tools",
+      "property-testing"
+    ],
+    "desc": "Powerful, elegant and flexible test framework for Kotlin",
+    "forks": 337,
+    "languages": {
+      "Kotlin": 2165235,
+      "HTML": 423,
+      "Java": 145
+    }
+  },
+  {
+    "name": "apiaryio/dredd",
+    "url": "https://github.com/apiaryio/dredd",
+    "stars": 3435,
+    "topics": [
+      "api-blueprint",
+      "dredd",
+      "swagger",
+      "api",
+      "testing",
+      "http",
+      "tests",
+      "openapi",
+      "openapi-validation",
+      "validation",
+      "sjs-team",
+      "test-runner",
+      "unit-testing",
+      "integration-testing",
+      "testing-framework",
+      "test-framework",
+      "cli-app",
+      "openapi2",
+      "openapi3"
+    ],
+    "desc": "Language-agnostic HTTP API Testing Tool",
+    "forks": 267,
+    "languages": {
+      "JavaScript": 816764,
+      "API Blueprint": 11758,
+      "TypeScript": 9062,
+      "Shell": 5684,
+      "Gherkin": 717
+    }
+  },
+  {
+    "name": "hcoles/pitest",
+    "url": "https://github.com/hcoles/pitest",
+    "stars": 1063,
+    "topics": [
+      "mutation-analysis",
+      "mutation-testing",
+      "coverage",
+      "junit",
+      "testng",
+      "testing",
+      "java"
+    ],
+    "desc": "State of the art mutation testing system for the JVM",
+    "forks": 252,
+    "languages": {
+      "Java": 2630778,
+      "HTML": 7293,
+      "CSS": 5514,
+      "Groovy": 949,
+      "Shell": 105
+    }
+  },
+  {
+    "name": "mockito/mockito",
+    "url": "https://github.com/mockito/mockito",
+    "stars": 10861,
+    "topics": [
+      "mockito",
+      "java",
+      "mocking-framework",
+      "testing-tools",
+      "mocking",
+      "mock",
+      "mocks",
+      "testing",
+      "test-automation",
+      "test-driven-development",
+      "mock-library",
+      "java-library"
+    ],
+    "desc": "Most popular Mocking framework for unit tests written in Java",
+    "forks": 1927,
+    "languages": {
+      "Java": 2989417,
+      "Kotlin": 13291,
+      "XSLT": 7593,
+      "Shell": 577
+    }
+  },
+  {
+    "name": "enzymejs/enzyme",
+    "url": "https://github.com/enzymejs/enzyme",
+    "stars": 18958,
+    "topics": [
+      "enzyme",
+      "react",
+      "mocha",
+      "react-components",
+      "ava",
+      "jest",
+      "chai",
+      "assertion-library",
+      "traversal",
+      "test-runners",
+      "test",
+      "testing",
+      "assertions",
+      "test-runner"
+    ],
+    "desc": "JavaScript Testing utilities for React",
+    "forks": 2047,
+    "languages": {
+      "JavaScript": 947937,
+      "Shell": 211
+    }
+  },
+  {
+    "name": "enzymejs/enzyme",
+    "url": "https://github.com/enzymejs/enzyme",
+    "stars": 18958,
+    "topics": [
+      "enzyme",
+      "react",
+      "mocha",
+      "react-components",
+      "ava",
+      "jest",
+      "chai",
+      "assertion-library",
+      "traversal",
+      "test-runners",
+      "test",
+      "testing",
+      "assertions",
+      "test-runner"
+    ],
+    "desc": "JavaScript Testing utilities for React",
+    "forks": 2047,
+    "languages": {
+      "JavaScript": 947937,
+      "Shell": 211
+    }
+  },
+  {
+    "name": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "stars": 51307,
+    "topics": [
+      "storybook",
+      "styleguide",
+      "testing",
+      "components",
+      "library",
+      "webpack",
+      "ui",
+      "react",
+      "vue",
+      "react-native",
+      "design-systems",
+      "javascript",
+      "angular",
+      "polymer",
+      "svelte",
+      "ember",
+      "ui-components",
+      "documentation",
+      "web-components",
+      "typescript"
+    ],
+    "desc": "\ud83d\udcd3 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!",
+    "forks": 4986,
+    "languages": {
+      "TypeScript": 1809691,
+      "JavaScript": 552955,
+      "Kotlin": 16466,
+      "HTML": 9802,
+      "Shell": 6318,
+      "Vue": 4946,
+      "CSS": 2112,
+      "Boo": 877
+    }
+  },
+  {
+    "name": "shengqiangzhang/examples-of-web-crawlers",
+    "url": "https://github.com/shengqiangzhang/examples-of-web-crawlers",
+    "stars": 8870,
+    "topics": [
+      "crawler",
+      "spider",
+      "taobao",
+      "tmall",
+      "example",
+      "python",
+      "selenium",
+      "pyquery",
+      "stock",
+      "fund",
+      "multithreading",
+      "agent-pool",
+      "wechat",
+      "wechat-report"
+    ],
+    "desc": "\u4e00\u4e9b\u975e\u5e38\u6709\u8da3\u7684python\u722c\u866b\u4f8b\u5b50,\u5bf9\u65b0\u624b\u6bd4\u8f83\u53cb\u597d,\u4e3b\u8981\u722c\u53d6\u6dd8\u5b9d\u3001\u5929\u732b\u3001\u5fae\u4fe1\u3001\u8c46\u74e3\u3001QQ\u7b49\u7f51\u7ad9\u3002(Some interesting examples of python crawlers that are friendly to beginners. )",
+    "forks": 2689,
+    "languages": {
+      "Python": 239788,
+      "HTML": 19201,
+      "JavaScript": 9372,
+      "CSS": 3728
+    }
+  },
+  {
+    "name": "quii/learn-go-with-tests",
+    "url": "https://github.com/quii/learn-go-with-tests",
+    "stars": 11537,
+    "topics": [
+      "tdd",
+      "golang",
+      "go",
+      "testing",
+      "test-driven-development"
+    ],
+    "desc": "Learn Go with test-driven development",
+    "forks": 1415,
+    "languages": {
+      "Go": 499805,
+      "HTML": 2912,
+      "Shell": 1632,
+      "TeX": 69
+    }
+  },
+  {
+    "name": "ovh/cds",
+    "url": "https://github.com/ovh/cds",
+    "stars": 3007,
+    "topics": [
+      "continuous-delivery",
+      "continuous-integration",
+      "continuous-deployment",
+      "automation",
+      "devops",
+      "devops-workflow",
+      "golang"
+    ],
+    "desc": "Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform",
+    "forks": 253,
+    "languages": {
+      "Go": 6399858,
+      "TypeScript": 1703633,
+      "HTML": 663174,
+      "CSS": 92491,
+      "TSQL": 87731,
+      "JavaScript": 82948,
+      "Rust": 65806,
+      "Makefile": 64414,
+      "PLpgSQL": 41089,
+      "Shell": 9422,
+      "SQLPL": 4248,
+      "Dockerfile": 3645,
+      "PLSQL": 1954,
+      "CoffeeScript": 1291
+    }
+  },
+  {
+    "name": "mefellows/muxy",
+    "url": "https://github.com/mefellows/muxy",
+    "stars": 738,
+    "topics": [
+      "chaos",
+      "testing",
+      "proxy",
+      "resilience",
+      "golang",
+      "chaos-engineering"
+    ],
+    "desc": "Chaos engineering tool for simulating real-world distributed system failures",
+    "forks": 28,
+    "languages": {
+      "Go": 133771,
+      "Shell": 2973,
+      "Ruby": 603,
+      "Makefile": 564
+    }
+  },
+  {
+    "name": "futuresimple/faas",
+    "url": "https://github.com/futuresimple/faas",
+    "stars": 16,
+    "topics": [
+      "testing",
+      "nomad",
+      "k8s",
+      "failure-injection",
+      "disaster-recovery",
+      "failure",
+      "failure-detection",
+      "chaos-engineering",
+      "chaos-testing"
+    ],
+    "desc": "Failure as a Service. Provides many misbehaviors... as a Service.",
+    "forks": 0,
+    "languages": {
+      "Python": 15214
+    }
+  },
+  {
+    "name": "alexei-led/pumba",
+    "url": "https://github.com/alexei-led/pumba",
+    "stars": 1713,
+    "topics": [
+      "docker",
+      "chaos",
+      "network-emulator",
+      "testing-tools",
+      "testing",
+      "chaos-monkey",
+      "chaos-testing",
+      "kubernetes",
+      "chaos-engineering",
+      "golang",
+      "stress-ng",
+      "stress-testing"
+    ],
+    "desc": "Chaos testing, network emulation and stress testing tool for containers",
+    "forks": 134,
+    "languages": {
+      "Go": 229829,
+      "Shell": 6933,
+      "Makefile": 6524,
+      "Dockerfile": 3312
+    }
+  },
+  {
+    "name": "asatarin/testing-distributed-systems",
+    "url": "https://github.com/asatarin/testing-distributed-systems",
+    "stars": 1042,
+    "topics": [
+      "testing",
+      "distributed-systems",
+      "jepsen-tests",
+      "jepsen",
+      "fault-injection",
+      "fuzzing"
+    ],
+    "desc": "Curated list of resources on testing distributed systems",
+    "forks": 95,
+    "languages": {
+      "HTML": 2926
+    }
+  },
+  {
+    "name": "chaostoolkit/chaostoolkit",
+    "url": "https://github.com/chaostoolkit/chaostoolkit",
+    "stars": 1051,
+    "topics": [
+      "chaostoolkit",
+      "chaos-engineering",
+      "automation",
+      "resiliency",
+      "reliability",
+      "reliability-engineering"
+    ],
+    "desc": "Chaos Engineering Experiments Automation & Orchestration",
+    "forks": 94,
+    "languages": {
+      "Python": 51984,
+      "Dockerfile": 703
+    }
+  },
+  {
+    "name": "linkedin/dynamometer",
+    "url": "https://github.com/linkedin/dynamometer",
+    "stars": 115,
+    "topics": [
+      "hadoop",
+      "hadoop-filesystem",
+      "hdfs",
+      "hdfs-dfs",
+      "testing",
+      "testing-tools",
+      "scale",
+      "scale-up",
+      "performance-testing",
+      "performance-test",
+      "performance-analysis",
+      "performance-metrics",
+      "hadoop-framework",
+      "hadoop-hdfs"
+    ],
+    "desc": "A tool for scale and performance testing of HDFS with a specific focus on the NameNode.",
+    "forks": 31,
+    "languages": {
+      "Java": 293526,
+      "Shell": 23767
+    }
+  },
+  {
+    "name": "automagica/automagica",
+    "url": "https://github.com/automagica/automagica",
+    "stars": 2224,
+    "topics": [
+      "rpa",
+      "robot",
+      "python",
+      "ai",
+      "desktop-automation",
+      "office-automation",
+      "macros",
+      "web-automation",
+      "automation",
+      "automagica",
+      "automagica-portal",
+      "uipath",
+      "autoit"
+    ],
+    "desc": "Open Source RPA \ud83e\udd16 Robotic Process Automation",
+    "forks": 314,
+    "languages": {
+      "Python": 313801,
+      "JavaScript": 7786,
+      "CSS": 2366,
+      "Dockerfile": 1243
+    }
+  },
+  {
+    "name": "pod4g/hiper",
+    "url": "https://github.com/pod4g/hiper",
+    "stars": 2604,
+    "topics": [
+      "statistical",
+      "analysis",
+      "performance",
+      "testing",
+      "tool",
+      "cli",
+      "web",
+      "frontend",
+      "webpages",
+      "pages",
+      "pagespeed",
+      "websites",
+      "audits",
+      "network",
+      "headless",
+      "broswer"
+    ],
+    "desc": "\ud83d\ude80 A statistical analysis tool for performance testing ",
+    "forks": 167,
+    "languages": {
+      "JavaScript": 21170
+    }
+  },
+  {
+    "name": "authorjapps/zerocode",
+    "url": "https://github.com/authorjapps/zerocode",
+    "stars": 396,
+    "topics": [
+      "soap",
+      "assertions",
+      "declarative",
+      "java",
+      "rest",
+      "api",
+      "testing",
+      "load",
+      "json",
+      "dsl",
+      "automation",
+      "runner",
+      "framework",
+      "contract",
+      "http",
+      "kafka",
+      "stream",
+      "producer",
+      "consumer",
+      "junit5"
+    ],
+    "desc": "A community-developed, free, open source, declarative API automation and load testing framework built using Java JUnit core runners for Http REST, SOAP, Security, Database, Kafka and much more. It enables to create and maintain test-cases with absolute ease.",
+    "forks": 167,
+    "languages": {
+      "Java": 887298,
+      "Dockerfile": 225
+    }
+  },
+  {
+    "name": "authorjapps/zerocode",
+    "url": "https://github.com/authorjapps/zerocode",
+    "stars": 396,
+    "topics": [
+      "soap",
+      "assertions",
+      "declarative",
+      "java",
+      "rest",
+      "api",
+      "testing",
+      "load",
+      "json",
+      "dsl",
+      "automation",
+      "runner",
+      "framework",
+      "contract",
+      "http",
+      "kafka",
+      "stream",
+      "producer",
+      "consumer",
+      "junit5"
+    ],
+    "desc": "A community-developed, free, open source, declarative API automation and load testing framework built using Java JUnit core runners for Http REST, SOAP, Security, Database, Kafka and much more. It enables to create and maintain test-cases with absolute ease.",
+    "forks": 167,
+    "languages": {
+      "Java": 887298,
+      "Dockerfile": 225
+    }
+  },
+  {
+    "name": "thoughtbot/factory_bot",
+    "url": "https://github.com/thoughtbot/factory_bot",
+    "stars": 6946,
+    "topics": [
+      "factory-girl",
+      "ruby",
+      "thoughtbot",
+      "rubygems",
+      "testing",
+      "fixtures",
+      "factories",
+      "rails",
+      "factory-bot"
+    ],
+    "desc": "A library for setting up Ruby objects as test data.",
+    "forks": 2166,
+    "languages": {
+      "Ruby": 267281,
+      "Gherkin": 2265
+    }
+  },
+  {
+    "name": "SpectoLabs/hoverfly",
+    "url": "https://github.com/SpectoLabs/hoverfly",
+    "stars": 1613,
+    "topics": [
+      "api-simulation",
+      "golang",
+      "proxy",
+      "mitm",
+      "testing-tools",
+      "mocking",
+      "stubbing",
+      "service-virtualization",
+      "http",
+      "https",
+      "testing",
+      "go",
+      "hoverfly"
+    ],
+    "desc": "Lightweight service virtualization/API simulation tool for developers and testers",
+    "forks": 159,
+    "languages": {
+      "Go": 1911776,
+      "Makefile": 2324,
+      "Shell": 2042,
+      "Dockerfile": 435
+    }
+  },
+  {
+    "name": "julien-lafont/Mocky",
+    "url": "https://github.com/julien-lafont/Mocky",
+    "stars": 1450,
+    "topics": [
+      "scala",
+      "mocky",
+      "javascript",
+      "mock",
+      "http",
+      "tools",
+      "testing",
+      "ci"
+    ],
+    "desc": "Generate custom HTTP responses, the simpler way to test your Web Services",
+    "forks": 227,
+    "languages": {
+      "TypeScript": 79058,
+      "Scala": 77261,
+      "CSS": 4367,
+      "HTML": 2138,
+      "Shell": 1309,
+      "TSQL": 1095,
+      "JavaScript": 588
+    }
+  },
+  {
+    "name": "rest-driver/rest-driver",
+    "url": "https://github.com/rest-driver/rest-driver",
+    "stars": 165,
+    "topics": [
+      "java",
+      "rest",
+      "testing"
+    ],
+    "desc": "Test Driver to test your RESTful services and clients",
+    "forks": 54,
+    "languages": {
+      "Java": 561448,
+      "Shell": 1618
+    }
+  },
+  {
+    "name": "linkedin/test-butler",
+    "url": "https://github.com/linkedin/test-butler",
+    "stars": 959,
+    "topics": [
+      "android",
+      "test-butler",
+      "android-emulator",
+      "testing",
+      "android-library",
+      "linkedin"
+    ],
+    "desc": "Reliable Android Testing, at your service",
+    "forks": 97,
+    "languages": {
+      "Java": 195156,
+      "Groovy": 1498
+    }
+  },
+  {
+    "name": "geerlingguy/mac-dev-playbook",
+    "url": "https://github.com/geerlingguy/mac-dev-playbook",
+    "stars": 2816,
+    "topics": [
+      "mac",
+      "macos",
+      "setup",
+      "developer",
+      "homebrew",
+      "automation",
+      "ansible",
+      "playbook"
+    ],
+    "desc": "Mac setup and configuration via Ansible.",
+    "forks": 830,
+    "languages": {}
+  },
+  {
+    "name": "react-cosmos/react-cosmos",
+    "url": "https://github.com/react-cosmos/react-cosmos",
+    "stars": 6324,
+    "topics": [
+      "react",
+      "devtools",
+      "ui",
+      "components",
+      "testing"
+    ],
+    "desc": "Dev environment for building scalable, high-quality user interfaces",
+    "forks": 277,
+    "languages": {
+      "TypeScript": 878907,
+      "JavaScript": 10964,
+      "HTML": 2583,
+      "CSS": 259
+    }
+  },
+  {
+    "name": "reportportal/reportportal",
+    "url": "https://github.com/reportportal/reportportal",
+    "stars": 1023,
+    "topics": [
+      "automation",
+      "automated-testing",
+      "reporting-engine",
+      "testing-tools"
+    ],
+    "desc": "Main Repository. Report Portal starts here - see readme below.",
+    "forks": 259,
+    "languages": {
+      "Shell": 2985
+    }
+  },
+  {
+    "name": "danielpalme/ReportGenerator",
+    "url": "https://github.com/danielpalme/ReportGenerator",
+    "stars": 1026,
+    "topics": [
+      "code-coverage",
+      "testing",
+      "tdd-utilities",
+      "reporting",
+      "dotnet-core"
+    ],
+    "desc": "ReportGenerator converts coverage reports generated by OpenCover, dotCover, Visual Studio, NCover, Cobertura, JaCoCo, Clover, gcov or lcov into human readable reports in various formats.",
+    "forks": 164,
+    "languages": {
+      "C#": 996967,
+      "CSS": 72731,
+      "TypeScript": 60477,
+      "PowerShell": 12567,
+      "JavaScript": 6550,
+      "F#": 3140,
+      "Java": 2366,
+      "Batchfile": 1526,
+      "HTML": 1096,
+      "Shell": 678,
+      "C++": 359
+    }
+  },
+  {
+    "name": "Blazemeter/taurus",
+    "url": "https://github.com/Blazemeter/taurus",
+    "stars": 1265,
+    "topics": [
+      "python",
+      "load-testing",
+      "performance",
+      "selenium",
+      "jmeter",
+      "gatling",
+      "jenkins"
+    ],
+    "desc": "Automation-friendly framework for Continuous Testing by",
+    "forks": 344,
+    "languages": {
+      "Python": 2070050,
+      "JavaScript": 25831,
+      "C#": 14922,
+      "Smarty": 14858,
+      "Scala": 14192,
+      "Shell": 13646,
+      "Java": 9732,
+      "PHP": 8787,
+      "RobotFramework": 6383,
+      "CSS": 5298,
+      "HTML": 5136,
+      "C": 5131,
+      "Ruby": 4184,
+      "Dockerfile": 3720,
+      "Batchfile": 3278,
+      "Groovy": 2704
+    }
+  },
+  {
+    "name": "prettydiff/prettydiff",
+    "url": "https://github.com/prettydiff/prettydiff",
+    "stars": 1504,
+    "topics": [
+      "beautifier",
+      "languages",
+      "diff",
+      "html",
+      "javascript",
+      "java",
+      "typescript",
+      "csharp",
+      "css",
+      "less",
+      "xml",
+      "html5",
+      "prettydiff",
+      "xhtml"
+    ],
+    "desc": "Beautifier and language aware code comparison tool for many languages. It also minifies and a few other things.",
+    "forks": 137,
+    "languages": {
+      "TypeScript": 1158449,
+      "HTML": 149234,
+      "CSS": 40251,
+      "JavaScript": 673,
+      "PHP": 619
+    }
+  },
+  {
+    "name": "buger/goreplay",
+    "url": "https://github.com/buger/goreplay",
+    "stars": 13099,
+    "topics": [
+      "go",
+      "testing",
+      "testing-tools",
+      "devops",
+      "qa"
+    ],
+    "desc": "GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.",
+    "forks": 1286,
+    "languages": {
+      "Go": 305885,
+      "JavaScript": 23601,
+      "HTML": 9873,
+      "CSS": 8630,
+      "Makefile": 4618,
+      "Ruby": 3526,
+      "Dockerfile": 265
+    }
+  },
+  {
+    "name": "postwoman-io/postwoman",
+    "url": "https://github.com/postwoman-io/postwoman",
+    "stars": 21309,
+    "topics": [
+      "api",
+      "api-client",
+      "api-rest",
+      "pwa",
+      "postwoman",
+      "liyasthomas",
+      "api-testing",
+      "vue",
+      "nuxt",
+      "vuejs",
+      "nuxtjs",
+      "tools",
+      "testing-tools",
+      "testing",
+      "graphql",
+      "websocket",
+      "developer-tools",
+      "spa",
+      "http-client",
+      "rest-api"
+    ],
+    "desc": "\ud83d\udc7d A free, fast and beautiful API request builder (web alternative to Postman) used by 70k+ developers. https://postwoman.io",
+    "forks": 1376,
+    "languages": {
+      "Vue": 352765,
+      "JavaScript": 78157,
+      "CSS": 17001,
+      "Dockerfile": 323
+    }
+  },
+  {
+    "name": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "stars": 22200,
+    "topics": [
+      "test",
+      "testing",
+      "testing-tools",
+      "test-suite",
+      "test-automation",
+      "test-runner",
+      "tests",
+      "javascript-tests",
+      "cypress",
+      "end-to-end-testing",
+      "e2e-testing",
+      "e2e-tests"
+    ],
+    "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "forks": 1330,
+    "languages": {
+      "JavaScript": 5856158,
+      "CSS": 944627,
+      "TypeScript": 901409,
+      "HTML": 301370,
+      "CoffeeScript": 76363,
+      "Shell": 2551
+    }
+  },
+  {
+    "name": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "stars": 22200,
+    "topics": [
+      "test",
+      "testing",
+      "testing-tools",
+      "test-suite",
+      "test-automation",
+      "test-runner",
+      "tests",
+      "javascript-tests",
+      "cypress",
+      "end-to-end-testing",
+      "e2e-testing",
+      "e2e-tests"
+    ],
+    "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "forks": 1330,
+    "languages": {
+      "JavaScript": 5856158,
+      "CSS": 944627,
+      "TypeScript": 901409,
+      "HTML": 301370,
+      "CoffeeScript": 76363,
+      "Shell": 2551
+    }
+  },
+  {
+    "name": "anas-qa/Quality-Assurance-Road-Map",
+    "url": "https://github.com/anas-qa/Quality-Assurance-Road-Map",
+    "stars": 353,
+    "topics": [
+      "testing",
+      "automation-test",
+      "roadmap",
+      "software-testing",
+      "e2e-testing",
+      "api-testing",
+      "quality-engineering"
+    ],
+    "desc": ":books: The starting point of your career as a Software Quality Assurance Engineer | Quality Automation Engineer :books:",
+    "forks": 84,
+    "languages": {}
+  },
+  {
+    "name": "eth-sri/ilf",
+    "url": "https://github.com/eth-sri/ilf",
+    "stars": 45,
+    "topics": [
+      "fuzzing",
+      "blockchain",
+      "smart-contracts",
+      "testing",
+      "symbolic-execution",
+      "machine-learning",
+      "imitation-learning"
+    ],
+    "desc": "AI based fuzzer based on imitation learning",
+    "forks": 6,
+    "languages": {
+      "Python": 334829,
+      "Go": 25308,
+      "JavaScript": 1684,
+      "Dockerfile": 1402
+    }
+  },
+  {
+    "name": "gaia-pipeline/gaia",
+    "url": "https://github.com/gaia-pipeline/gaia",
+    "stars": 4154,
+    "topics": [
+      "go",
+      "pipeline",
+      "automation",
+      "java",
+      "python",
+      "cplusplus",
+      "build",
+      "deployment",
+      "kubernetes",
+      "continuous-integration",
+      "continuous-delivery",
+      "continuous-testing",
+      "devops",
+      "devops-tools",
+      "ruby"
+    ],
+    "desc": "Build powerful pipelines in any programming language.",
+    "forks": 190,
+    "languages": {
+      "Go": 661382,
+      "Vue": 146499,
+      "Dockerfile": 22793,
+      "JavaScript": 11541,
+      "C++": 1336,
+      "Makefile": 1280,
+      "Java": 641,
+      "Ruby": 634,
+      "HTML": 543,
+      "Shell": 59
+    }
+  },
+  {
+    "name": "stretchr/testify",
+    "url": "https://github.com/stretchr/testify",
+    "stars": 11083,
+    "topics": [
+      "testify",
+      "go",
+      "assertions",
+      "mocking",
+      "golang",
+      "testing",
+      "toolkit"
+    ],
+    "desc": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+    "forks": 937,
+    "languages": {
+      "Go": 480355,
+      "Shell": 767
+    }
+  },
+  {
+    "name": "kiwitcms/Kiwi",
+    "url": "https://github.com/kiwitcms/Kiwi",
+    "stars": 517,
+    "topics": [
+      "testing",
+      "testing-tools",
+      "management",
+      "qa-team",
+      "qa",
+      "qatools",
+      "testopia",
+      "testlink"
+    ],
+    "desc": "the leading open source test management system",
+    "forks": 159,
+    "languages": {
+      "Python": 819532,
+      "HTML": 217192,
+      "JavaScript": 149525,
+      "CSS": 84979,
+      "Shell": 10926,
+      "Makefile": 4551,
+      "Dockerfile": 2769,
+      "Ruby": 931
+    }
+  },
+  {
+    "name": "360EntSecGroup-Skylar/goreporter",
+    "url": "https://github.com/360EntSecGroup-Skylar/goreporter",
+    "stars": 2714,
+    "topics": [
+      "codereview",
+      "reporter",
+      "golang",
+      "golang-tools",
+      "test",
+      "staticcheck",
+      "linter",
+      "unit-testing",
+      "static-analysis",
+      "unit-test",
+      "examination",
+      "quality-report"
+    ],
+    "desc": "A Golang tool that does static analysis, unit testing, code review and generate code quality report.",
+    "forks": 222,
+    "languages": {
+      "Go": 4647827,
+      "HTML": 1942665,
+      "Makefile": 2308,
+      "Emacs Lisp": 1605,
+      "Dockerfile": 1516,
+      "Vim script": 651,
+      "Shell": 283
+    }
+  },
+  {
+    "name": "codecentric/chaos-monkey-spring-boot",
+    "url": "https://github.com/codecentric/chaos-monkey-spring-boot",
+    "stars": 579,
+    "topics": [
+      "spring",
+      "spring-boot",
+      "spring-cloud",
+      "chaos-engineering",
+      "chaos-monkey",
+      "chaos-testing",
+      "chaostoolkit",
+      "testing",
+      "testing-tools",
+      "test-framework",
+      "engineering",
+      "spring-cloud-netflix"
+    ],
+    "desc": "Chaos Monkey for Spring Boot",
+    "forks": 110,
+    "languages": {
+      "Java": 243301,
+      "Shell": 274
+    }
+  },
+  {
+    "name": "seleniumbase/SeleniumBase",
+    "url": "https://github.com/seleniumbase/SeleniumBase",
+    "stars": 1599,
+    "topics": [
+      "pytest",
+      "end-to-end-testing",
+      "python",
+      "selenium",
+      "webdriver",
+      "selenium-python",
+      "github-actions",
+      "azure-devops",
+      "jenkins",
+      "e2e-tests",
+      "functional-testing",
+      "testing"
+    ],
+    "desc": "\u2705 Easy Web Automation and Testing with Selenium & pytest. Batteries included.",
+    "forks": 374,
+    "languages": {
+      "Python": 1169089,
+      "CSS": 64619,
+      "Shell": 14645,
+      "HTML": 9573,
+      "Dockerfile": 3185,
+      "JavaScript": 1612,
+      "Batchfile": 1527
+    }
+  },
+  {
+    "name": "seleniumbase/SeleniumBase",
+    "url": "https://github.com/seleniumbase/SeleniumBase",
+    "stars": 1599,
+    "topics": [
+      "pytest",
+      "end-to-end-testing",
+      "python",
+      "selenium",
+      "webdriver",
+      "selenium-python",
+      "github-actions",
+      "azure-devops",
+      "jenkins",
+      "e2e-tests",
+      "functional-testing",
+      "testing"
+    ],
+    "desc": "\u2705 Easy Web Automation and Testing with Selenium & pytest. Batteries included.",
+    "forks": 374,
+    "languages": {
+      "Python": 1169089,
+      "CSS": 64619,
+      "Shell": 14645,
+      "HTML": 9573,
+      "Dockerfile": 3185,
+      "JavaScript": 1612,
+      "Batchfile": 1527
+    }
+  },
+  {
+    "name": "fescobar/allure-docker-service",
+    "url": "https://github.com/fescobar/allure-docker-service",
+    "stars": 131,
+    "topics": [
+      "allure",
+      "docker",
+      "report",
+      "reporting",
+      "report-generator",
+      "reporting-tool",
+      "allure-framework",
+      "allure2",
+      "docker-compose",
+      "testing",
+      "testing-tools",
+      "automation",
+      "allure-api",
+      "allure-docker",
+      "allure-server",
+      "allure-docker-service",
+      "docker-container",
+      "api",
+      "emailable-report",
+      "kubernetes"
+    ],
+    "desc": "This docker container allows you to see up to date reports simply mounting your \"allure-results\" directory in the container (for a Single Project) or your \"projects\" directory (for Multiple Projects). Every time appears new results (generated for your tests), Allure Docker Service will detect those changes and it will generate a new report automatically (optional: send results / generate report through API), what you will see refreshing your browser.",
+    "forks": 45,
+    "languages": {
+      "Python": 35549,
+      "Shell": 20433,
+      "HTML": 15011,
+      "Java": 9723,
+      "Groovy": 4565,
+      "Dockerfile": 2753,
+      "PowerShell": 2606,
+      "TypeScript": 2501,
+      "C#": 2184,
+      "JavaScript": 2180,
+      "Gherkin": 2084
+    }
+  },
+  {
+    "name": "fescobar/allure-docker-service",
+    "url": "https://github.com/fescobar/allure-docker-service",
+    "stars": 131,
+    "topics": [
+      "allure",
+      "docker",
+      "report",
+      "reporting",
+      "report-generator",
+      "reporting-tool",
+      "allure-framework",
+      "allure2",
+      "docker-compose",
+      "testing",
+      "testing-tools",
+      "automation",
+      "allure-api",
+      "allure-docker",
+      "allure-server",
+      "allure-docker-service",
+      "docker-container",
+      "api",
+      "emailable-report",
+      "kubernetes"
+    ],
+    "desc": "This docker container allows you to see up to date reports simply mounting your \"allure-results\" directory in the container (for a Single Project) or your \"projects\" directory (for Multiple Projects). Every time appears new results (generated for your tests), Allure Docker Service will detect those changes and it will generate a new report automatically (optional: send results / generate report through API), what you will see refreshing your browser.",
+    "forks": 45,
+    "languages": {
+      "Python": 35549,
+      "Shell": 20433,
+      "HTML": 15011,
+      "Java": 9723,
+      "Groovy": 4565,
+      "Dockerfile": 2753,
+      "PowerShell": 2606,
+      "TypeScript": 2501,
+      "C#": 2184,
+      "JavaScript": 2180,
+      "Gherkin": 2084
+    }
+  },
+  {
+    "name": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "stars": 8635,
+    "topics": [
+      "automation",
+      "automated",
+      "iaas",
+      "ipaas",
+      "n8n",
+      "workflow",
+      "typescript",
+      "node",
+      "self-hosted",
+      "integrations",
+      "workflow-automation",
+      "cli",
+      "development",
+      "docker",
+      "low-code",
+      "low-code-plattform",
+      "low-code-development-platform",
+      "data-flow",
+      "integration-framework",
+      "apis"
+    ],
+    "desc": "Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.",
+    "forks": 617,
+    "languages": {
+      "TypeScript": 4497872,
+      "Vue": 331746,
+      "CSS": 9654,
+      "JavaScript": 6545,
+      "Dockerfile": 3309,
+      "Shell": 2007,
+      "HTML": 809,
+      "Batchfile": 71
+    }
+  },
+  {
+    "name": "amazingTest/Taisite-Platform",
+    "url": "https://github.com/amazingTest/Taisite-Platform",
+    "stars": 162,
+    "topics": [
+      "nlp",
+      "python3",
+      "flask",
+      "requests",
+      "apitest",
+      "backend",
+      "automated-testing",
+      "automation",
+      "cron-jobs",
+      "python",
+      "vue"
+    ],
+    "desc": "\u6700\u5f3a\u63a5\u53e3\u6d4b\u8bd5\u5e73\u53f0",
+    "forks": 95,
+    "languages": {
+      "Vue": 304302,
+      "Python": 158020,
+      "HTML": 42517,
+      "JavaScript": 42494,
+      "CSS": 28195
+    }
+  },
+  {
+    "name": "christian-draeger/page-content-tester",
+    "url": "https://github.com/christian-draeger/page-content-tester",
+    "stars": 13,
+    "topics": [
+      "java",
+      "junit",
+      "jsoup",
+      "dom-checks",
+      "page-fetcher",
+      "testing",
+      "test-automation",
+      "test-framework",
+      "testing-framework",
+      "dom"
+    ],
+    "desc": "Paco is a Java based framework for non-blocking and highly parallelized Dom testing.",
+    "forks": 4,
+    "languages": {
+      "Java": 84403,
+      "HTML": 747,
+      "Shell": 292
+    }
+  },
+  {
+    "name": "mysugr/sweetest",
+    "url": "https://github.com/mysugr/sweetest",
+    "stars": 14,
+    "topics": [
+      "testing-framework",
+      "automation-test",
+      "architecture",
+      "cucumber-jvm",
+      "mockito",
+      "testing"
+    ],
+    "desc": "Sweetens up your test code with good architecture and dependency management",
+    "forks": 0,
+    "languages": {
+      "Kotlin": 108074,
+      "Shell": 2057,
+      "Gherkin": 786
+    }
+  },
+  {
+    "name": "andrewjc/kheera-testrunner-android",
+    "url": "https://github.com/andrewjc/kheera-testrunner-android",
+    "stars": 17,
+    "topics": [
+      "bdd",
+      "android",
+      "testing-framework",
+      "testing-tools",
+      "testing",
+      "bdd-framework",
+      "gherkin",
+      "android-testing",
+      "android-automation",
+      "automation-framework",
+      "integration-testing"
+    ],
+    "desc": "BDD Framework for Android",
+    "forks": 3,
+    "languages": {
+      "Java": 238739,
+      "Shell": 951
+    }
+  },
+  {
+    "name": "mike-neck/kuickcheck",
+    "url": "https://github.com/mike-neck/kuickcheck",
+    "stars": 22,
+    "topics": [
+      "kotlin",
+      "testing",
+      "testing-framework",
+      "property-based-testing"
+    ],
+    "desc": "A property based testing framework for Kotlin",
+    "forks": 2,
+    "languages": {
+      "Kotlin": 175464
+    }
+  },
+  {
+    "name": "ZoranPandovski/awesome-testing-tools",
+    "url": "https://github.com/ZoranPandovski/awesome-testing-tools",
+    "stars": 39,
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "testing",
+      "testing-tools",
+      "test-automation",
+      "testing-framework",
+      "load-testing",
+      "penetration-testing",
+      "automated-testing",
+      "mobile-testing",
+      "performance-testing",
+      "test-framework",
+      "testing-practices",
+      "quality-assurance",
+      "qa",
+      "qatools",
+      "quality-assurance-framework",
+      "quality-assurance-library"
+    ],
+    "desc": ":wrench: A curated list of awesome testing tools :wrench:",
+    "forks": 19,
+    "languages": {}
+  },
+  {
+    "name": "capitalone/bash_shell_mock",
+    "url": "https://github.com/capitalone/bash_shell_mock",
+    "stars": 46,
+    "topics": [
+      "bash",
+      "shell-scripting",
+      "shell",
+      "mocking",
+      "testing",
+      "testing-framework"
+    ],
+    "desc": "A shell script mocking utility/framework for the BASH shell",
+    "forks": 20,
+    "languages": {
+      "Shell": 29710
+    }
+  },
+  {
+    "name": "bakdata/fluent-kafka-streams-tests",
+    "url": "https://github.com/bakdata/fluent-kafka-streams-tests",
+    "stars": 61,
+    "topics": [
+      "kafka-streams",
+      "testing",
+      "test-framework",
+      "testing-framework",
+      "avro",
+      "java"
+    ],
+    "desc": "Fluent Kafka Streams Test with Java",
+    "forks": 14,
+    "languages": {
+      "Java": 189334,
+      "Kotlin": 6625
+    }
+  },
+  {
+    "name": "TorXakis/TorXakis",
+    "url": "https://github.com/TorXakis/TorXakis",
+    "stars": 38,
+    "topics": [
+      "model",
+      "test",
+      "formal-methods",
+      "test-case-generation",
+      "test-suite",
+      "testing-framework",
+      "composable-models",
+      "testing-tool",
+      "executable-specification"
+    ],
+    "desc": "A tool for Model Based Testing",
+    "forks": 8,
+    "languages": {
+      "Haskell": 2386530,
+      "TeX": 121735,
+      "Java": 37791,
+      "Yacc": 31928,
+      "Shell": 9892,
+      "Logos": 6637,
+      "Batchfile": 5921,
+      "RPC": 2628,
+      "Dockerfile": 990
+    }
+  },
+  {
+    "name": "Testy/TestyTs",
+    "url": "https://github.com/Testy/TestyTs",
+    "stars": 47,
+    "topics": [
+      "typescript",
+      "testing",
+      "test-driven-development",
+      "testing-framework"
+    ],
+    "desc": "\u2714\ufe0f Modern TypeScript testing framework.",
+    "forks": 3,
+    "languages": {
+      "TypeScript": 88506,
+      "JavaScript": 414
+    }
+  },
+  {
+    "name": "Ginger-Automation/Ginger",
+    "url": "https://github.com/Ginger-Automation/Ginger",
+    "stars": 50,
+    "topics": [
+      "automation",
+      "automated",
+      "automatic",
+      "testing",
+      "testing-tools",
+      "test",
+      "test-driven-development",
+      "test-framework",
+      "testng",
+      "test-automation",
+      "testing-framework",
+      "tests",
+      "test-runner",
+      "amdocs",
+      "ginger",
+      "ginger-automation"
+    ],
+    "desc": "Ginger Automation IDE ",
+    "forks": 40,
+    "languages": {
+      "C#": 15814602,
+      "Java": 561525,
+      "CSS": 442451,
+      "HTML": 326745,
+      "JavaScript": 287324,
+      "Batchfile": 17234,
+      "TypeScript": 14434,
+      "Inno Setup": 11884,
+      "PowerShell": 8843,
+      "VBScript": 3554,
+      "PostScript": 2271,
+      "Python": 2229,
+      "RobotFramework": 868,
+      "Shell": 265
+    }
+  },
+  {
+    "name": "Ginger-Automation/Ginger",
+    "url": "https://github.com/Ginger-Automation/Ginger",
+    "stars": 50,
+    "topics": [
+      "automation",
+      "automated",
+      "automatic",
+      "testing",
+      "testing-tools",
+      "test",
+      "test-driven-development",
+      "test-framework",
+      "testng",
+      "test-automation",
+      "testing-framework",
+      "tests",
+      "test-runner",
+      "amdocs",
+      "ginger",
+      "ginger-automation"
+    ],
+    "desc": "Ginger Automation IDE ",
+    "forks": 40,
+    "languages": {
+      "C#": 15814602,
+      "Java": 561525,
+      "CSS": 442451,
+      "HTML": 326745,
+      "JavaScript": 287324,
+      "Batchfile": 17234,
+      "TypeScript": 14434,
+      "Inno Setup": 11884,
+      "PowerShell": 8843,
+      "VBScript": 3554,
+      "PostScript": 2271,
+      "Python": 2229,
+      "RobotFramework": 868,
+      "Shell": 265
+    }
+  },
+  {
+    "name": "Ginger-Automation/Ginger",
+    "url": "https://github.com/Ginger-Automation/Ginger",
+    "stars": 50,
+    "topics": [
+      "automation",
+      "automated",
+      "automatic",
+      "testing",
+      "testing-tools",
+      "test",
+      "test-driven-development",
+      "test-framework",
+      "testng",
+      "test-automation",
+      "testing-framework",
+      "tests",
+      "test-runner",
+      "amdocs",
+      "ginger",
+      "ginger-automation"
+    ],
+    "desc": "Ginger Automation IDE ",
+    "forks": 40,
+    "languages": {
+      "C#": 15814602,
+      "Java": 561525,
+      "CSS": 442451,
+      "HTML": 326745,
+      "JavaScript": 287324,
+      "Batchfile": 17234,
+      "TypeScript": 14434,
+      "Inno Setup": 11884,
+      "PowerShell": 8843,
+      "VBScript": 3554,
+      "PostScript": 2271,
+      "Python": 2229,
+      "RobotFramework": 868,
+      "Shell": 265
+    }
+  },
+  {
+    "name": "slawekradzyminski/AwesomeTesting",
+    "url": "https://github.com/slawekradzyminski/AwesomeTesting",
+    "stars": 53,
+    "topics": [
+      "java",
+      "test",
+      "testing",
+      "testing-framework",
+      "test-automation",
+      "test-automation-project",
+      "test-automation-harness",
+      "testing-tools",
+      "testing-library"
+    ],
+    "desc": "Awesome Testing Blog Tests",
+    "forks": 20,
+    "languages": {
+      "HTML": 2351785,
+      "Java": 115871,
+      "Shell": 66
+    }
+  },
+  {
+    "name": "slawekradzyminski/AwesomeTesting",
+    "url": "https://github.com/slawekradzyminski/AwesomeTesting",
+    "stars": 53,
+    "topics": [
+      "java",
+      "test",
+      "testing",
+      "testing-framework",
+      "test-automation",
+      "test-automation-project",
+      "test-automation-harness",
+      "testing-tools",
+      "testing-library"
+    ],
+    "desc": "Awesome Testing Blog Tests",
+    "forks": 20,
+    "languages": {
+      "HTML": 2351785,
+      "Java": 115871,
+      "Shell": 66
+    }
+  },
+  {
+    "name": "nhn/eat",
+    "url": "https://github.com/nhn/eat",
+    "stars": 39,
+    "topics": [
+      "functional-testing",
+      "json",
+      "load-testing",
+      "stress-testing",
+      "unit-testing",
+      "server-client-communication",
+      "testing",
+      "test",
+      "testing-tools",
+      "test-driven-development",
+      "testing-framework",
+      "test-automation",
+      "test-framework",
+      "test-runner",
+      "game-server-testing",
+      "game-server-test"
+    ],
+    "desc": "Json based scenario testing tool(which can have test for functional and non-functional)",
+    "forks": 4,
+    "languages": {
+      "Java": 329473
+    }
+  },
+  {
+    "name": "nhn/eat",
+    "url": "https://github.com/nhn/eat",
+    "stars": 39,
+    "topics": [
+      "functional-testing",
+      "json",
+      "load-testing",
+      "stress-testing",
+      "unit-testing",
+      "server-client-communication",
+      "testing",
+      "test",
+      "testing-tools",
+      "test-driven-development",
+      "testing-framework",
+      "test-automation",
+      "test-framework",
+      "test-runner",
+      "game-server-testing",
+      "game-server-test"
+    ],
+    "desc": "Json based scenario testing tool(which can have test for functional and non-functional)",
+    "forks": 4,
+    "languages": {
+      "Java": 329473
+    }
+  },
+  {
+    "name": "JakimLi/pandaria",
+    "url": "https://github.com/JakimLi/pandaria",
+    "stars": 54,
+    "topics": [
+      "api-testing",
+      "cucumber-jvm",
+      "automation-testing",
+      "automated-testing",
+      "testing",
+      "testing-framework",
+      "graphql-testing"
+    ],
+    "desc": "Lightweight API testing tool based on cucumber JVM",
+    "forks": 16,
+    "languages": {
+      "Java": 120188,
+      "Gherkin": 33854,
+      "TSQL": 1528,
+      "JavaScript": 39
+    }
+  },
+  {
+    "name": "retest/recheck-web",
+    "url": "https://github.com/retest/recheck-web",
+    "stars": 207,
+    "topics": [
+      "selenium-java",
+      "regression",
+      "testing-tools",
+      "test-automation",
+      "testing-framework",
+      "test-framework",
+      "golden-master",
+      "selenium",
+      "selenium-tests",
+      "cross-browser-testing",
+      "cross-device-testing",
+      "golden-masters",
+      "selenium-test",
+      "maintenance",
+      "unbreakable-tests",
+      "baseline",
+      "visual-testing",
+      "visual-regression-testing"
+    ],
+    "desc": "recheck for web apps \u2013 change comparison tool with local Golden Masters, Git-like ignore syntax and \"Unbreakable Selenium\" tests.",
+    "forks": 27,
+    "languages": {
+      "HTML": 652434,
+      "Java": 301357,
+      "CSS": 69687,
+      "JavaScript": 37592
+    }
+  },
+  {
+    "name": "dkorobtsov/automation-arsenal",
+    "url": "https://github.com/dkorobtsov/automation-arsenal",
+    "stars": 89,
+    "topics": [
+      "automation",
+      "curated-list",
+      "awesome-list",
+      "java",
+      "kotlin",
+      "kotlin-testing",
+      "java-tests",
+      "test-automation",
+      "testing",
+      "testing-framework",
+      "quality-assurance",
+      "tools",
+      "productivity",
+      "qa",
+      "qa-automation-test",
+      "unit-testing",
+      "integration-testing",
+      "android",
+      "webdriver",
+      "mocking"
+    ],
+    "desc": "Curated list of popular Java and Kotlin frameworks, libraries and tools related to software testing, quality assurance and adjacent processes automation.",
+    "forks": 12,
+    "languages": {}
+  },
+  {
+    "name": "dkorobtsov/automation-arsenal",
+    "url": "https://github.com/dkorobtsov/automation-arsenal",
+    "stars": 89,
+    "topics": [
+      "automation",
+      "curated-list",
+      "awesome-list",
+      "java",
+      "kotlin",
+      "kotlin-testing",
+      "java-tests",
+      "test-automation",
+      "testing",
+      "testing-framework",
+      "quality-assurance",
+      "tools",
+      "productivity",
+      "qa",
+      "qa-automation-test",
+      "unit-testing",
+      "integration-testing",
+      "android",
+      "webdriver",
+      "mocking"
+    ],
+    "desc": "Curated list of popular Java and Kotlin frameworks, libraries and tools related to software testing, quality assurance and adjacent processes automation.",
+    "forks": 12,
+    "languages": {}
+  },
+  {
+    "name": "Morgan-Stanley/testplan",
+    "url": "https://github.com/Morgan-Stanley/testplan",
+    "stars": 81,
+    "topics": [
+      "testplan",
+      "testing",
+      "testing-framework",
+      "blackbox-testing",
+      "integration-testing",
+      "multitest"
+    ],
+    "desc": "Testplan, a multi-testing framework, because unit tests can only go so far..",
+    "forks": 41,
+    "languages": {
+      "Python": 1990117,
+      "JavaScript": 530716,
+      "C++": 16983,
+      "CMake": 7173,
+      "Shell": 2991,
+      "HTML": 918,
+      "CSS": 62
+    }
+  },
+  {
+    "name": "ansible-community/molecule",
+    "url": "https://github.com/ansible-community/molecule",
+    "stars": 2816,
+    "topics": [
+      "python",
+      "ansible",
+      "testing",
+      "testing-framework",
+      "docker",
+      "testinfra",
+      "ansible-lint",
+      "molecule-driver",
+      "podman",
+      "cookiecutter-ansible"
+    ],
+    "desc": "Molecule aids in the development and testing of Ansible roles",
+    "forks": 493,
+    "languages": {
+      "Python": 605607,
+      "Dockerfile": 3404,
+      "Shell": 886
+    }
+  }
+]

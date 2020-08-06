@@ -3,7 +3,7 @@
 import requests
 from collectors.github.base import BaseGithubCollector, RadarRepo
 from collectors.github.github_config import GITHUB_TOKEN
-from extractors.supplement import load_json_file, write_dict_to_json_file
+from extractors.supplement import load_json_file, write_to_json_file
 
 STARRED_REPO_JSON_FILE = "./starred_repo.json"
 
@@ -53,7 +53,7 @@ class GithubSelfStarredRepoCollector(BaseGithubCollector):
         except Exception as e:
             print(e)
         ## TODO: add to decorator to save
-        write_dict_to_json_file(self.starred_repos, STARRED_REPO_JSON_FILE)
+        write_to_json_file(self.starred_repos, STARRED_REPO_JSON_FILE)
 
     def after_fetch(self):
         super().after_fetch()
