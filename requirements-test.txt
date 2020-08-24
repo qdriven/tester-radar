@@ -23,7 +23,7 @@ pluggy==0.13.1
 poyo==0.5.0
 py==1.9.0
 pycparser==2.20
-PyGithub==1.52
+PyGithub==1.53
 PyJWT==1.7.1
 pyOpenSSL==19.1.0
 pyparsing==2.4.7
