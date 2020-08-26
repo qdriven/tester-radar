@@ -23,9 +23,11 @@ class GithubRepoAnalyzer:
             for topic_key in topic_keys:
                 if topic_key in repo_detail['topics']:
                     self.result_repos.append(repo_detail)
-                
+
         return self.result_repos
 
+
 if __name__ == '__main__':
-    result = GithubRepoAnalyzer("./starred_repo.json").filter_by(["testing","test","selenium",'automation','diff','assertion'])
-    write_to_json_file(result,"testing_repo.json")
+    result = GithubRepoAnalyzer("./starred_repo.json").filter_by(
+        ["testing", "test", "selenium", 'automation', 'diff', 'assertion'])
+    write_to_json_file(result, "testing_repo.json")

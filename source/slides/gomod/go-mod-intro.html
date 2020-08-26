@@ -1,0 +1,31 @@
+<!doctype html><html><head><meta charset=UTF-8><title>Go Mod Intro - By Patrick</title><link rel=stylesheet href=https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.min.css><link rel=stylesheet href=https://cdn.staticfile.org/prism/1.15.0/themes/prism.min.css><link rel=stylesheet href=https://cdn.staticfile.org/KaTeX/0.10.0-rc.1/katex.min.css><link href=./css/chunk-vendors.4e4765ff.css rel=stylesheet></head><body><div><article id=webslides><section slide class="slide bg-black-blue aligncenter" image="https://source.unsplash.com/C1HhAQrbykQ/ .dark"><span class="background dark" style="background-image:url('https://source.unsplash.com/C1HhAQrbykQ/')"></span><div class=wrap wrap=true><h1 class="text-landing text-shadow">Go Mod Intro</h1><p class=text-intro>By Patrick</p></div></section><section slide class=slide><div class=wrap wrap=true><h2>Go Mod使用</h2><p>Go Mod 是用来管理GO的第三方依赖，一个项目中往往有很多的第三方依赖，JAVA中使用maven/gradle来管理，Go中就使用Go Mod来管理.</p><p>在Go V13版本之后，go mod 默认代开，所以就不行设置</p><pre class=language-textile><code class=language-textile><span class="token phrase">export GO111MODULE=on
+</span></code></pre></div></section><section slide class=slide><div class=wrap wrap=true><h2>Goland使用Go Mod</h2>创建Go Mod项目/或者选择项目支持Go Mod, 运行go mod init就可以初始化go mod 项目，通过go mod来管理项目的依赖 <img src=./img/enable-go-mod.jpg class=alignleft></div></section><section slide class=slide><div class=wrap wrap=true><h2>go mod的示范文件</h2><p><img src=./img/go-mod-file.jpg alt=img></p></div></section><section slide class=slide><div class=wrap wrap=true><p>需要注意三个点::</p><ol><li>module,这个就是项目的名称</li><li>require,需要的第三方依赖路径和版本的声明</li><li>replace,有些第三方依赖是私有仓库保存在本地，就用replace替换在require中的声明，简单说可以理解为把第三方依赖在github.com上的路径替换为本地路径</li></ol></div></section><section slide class=slide><div class=wrap wrap=true><h2>补充说明</h2><p>理解了以上几点，基本上可以使用go mod管理仓库了. 需要说明几点::</p><ol><li>go mod会根据go.mod文件把第三方的代码保存到本地，本地的路径是:: $GOPATH/pkg/mod目录相面，GOPATH的设置可以自己设定</li><li>如果遇到无法通过远程拿到代码，可以使用replace，把远程代码替换为本地目录里面的代码， 假设无法拿到 github.com/AOrg/ARepo的代码，可以把这些代码复制到本地一个目录，然后使用replace,用本地路径替换github.com/AOrg/ARepo</li></ol></div></section></article></div><script>window.pluginsOptions = {}
+
+
+
+    window.webslidesOptions = {}
+
+
+document.addEventListener('DOMContentLoaded', () => {
+    let isPrintMode = false;
+    if(~location.search.indexOf('print-pdf')){
+        isPrintMode = true;
+        WebSlides.registerPlugin('scroll', function(){});
+    }
+    const wsOptions = {
+        loop: false
+    };
+    if(window.webslidesOptions){
+        for (let i in webslidesOptions){
+            if(webslidesOptions.hasOwnProperty(i)){
+                wsOptions[i] = webslidesOptions[i];
+            }
+        }
+    }
+    const ws = new WebSlides(wsOptions)
+
+    window.wsInstance = ws;
+    if(isPrintMode){
+        ws.slides.forEach(s=>s.show())
+    }
+}, false)</script><script src=./js/chunk-vendors.js></script><script src=./js/go-mod-intro.js></script></body></html>

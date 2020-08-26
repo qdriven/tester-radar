@@ -1,0 +1,10 @@
+security:
+  - repos:
+    - name: safesql
+      url: https://github.com/stripe/safesql.git
+      stars:
+      description:
+
+  - blogs:
+      - https://owasp.org/www-community/attacks/SQL_Injection
+      - https://www.zaproxy.org/docs/api/
