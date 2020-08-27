@@ -1,5 +1,5 @@
 arrow==0.15.8
-attrs==19.3.0
+attrs==20.1.0
 binaryornot==0.4.4
 certifi==2020.6.20
 cffi==1.14.1
