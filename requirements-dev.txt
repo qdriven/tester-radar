@@ -6,7 +6,7 @@ applaunchservices==0.2.1
 appnope @ file:///opt/concourse/worker/volumes/live/0291c9e1-4b15-459f-623e-2770f55be269/volume/appnope_1594338395037/work
 appscript @ file:///opt/concourse/worker/volumes/live/50ca4c96-3090-40bb-6981-3a6114ed0af4/volume/appscript_1594840187551/work
 argh==0.26.2
-arrow==0.15.8
+arrow==0.16.0
 asn1crypto @ file:///opt/concourse/worker/volumes/live/29c500db-6cdf-4cc7-7df8-fca74d6f0b64/volume/asn1crypto_1594339172552/work
 astroid @ file:///opt/concourse/worker/volumes/live/21fd14a9-2a7e-484b-7394-5a9912cdcf80/volume/astroid_1592498459180/work
 astropy==4.0.1.post1
