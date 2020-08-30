@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-from collectors.github.readme_render import ReadmeRender
+from feeds.collectors.github import ReadmeRender
 
 rm_render = ReadmeRender()
 

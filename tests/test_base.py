@@ -1,9 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-from github.Repository import Repository
 
-from collectors.github.base import RadarRepo
-from collectors.github.client import make_default_gh_client_by_access_token
+from feeds.collectors.github import RadarRepo
+from feeds.collectors.github import make_default_gh_client_by_access_token
 
 
 def test_from_gh_repo():

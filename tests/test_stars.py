@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-from collectors.github.stars import GithubSelfStarredRepoCollector
+from feeds.collectors.github import GithubSelfStarredRepoCollector
 
 
 class TestGithubSelfStarredRepoCollector:
