@@ -41,7 +41,7 @@ conda-package-handling==1.7.0+0.g7c4a471.dirty
 conda-verify==3.4.2
 contextlib2==0.6.0.post1
 cookiecutter==1.7.2
-cryptography==2.9.2
+cryptography==3.1
 cycler==0.10.0
 Cython @ file:///opt/concourse/worker/volumes/live/6158b663-a4ca-4e19-7e05-8807e4f79146/volume/cython_1594835048880/work
 cytoolz==0.10.1
