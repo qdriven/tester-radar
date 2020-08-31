@@ -178,7 +178,7 @@ regex @ file:///opt/concourse/worker/volumes/live/93a9c6ee-7d77-4975-4d26-29732d
 requests @ file:///tmp/build/80754af9/requests_1592841827918/work
 rope==0.17.0
 Rtree==0.9.4
-ruamel-yaml==0.15.87
+ruamel-yaml==0.16.10
 scikit-image==0.16.2
 scikit-learn @ file:///opt/concourse/worker/volumes/live/47a3ec7c-70dc-43c0-7317-def24a8afaf5/volume/scikit-learn_1592503037057/work
 scipy @ file:///opt/concourse/worker/volumes/live/7f5e51f8-abf3-4409-4c56-a4fb14cc9869/volume/scipy_1593104185999/work
