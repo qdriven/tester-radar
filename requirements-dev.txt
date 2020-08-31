@@ -203,7 +203,7 @@ spyder @ file:///opt/concourse/worker/volumes/live/0e97f897-b36b-4f78-7283-e9990
 spyder-kernels @ file:///opt/concourse/worker/volumes/live/682c8d56-759f-49eb-7914-dbce4a625209/volume/spyder-kernels_1594751614984/work
 SQLAlchemy @ file:///opt/concourse/worker/volumes/live/45657106-f60d-42e1-6501-7d65be3b36ab/volume/sqlalchemy_1593446313078/work
 starlette==0.13.6
-statsmodels==0.11.1
+statsmodels==0.12.0
 sympy @ file:///opt/concourse/worker/volumes/live/32ef3b19-6d5e-459b-54bf-1bfa312324b4/volume/sympy_1594236601710/work
 tables==3.6.1
 tblib==1.6.0
