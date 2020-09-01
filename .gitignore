@@ -130,7 +130,7 @@ dmypy.json
 
 # Ignore Poetry's lock file
 poetry.lock
-feeds/collectors/github/github_config.py
+clients/github_config.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -1,0 +1,16 @@
+repos:
+  java:
+    - https://www.springboottutorial.com/
+    - https://medium.com/@peterlee2068/design-patten-in-spring-framework-24bfd07a449b
+    - https://blog.dsl-platform.com/
+    - https://reflectoring.io/
+    - https://concordion.org/tutorial/java/markdown/
+    - https://blogs.perficient.com/
+    - https://wcm.io/
+    - https://helm.sh/docs/intro/quickstart/
+  tools:
+    - http://swagger2markup.github.io/swagger2markup/1.3.3/
+  database:
+    - https://www.mysqltutorial.org/
+  front-end:
+    - http://vuele.tennetcn.com/#/element/zh-CN/component/installation

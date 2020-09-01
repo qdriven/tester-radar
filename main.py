@@ -1,22 +1,12 @@
 
 from fastapi import FastAPI
-from starlette.middleware.cors import CORSMiddleware
 
-from app.api.api import api_router
-from app.core.config import settings
+from app.schemas.gh_schemas import RadarGithubRepo
+from app.service import gh_service
 
-app = FastAPI(
-    title=settings.PROJECT_NAME, openapi_url=f"{settings.API_V1_STR}/openapi.json"
-)
-# Set all CORS enabled origins
-if settings.BACKEND_CORS_ORIGINS:
-    app.add_middleware(
-        CORSMiddleware,
-        allow_origins=[str(origin) for origin in settings.BACKEND_CORS_ORIGINS],
-        allow_credentials=True,
-        allow_methods=["*"],
-        allow_headers=["*"],
-    )
+app = FastAPI()
 
-app.include_router(api_router, prefix=settings.API_V1_STR)
 
+@app.get("/github", response_model=RadarGithubRepo)
+def get_github_repo_status(repo_name: str):
+    return gh_service.get_github_repo_info(repo_name)

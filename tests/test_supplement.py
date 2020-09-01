@@ -80,7 +80,7 @@
 # #
 # # def test_diff():
 # #     assert dict_1 == dict_2
-from feeds.extractors.supplement import load_json_file, write_to_json_file
+from backups.feeds.extractors.supplement import load_json_file, write_to_json_file
 
 
 def test_load_json_file():
