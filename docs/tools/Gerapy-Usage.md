@@ -6,14 +6,24 @@
 pip install gerapy
 ```
 
-## Run Gerapy
+## Run Gerapy for feeds project
 
 ```shell
-gerapy init
+gerapy init feeds
+cd feeds
 gerapy migrate
+gerapy initadmin
+
 gerapy runserver
 gerapy runserver 0.0.0.0:8888
 ```
+
+- create other users:
+
+```shell script
+gerapy createsuperuser
+```
+
 
 ## Docker Run
 
