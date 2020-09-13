@@ -1,0 +1,17 @@
+github:
+  search: https://github.com/search?q=openapi
+  items:
+    - openapi
+    - openapi manager
+  topics:
+    - openapi
+  repos:
+    - https://github.com/shinesolutions/swagger-aem
+    - https://github.com/ssfdust/full-stack-flask-smorest
+    - https://github.com/a526757124/openapi
+    - https://github.com/scm-manager/scm-openapi-plugin
+    - https://github.com/wild-bear-stack/CTrader-OpenApi-2.0-Manager
+    - https://github.com/tiangolo/fastapi
+    - https://github.com/duolatech/xapimanager
+    - https://github.com/codekuu/webnetter-API.git
+    - https://github.com/marshmallow-code/apispec.git

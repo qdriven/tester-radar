@@ -1,0 +1,59 @@
+github:
+  search: https://github.com/search?o=desc&q={{item}}&s=stars&type=Repositories
+  items:
+    - mock data
+    - mock
+    - mock server
+
+repos:
+  - https://github.com/nuysoft/Mock
+  - https://github.com/easy-mock/easy-mock
+  - https://github.com/lk-geimfari/mimesis
+  - https://github.com/Raathigesh/atmo
+  - https://github.com/APIs-guru/graphql-faker
+  - https://github.com/ufologist/puer-mock
+  - https://github.com/jsonzou/jmockdata
+  - https://github.com/nomemory/mockneat
+  - https://github.com/macacajs/macaca-datahub
+  - https://github.com/flftfqwxf/mockserver
+  - https://github.com/danibram/mocker-data-generator
+  - https://github.com/micromata/http-fake-backend
+  - https://github.com/thiagokimo/Faker
+  - https://github.com/mirrajabi/okhttp-json-mock
+  - https://github.com/mtedone/podam
+  - https://github.com/mmnaseri/spring-data-mock
+  - https://github.com/M6Web/superagent-mock
+  - https://github.com/subeeshcbabu/swagmock
+  - https://github.com/qiu8310/yod-mock
+  - https://github.com/pivotal-gss/mock-data
+  - https://github.com/muonsoft/openapi-mock
+  - https://github.com/brianlovin/figma-github-data
+  - https://github.com/bing-framework/Bing.MockData
+  - https://github.com/marksteve/datamock.js
+  - https://github.com/benawad/apollo-mocked-provider
+  - https://github.com/grug/data-mocks
+  - https://github.com/lavyun/better-mock
+  - https://github.com/booknds/swagger-data-generator
+  - https://github.com/TianlunXiong/DataStore
+  - https://github.com/1stdibs/relay-mock-network-layer
+  - https://github.com/natenho/Mockaco
+  - https://github.com/j-easy/easy-random.git
+  - https://github.com/mockito/mockito
+  - https://github.com/mock-server/mockserver
+  - https://github.com/testing-cabal/mock
+  - https://github.com/tomakehurst/wiremock
+  - https://github.com/julien-lafont/Mocky
+  - https://github.com/vektra/mockery
+  - https://github.com/mockoon/mockoon
+  - https://github.com/mockk/mockk
+  - https://github.com/Kong/mockbin
+  - https://github.com/nock/nock
+  - https://github.com/houbb/data-factory
+  - https://github.com/LeonardoFerreiraa/JBacon
+  - https://github.com/factoryfx/factoryfx
+  - https://github.com/henrik42/deeto
+  - https://github.com/GoodforGod/dummymaker
+  - https://github.com/lramosduarte/javaFactory
+  - https://github.com/srang/data-factory
+  - https://github.com/deib-polimi/tower4clouds
+  - https://github.com/jorge-aranda/data-factory-api-core
