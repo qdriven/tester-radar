@@ -1,5 +1,8 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 from clients import github_client
-from app.schemas import gh_schemas
+from app.github.schemas import gh_schemas
 
 client = github_client.make_client()
 

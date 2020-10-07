@@ -14,10 +14,12 @@
 
 from fastapi import FastAPI
 
-from app.endpoints.api import api_router
+from app.github.endpoints import gh_api_router
+from app.maven.maven_endpoints import maven_router
 
 app = FastAPI(
     title="test-radar", openapi_url=f"/openapi.json"
 )
 
-app.include_router(api_router, prefix="/radar")
+app.include_router(gh_api_router, prefix="/radar")
+app.include_router(maven_router,prefix="/maven")

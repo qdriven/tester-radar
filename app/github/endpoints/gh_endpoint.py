@@ -1,7 +1,7 @@
 from fastapi import APIRouter
 
-from app.schemas.gh_schemas import RadarGithubRepo
-from app.service import gh_service
+from app.github.schemas.gh_schemas import RadarGithubRepo
+from app.github.service import gh_service
 
 router = APIRouter()
 

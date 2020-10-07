@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+from typing import Optional
 
 from github.Repository import Repository
 from pydantic.main import BaseModel
@@ -21,7 +24,7 @@ class RadarGithubRepo(BaseModel):
     url: str
     stars: int
     topics: list
-    desc: str
+    desc: Optional[str]
     forks: int
     languages: dict
 
