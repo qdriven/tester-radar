@@ -7,7 +7,7 @@ h11==0.11.0
 httptools==0.1.1
 idna==2.10
 install==1.3.4
-pydantic==1.6.1
+pydantic==1.7.2
 PyGithub==1.53
 PyJWT==1.7.1
 requests==2.24.0
