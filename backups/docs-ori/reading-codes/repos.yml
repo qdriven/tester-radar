@@ -1,0 +1,5 @@
+repos:
+  projects:
+    - https://gitee.com/wukongcrm/72crm-java.git
+  demos:
+    - https://github.com/cijujoseph/activiti-analytics-spring-boot.git

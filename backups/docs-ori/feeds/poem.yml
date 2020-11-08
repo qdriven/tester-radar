@@ -44,7 +44,7 @@ repos:
   - https://github.com/prometheus-community/helm-charts
   - https://github.com/jsonzou/jmockdata-demo
   - https://github.com/stoplightio/prism
-  - https://docs.binance.org/guides/concepts/architecture.html
+  - https://docs-ori.binance.org/guides/concepts/architecture.html
   - https://cli.vuejs.org/guide/
   - https://github.com/ritchieng/the-incredible-pytorch
   - https://github.com/moznion

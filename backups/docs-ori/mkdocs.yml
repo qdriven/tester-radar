@@ -1,11 +1,11 @@
 site_name: pydantic
 site_description: Data validation and settings management using python 3.6 type hinting
 strict: true
-site_url: https://pydantic-docs.helpmanual.io/
+site_url: https://pydantic-docs-ori.helpmanual.io/
 
 theme:
   name: 'material'
-  custom_dir: 'docs/theme'
+  custom_dir: 'docs-ori/theme'
   palette:
     primary: pink
     accent: pink
@@ -53,7 +53,7 @@ markdown_extensions:
 - markdown.extensions.codehilite:
     guess_lang: false
 - markdown_include.include:
-    base_path: docs
+    base_path: docs-ori
 - toc:
     permalink: 🔗
 - admonition

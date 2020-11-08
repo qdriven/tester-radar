@@ -59,7 +59,7 @@ def get_artifact_info(g: Optional[str], a: Optional[str], v: Optional[str]) -> A
     print(search_url)
     response = requests.get(search_url)
     json_resp = response.json()
-    docs = json_resp['response']['docs']
+    docs = json_resp['response']['docs-ori']
     all_artifacts = AllArtifactsResponse()
     if len(docs) >= 1:
         for item in docs:

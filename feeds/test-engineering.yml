@@ -1,0 +1,14 @@
+test-engineering:
+  - repos:
+      - name: walmart
+        url: https://github.com/TestArmada/
+      - name: blazermeter
+        url: https://github.com/Blazemeter
+  - blogs:
+      - name: saucelab
+        url: https://saucelabs.com/
+      - name: blazermeter
+        url: https://www.blazemeter.com/
+  - events:
+      - https://conference.eurostarsoftwaretesting.com/
+      - https://www.softwaretestingnews.co.uk/products/national-software-testing-conference/

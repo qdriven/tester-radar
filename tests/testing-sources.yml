@@ -20,7 +20,7 @@ sites:
   - https://github.com/allure-framework/allure-core.git
   - https://github.com/allure-examples/allure-cucumber-example.git
   - https://github.com/allure-examples/allure-cucumber-jvm-example.git
-  - https://github.com/allure-framework/allure-docs.git
+  - https://github.com/allure-framework/allure-docs-ori.git
   - https://github.com/allure-examples/allure-gradle-testng-example.git
   - https://github.com/allure-examples/allure-java-lifecyclelistener-example.git
   - https://github.com/allure-examples/allure-junit-example.git

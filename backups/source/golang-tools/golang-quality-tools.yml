@@ -7,4 +7,4 @@ security:
 
   - blogs:
       - https://owasp.org/www-community/attacks/SQL_Injection
-      - https://www.zaproxy.org/docs/api/
+      - https://www.zaproxy.org/docs-ori/api/

@@ -1,0 +1,11 @@
+admin:
+  - golang:
+      - https://github.com/hequan2017/go-admin
+      - https://github.com/perfree/go-fastdfs-web
+      - https://github.com/flipped-aurora/gin-vue-admin
+      - https://github.com/go-admin-team/go-admin
+github-search-kw:
+  - go admin
+
+docs:
+  - https://gorm.io/docs/index.html

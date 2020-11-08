@@ -7,7 +7,7 @@ repos:
     - https://concordion.org/tutorial/java/markdown/
     - https://blogs.perficient.com/
     - https://wcm.io/
-    - https://helm.sh/docs/intro/quickstart/
+    - https://helm.sh/docs-ori/intro/quickstart/
   tools:
     - http://swagger2markup.github.io/swagger2markup/1.3.3/
   database:
