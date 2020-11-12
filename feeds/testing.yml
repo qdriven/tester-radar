@@ -1,0 +1,58 @@
+repos:
+  - https://github.com/Blazemeter/taurus
+  - https://github.com/link1st/go-stress-testing
+  - https://github.com/zyanycall/stressTestPlatform
+  - https://github.com/serputko/performance-testing-framework
+  - https://github.com/kubernauts/jmeter-kubernetes
+  - https://github.com/mingrammer/go-web-framework-stars
+  - https://github.com/flipped-aurora/gin-vue-admin
+  - https://github.com/go-redis/redis
+  - https://github.com/zolyfarkas/spf4j
+json:
+  - https://github.com/json-iterator
+  - https://github.com/cdimascio/kotlin-openapi-spring-functional-template
+  - https://github.com/kelvoNgash/OpenAPI3-SpringDoc
+  - https://github.com/hendisantika/springdoc-openapi-sample
+  - https://github.com/redisson/redisson#quick-start
+api:
+  - https://github.com/yosriady/api-development-tools
+  - https://github.com/TrainingByPackt/Python-API-Development-Fundamentals
+  - https://github.com/stdlib/lib
+  - https://github.com/noirbizarre/flask-restplus
+  - https://github.com/apify/apify-js
+  - https://github.com/hackebrot/pytest-tricks
+  - https://github.com/startupengine/startupengine
+  - https://github.com/jamyzhang/APIDesign
+  - https://github.com/TommyLemon/APIAuto
+ui:
+  - https://github.com/FluentLenium/FluentLenium
+ci:
+  - https://github.com/crosscloudci/crosscloudci
+  - https://github.com/badges/daily-tests
+github:
+  - https://github.com/bonfy/github-trending
+  - https://github.com/alexandersideris/github-gardener-bot
+  - https://github.com/kujian/githubTrending
+  - https://github.com/headllines/github-daily
+  - https://github.com/HaoZhang95/dailyfresh
+  - https://github.com/EvanLi/Github-Ranking
+  - https://github.com/TauWu/weibo_daily_hotkey
+  - https://github.com/spencerkimball/repo-digest
+  - https://github.com/henson/Scraper
+  - https://github.com/freedomofkeima/github-profile-visualizer
+  - https://github.com/hasboeuf/yogit
+  - https://github.com/quasoft/trending-daily
+  - https://github.com/able8/github-trending-daily-record
+  - https://github.com/gdml/daily-hero
+  - https://github.com/kernel1994/Algorithm_Daily
+  - https://github.com/willin/github-trending
+  - https://github.com/leeweir/github-trending
+  - https://github.com/gwen001/github-search
+  - https://github.com/github-serendipity/github-serendipity.github.io
+  - https://github.com/donnemartin/gitsome
+  - https://github.com/hacker-tools/hacker-tools.github.io
+  - https://github.com/AntBranch/awesome-github
+  - https://github.com/googleapis/github-repo-automation
+  - https://github.com/reviewdog/reviewdog
+  - https://github.com/fffaraz/awesome-github
+  - https://github.com/conventional-changelog/releaser-tools
