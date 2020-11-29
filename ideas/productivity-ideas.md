@@ -17,4 +17,5 @@
 - airtables
 - seatables
 - others
-
+- https://vika.cn/help/manual-1-what-is-vikadata/
+- https://developers.weixin.qq.com/community/develop/mixflow
