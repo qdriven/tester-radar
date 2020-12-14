@@ -1,5 +1,0 @@
-func(self *CmpControllReader) {{methodNameUpper}}(contractAddrHex,addrHex string){
-	addrx, _ := utils.AddressFromHexString(addrHex)
-	params := []interface{}{adminAddr}
-	self.SendPreExecuteTx(contractAddrHex,"{{methodName}}",params)
-}
