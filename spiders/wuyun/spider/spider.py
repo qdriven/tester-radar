@@ -4,8 +4,9 @@
 from datetime import datetime
 import pymongo
 import scrapy
-from wooyun.items import WooyunItem
-from scrapy.conf import settings
+
+from spiders.wuyun import settings
+from spiders.wuyun.items import WooyunItem
 
 
 class WooyunSpider(scrapy.Spider):
