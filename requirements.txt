@@ -4,7 +4,7 @@ asyncpg==0.21.0
 certifi==2020.12.5
 chardet==3.0.4
 databases==0.4.1
-fastapi==0.62.0
+fastapi==0.63.0
 idna==2.10
 pydantic==1.7.3
 pydantic-sqlalchemy==0.0.8.post1
