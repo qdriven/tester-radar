@@ -5,7 +5,7 @@ certifi==2020.12.5
 chardet==3.0.4
 databases==0.4.1
 fastapi==0.62.0
-idna==2.10
+idna==3.0
 pydantic==1.7.3
 pydantic-sqlalchemy==0.0.8.post1
 PyMySQL==0.9.3
