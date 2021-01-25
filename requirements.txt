@@ -1,5 +1,5 @@
 aiomysql==0.0.21
-aiosqlite==0.16.0
+aiosqlite==0.16.1
 asyncpg==0.21.0
 certifi==2020.12.5
 chardet==3.0.4
