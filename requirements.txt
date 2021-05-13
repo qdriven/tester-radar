@@ -11,6 +11,6 @@ pydantic-sqlalchemy==0.0.8.post1
 PyMySQL==0.9.3
 requests==2.25.0
 SQLAlchemy==1.4.14
-starlette==0.13.6
+starlette==0.14.2
 typing-extensions==3.7.4.3
 urllib3==1.26.4
