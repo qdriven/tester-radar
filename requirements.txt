@@ -13,4 +13,4 @@ requests==2.25.0
 SQLAlchemy==1.4.14
 starlette==0.13.6
 typing-extensions==3.7.4.3
-urllib3==1.26.2
+urllib3==1.26.4
