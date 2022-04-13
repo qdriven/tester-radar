@@ -1,3 +1,25 @@
+sites:
+  - https://www.tutorialspoint.com/software_testing_dictionary/test_case.html
+  - https://www.broadcom.com/
+  - https://www.browserstack.com/guide/how-to-write-test-cases
+  - https://accelatest.com/
+  - https://www.softwaretestinghelp.com/writing-test-cases-from-srs-software-testing-qa-training-day-4/
+  - https://testlio.com/blog/functional-test-cases/
+  - https://softwaretestingfundamentals.com/test-case/#google_vignette
+  - https://www.guru99.com/
+  - https://sspai.com/
+  - https://www.saasruanjian.com/
+  - https://cloud.tencent.com/developer/column/1088
+  - https://github.com/ligurio
+  - https://github.com/SC-CS-KS
+  - https://github.com/ZoranPandovski/awesome-testing-tools
+  - https://reqtest.com/requirements-blog/requirements-document-template/
+  - https://geteasyqa.com/qa/best-test-plan-template/
+  - https://www.lambdatest.com/
+  - https://doctemplates.us/10-user-story-card-template/
+  - https://www.solutionsiq.com/learning/blog-post/agile-story-card-templates/
+  - https://apitransform.com/how-to-add-postman-collection-to-github/
+  
 test-engineering:
   - repos:
       - name: walmart
