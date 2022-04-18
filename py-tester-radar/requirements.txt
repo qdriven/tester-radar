@@ -12,5 +12,5 @@ PyMySQL==1.0.2
 requests==2.25.0
 SQLAlchemy==1.4.14
 starlette==0.14.2
-typing-extensions==3.7.4.3
+typing-extensions==4.2.0
 urllib3==1.26.4
