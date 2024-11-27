@@ -7,7 +7,7 @@ databases==0.4.1
 fastapi==0.64.0
 idna==3.1
 pydantic==1.7.4
-pydantic-sqlalchemy==0.0.8.post1
+pydantic-sqlalchemy==0.0.9
 PyMySQL==1.0.2
 requests==2.25.0
 SQLAlchemy==1.4.14
